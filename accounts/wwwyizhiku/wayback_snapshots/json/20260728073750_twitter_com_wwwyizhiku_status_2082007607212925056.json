@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2077000098836545536",
+    "conversation_id": "2082007607212925056",
+    "created_at": "2026-07-28T07:37:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T08:37:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082007607212925056"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ghostlingmox/s…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/ghostlingmox/status/2081840901144625478",
+          "start": 7,
+          "url": "https://t.co/5iCe5Q4oK0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082007607212925056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081840901144625478",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我操 学会了 https://t.co/5iCe5Q4oK0"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 17496,
+        "height": 1162,
+        "media_key": "13_2081840823579348992",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2081840823579348992/img/x_7QcEhxpeRHmyhm.jpg",
+        "public_metrics": {
+          "view_count": 2581
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081840823579348992/vid/avc1/320x564/fuyN98z3D6-2qgQo.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081840823579348992/vid/avc1/480x846/q32SBDF-wn2XXilR.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081840823579348992/vid/avc1/658x1162/QlDbWJuwgu04La_m.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2081840823579348992/pl/SN8cKdsd_F5l1Dlh.m3u8?v=cfc"
+          }
+        ],
+        "width": 658
+      },
+      {
+        "height": 778,
+        "media_key": "3_2081840823562616832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOQvMu9bQAAfARE.jpg",
+        "width": 700
+      },
+      {
+        "height": 925,
+        "media_key": "3_2081840823554195456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOQvMu7awAATgDP.jpg",
+        "width": 710
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077000098836545536",
+        "conversation_id": "2082007607212925056",
+        "created_at": "2026-07-28T07:37:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T08:37:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082007607212925056"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ghostlingmox/s…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/ghostlingmox/status/2081840901144625478",
+              "start": 7,
+              "url": "https://t.co/5iCe5Q4oK0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082007607212925056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081840901144625478",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我操 学会了 https://t.co/5iCe5Q4oK0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2081840823579348992",
+            "3_2081840823562616832",
+            "3_2081840823554195456"
+          ]
+        },
+        "author_id": "2052267489418256384",
+        "conversation_id": "2081840901144625478",
+        "created_at": "2026-07-27T20:35:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T21:35:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081840901144625478"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hMqT8CeCRr",
+              "end": 138,
+              "expanded_url": "https://x.com/ghostlingmox/status/2081840901144625478/video/1",
+              "media_key": "13_2081840823579348992",
+              "start": 115,
+              "url": "https://t.co/hMqT8CeCRr"
+            },
+            {
+              "display_url": "pic.x.com/hMqT8CeCRr",
+              "end": 138,
+              "expanded_url": "https://x.com/ghostlingmox/status/2081840901144625478/video/1",
+              "media_key": "3_2081840823562616832",
+              "start": 115,
+              "url": "https://t.co/hMqT8CeCRr"
+            },
+            {
+              "display_url": "pic.x.com/hMqT8CeCRr",
+              "end": 138,
+              "expanded_url": "https://x.com/ghostlingmox/status/2081840901144625478/video/1",
+              "media_key": "3_2081840823554195456",
+              "start": 115,
+              "url": "https://t.co/hMqT8CeCRr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081840901144625478",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 46,
+          "impression_count": 3563,
+          "like_count": 542,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 44
+        },
+        "reply_settings": "everyone",
+        "text": "⚠️⚠️⚠️‼️‼️‼️ALLL FAKEEEE !!! WORKING ON SFX MAKEUP EFFECTS !! NOT REAL !!! ‼️‼️‼️⚠️⚠️⚠️\n\nmy little pre shower sesh https://t.co/hMqT8CeCRr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-14T12:04:19.000Z",
+        "description": "kk/哭哭 一只海豹 sh/od内容 努力游出贝加尔湖 互关寻回中…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sealak",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sealak",
+                "start": 0,
+                "url": "https://t.co/mJiD4M1sS9"
+              }
+            ]
+          }
+        },
+        "id": "2077000098836545536",
+        "location": "贝加尔湖畔",
+        "name": "总而言之我哥哥非常非常好",
+        "pinned_tweet_id": "2079565491266531784",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077002116032303104/OOsRJMcA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 82,
+          "like_count": 445,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 361
+        },
+        "url": "https://t.co/mJiD4M1sS9",
+        "username": "wwwyizhiku",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-07T06:07:47.000Z",
+        "description": "°❀⋆.ೃ࿔*:･°❀⋆.ೃ࿔*:･\n8𝚝𝚎𝚎𝚗 ⋆ . ࿔ ˚ \n𝚠𝚘𝚘𝚏 𝚠𝚘𝚘𝚏 ⋆🐾⋆\n𝚐𝚠: 110-115𝚕𝚋𝚜 ⋆. 𐙚 ˚ #shtwt ✃𓄧꒷꒦\n𝙼𝚘𝚡𝚒𝚎 + 𝙰𝚜𝚝𝚛𝚘 ᢉ𐭩",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 76,
+                "start": 70,
+                "tag": "shtwt"
+              }
+            ]
+          }
+        },
+        "id": "2052267489418256384",
+        "name": "𝘔𝘰𝘹𝘪𝘦 - ! 𝘴𝘩𝘵𝘸𝘵 !",
+        "pinned_tweet_id": "2081374037654360517",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081554831957999616/KE_jEYxE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 67,
+          "like_count": 575,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 166
+        },
+        "url": "",
+        "username": "ghostlingmox",
+        "verified": false
+      }
+    ]
+  }
+}

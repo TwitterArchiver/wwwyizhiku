@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2077000098836545536",
+    "conversation_id": "2078454490382975483",
+    "created_at": "2026-07-18T12:19:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T13:19:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078454490382975483"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/X1anx1anZong/s…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/X1anx1anZong/status/2078153703656452176",
+          "start": 4,
+          "url": "https://t.co/7qcR8HEVcp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078454490382975483",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078153703656452176",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "嗯呢对 https://t.co/7qcR8HEVcp"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077000098836545536",
+        "conversation_id": "2078454490382975483",
+        "created_at": "2026-07-18T12:19:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T13:19:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078454490382975483"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/X1anx1anZong/s…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/X1anx1anZong/status/2078153703656452176",
+              "start": 4,
+              "url": "https://t.co/7qcR8HEVcp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078454490382975483",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078153703656452176",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "嗯呢对 https://t.co/7qcR8HEVcp"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1651273923114455041",
+        "conversation_id": "2078153703656452176",
+        "created_at": "2026-07-17T16:23:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T17:23:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078153703656452176"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078153703656452176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 50108,
+          "like_count": 403,
+          "quote_count": 7,
+          "reply_count": 58,
+          "retweet_count": 28
+        },
+        "reply_settings": "everyone",
+        "text": "双相是真的难受 谁懂飞机打到一半抑郁发作的感觉吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-14T12:04:19.000Z",
+        "description": "kk/哭哭 一只海豹，努力游出贝加尔湖",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sealak",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sealak",
+                "start": 0,
+                "url": "https://t.co/mJiD4M1sS9"
+              }
+            ]
+          }
+        },
+        "id": "2077000098836545536",
+        "location": "贝加尔湖畔",
+        "name": "总而言之我哥哥非常非常好",
+        "pinned_tweet_id": "2077660228103860393",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077002116032303104/OOsRJMcA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 41,
+          "like_count": 139,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 111
+        },
+        "url": "https://t.co/mJiD4M1sS9",
+        "username": "wwwyizhiku",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-26T17:16:06.000Z",
+        "description": "奥特之父人间体/荣誉霓虹人/理性蒸发EX  1000円ちょーだい😋🤲\n\n来世に期待",
+        "id": "1651273923114455041",
+        "location": "魔女裁判",
+        "name": "我智力有问题",
+        "pinned_tweet_id": "1758893566326415693",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039711550400057345/hBevM-k0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2869,
+          "following_count": 58,
+          "like_count": 20397,
+          "listed_count": 5,
+          "media_count": 330,
+          "tweet_count": 11985
+        },
+        "url": "",
+        "username": "X1anx1anZong",
+        "verified": false
+      }
+    ]
+  }
+}

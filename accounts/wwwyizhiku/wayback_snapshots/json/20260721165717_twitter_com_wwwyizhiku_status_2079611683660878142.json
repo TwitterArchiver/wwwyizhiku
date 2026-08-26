@@ -1,0 +1,720 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2077000098836545536",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1550444438127685635",
+          "name": "NewJeans"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1612562270415998979",
+          "name": "NewJeans"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "id": "1550444438127685635",
+          "name": "NewJeans"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "id": "1612562270415998979",
+          "name": "NewJeans"
+        }
+      },
+      {
+        "domain": {
+          "description": "A category for a musical style, like Pop, Rock, or Rap",
+          "id": "55",
+          "name": "Music Genre"
+        },
+        "entity": {
+          "description": "K-Pop",
+          "id": "888105153038958593",
+          "name": "K-pop"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "K-Pop",
+          "id": "888105153038958593",
+          "name": "K-pop"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1550444438127685635",
+          "name": "NewJeans"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "FOR ANIMATION AND COMICS ONLY - DO NOT USE IF YOU NEED MUSIC.",
+          "id": "1585792216395436032",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1612562270415998979",
+          "name": "NewJeans"
+        }
+      }
+    ],
+    "conversation_id": "2079611683660878142",
+    "created_at": "2026-07-21T16:57:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T17:57:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079611683660878142"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 103,
+          "start": 94,
+          "tag": "NewJeans"
+        },
+        {
+          "end": 108,
+          "start": 104,
+          "tag": "뉴진스"
+        },
+        {
+          "end": 121,
+          "start": 109,
+          "tag": "NewJeansDay"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1476476838180696073",
+          "start": 3,
+          "username": "NewJeans_ADOR"
+        }
+      ],
+      "urls": [
+        {
+          "description": "2026 Summer of NewJeans : HANNICreative Director : Nayeon KimCre...",
+          "display_url": "youtu.be/Fq-A3aLqmms",
+          "end": 92,
+          "expanded_url": "https://youtu.be/Fq-A3aLqmms",
+          "images": [
+            {
+              "height": 720,
+              "url": "https://pbs.twimg.com/news_img/2079582367484887040/hHwor7qO?format=jpg&name=orig",
+              "width": 1280
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2079582367484887040/hHwor7qO?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 69,
+          "status": 200,
+          "title": "2026 Summer of NewJeans : HANNI",
+          "unwound_url": "https://www.youtube.com/watch?v=Fq-A3aLqmms&feature=youtu.be",
+          "url": "https://t.co/ihXR6UP1FH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079611683660878142",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1963
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079582325051146683",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NewJeans_ADOR: [NewJeans Day🎂]\n2026 Summer of NewJeans : HANNI\n\n🔗https://t.co/ihXR6UP1FH\n\n#NewJeans #뉴진스\n#NewJeansDay #NewJeans_4th_Ann…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077000098836545536",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1550444438127685635",
+              "name": "NewJeans"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1612562270415998979",
+              "name": "NewJeans"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1550444438127685635",
+              "name": "NewJeans"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1612562270415998979",
+              "name": "NewJeans"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1550444438127685635",
+              "name": "NewJeans"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "FOR ANIMATION AND COMICS ONLY - DO NOT USE IF YOU NEED MUSIC.",
+              "id": "1585792216395436032",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1612562270415998979",
+              "name": "NewJeans"
+            }
+          }
+        ],
+        "conversation_id": "2079611683660878142",
+        "created_at": "2026-07-21T16:57:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T17:57:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079611683660878142"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 103,
+              "start": 94,
+              "tag": "NewJeans"
+            },
+            {
+              "end": 108,
+              "start": 104,
+              "tag": "뉴진스"
+            },
+            {
+              "end": 121,
+              "start": 109,
+              "tag": "NewJeansDay"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1476476838180696073",
+              "start": 3,
+              "username": "NewJeans_ADOR"
+            }
+          ],
+          "urls": [
+            {
+              "description": "2026 Summer of NewJeans : HANNICreative Director : Nayeon KimCre...",
+              "display_url": "youtu.be/Fq-A3aLqmms",
+              "end": 92,
+              "expanded_url": "https://youtu.be/Fq-A3aLqmms",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/2079582367484887040/hHwor7qO?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2079582367484887040/hHwor7qO?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 69,
+              "status": 200,
+              "title": "2026 Summer of NewJeans : HANNI",
+              "unwound_url": "https://www.youtube.com/watch?v=Fq-A3aLqmms&feature=youtu.be",
+              "url": "https://t.co/ihXR6UP1FH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079611683660878142",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1963
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079582325051146683",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NewJeans_ADOR: [NewJeans Day🎂]\n2026 Summer of NewJeans : HANNI\n\n🔗https://t.co/ihXR6UP1FH\n\n#NewJeans #뉴진스\n#NewJeansDay #NewJeans_4th_Ann…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476476838180696073",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1550444438127685635",
+              "name": "NewJeans"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1612562270415998979",
+              "name": "NewJeans"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1550444438127685635",
+              "name": "NewJeans"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1612562270415998979",
+              "name": "NewJeans"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1550444438127685635",
+              "name": "NewJeans"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "FOR ANIMATION AND COMICS ONLY - DO NOT USE IF YOU NEED MUSIC.",
+              "id": "1585792216395436032",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1612562270415998979",
+              "name": "NewJeans"
+            }
+          }
+        ],
+        "conversation_id": "2079582325051146683",
+        "created_at": "2026-07-21T15:00:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T16:00:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079582325051146683"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 84,
+              "start": 75,
+              "tag": "NewJeans"
+            },
+            {
+              "end": 89,
+              "start": 85,
+              "tag": "뉴진스"
+            },
+            {
+              "end": 102,
+              "start": 90,
+              "tag": "NewJeansDay"
+            },
+            {
+              "end": 128,
+              "start": 103,
+              "tag": "NewJeans_4th_Anniversary"
+            }
+          ],
+          "urls": [
+            {
+              "description": "2026 Summer of NewJeans : HANNICreative Director : Nayeon KimCre...",
+              "display_url": "youtu.be/Fq-A3aLqmms",
+              "end": 73,
+              "expanded_url": "https://youtu.be/Fq-A3aLqmms",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/2079582367484887040/hHwor7qO?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2079582367484887040/hHwor7qO?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 50,
+              "status": 200,
+              "title": "2026 Summer of NewJeans : HANNI",
+              "unwound_url": "https://www.youtube.com/watch?v=Fq-A3aLqmms&feature=youtu.be",
+              "url": "https://t.co/ihXR6UP1FH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079582325051146683",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 167,
+          "impression_count": 300789,
+          "like_count": 5571,
+          "quote_count": 437,
+          "reply_count": 52,
+          "retweet_count": 1963
+        },
+        "reply_settings": "everyone",
+        "text": "[NewJeans Day🎂]\n2026 Summer of NewJeans : HANNI\n\n🔗https://t.co/ihXR6UP1FH\n\n#NewJeans #뉴진스\n#NewJeansDay #NewJeans_4th_Anniversary"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-14T12:04:19.000Z",
+        "description": "kk/哭哭 一只海豹 sh/od内容 努力游出贝加尔湖 互关寻回中…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sealak",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sealak",
+                "start": 0,
+                "url": "https://t.co/mJiD4M1sS9"
+              }
+            ]
+          }
+        },
+        "id": "2077000098836545536",
+        "location": "贝加尔湖畔",
+        "name": "总而言之我哥哥非常非常好",
+        "pinned_tweet_id": "2078769337851154629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077002116032303104/OOsRJMcA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 66,
+          "like_count": 318,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 248
+        },
+        "url": "https://t.co/mJiD4M1sS9",
+        "username": "wwwyizhiku",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-30T08:54:56.000Z",
+        "description": "NewJeans is Everywhere",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "newjeans.kr",
+                "end": 23,
+                "expanded_url": "http://newjeans.kr",
+                "start": 0,
+                "url": "https://t.co/wITF1P8yFO"
+              }
+            ]
+          }
+        },
+        "id": "1476476838180696073",
+        "name": "NewJeans",
+        "pinned_tweet_id": "2079583397329195259",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079578404337360896/876cjwWk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1977679,
+          "following_count": 4,
+          "like_count": 34,
+          "listed_count": 4340,
+          "media_count": 1924,
+          "tweet_count": 3134
+        },
+        "url": "https://t.co/wITF1P8yFO",
+        "username": "NewJeans_ADOR",
+        "verified": true
+      }
+    ]
+  }
+}

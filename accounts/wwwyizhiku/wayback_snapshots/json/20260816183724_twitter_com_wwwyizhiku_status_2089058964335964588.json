@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2077000098836545536",
+    "conversation_id": "2089058964335964588",
+    "created_at": "2026-08-16T18:37:24.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T19:37:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089058964335964588"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1614311887419887616",
+          "start": 3,
+          "username": "lion040317"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089058964335964588",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 30
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088989810577072282",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lion040317: 发抽奖啦 感谢大家的支持！！已经400fo了！！非常感谢大家都喜欢和陪伴！抽奖请转发帖子评论加关注！\n一等奖  麦当劳薯条四重奏美团兑换卷（或者微信转账25元）\n二等奖  麦当劳双薯双圆筒美团兑换券（或18元）\n三等奖  麦当劳买一送一派任选美团…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077000098836545536",
+        "conversation_id": "2089058964335964588",
+        "created_at": "2026-08-16T18:37:24.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T19:37:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089058964335964588"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1614311887419887616",
+              "start": 3,
+              "username": "lion040317"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089058964335964588",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 30
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088989810577072282",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lion040317: 发抽奖啦 感谢大家的支持！！已经400fo了！！非常感谢大家都喜欢和陪伴！抽奖请转发帖子评论加关注！\n一等奖  麦当劳薯条四重奏美团兑换卷（或者微信转账25元）\n二等奖  麦当劳双薯双圆筒美团兑换券（或18元）\n三等奖  麦当劳买一送一派任选美团…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1614311887419887616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2088989810577072282",
+        "created_at": "2026-08-16T14:02:37.000Z",
+        "display_text_range": [
+          0,
+          154
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T15:02:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088989810577072282"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2088989810577072282",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 909,
+          "like_count": 51,
+          "quote_count": 2,
+          "reply_count": 29,
+          "retweet_count": 30
+        },
+        "reply_settings": "everyone",
+        "text": "发抽奖啦 感谢大家的支持！！已经400fo了！！非常感谢大家都喜欢和陪伴！抽奖请转发帖子评论加关注！\n一等奖  麦当劳薯条四重奏美团兑换卷（或者微信转账25元）\n二等奖  麦当劳双薯双圆筒美团兑换券（或18元）\n三等奖  麦当劳买一送一派任选美团兑换券（或8元）\n8月21日开奖，grok抽不满三十人取消抽奖"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T12:04:19.000Z",
+        "description": "kk/哭哭 一只海豹 sh/od内容 努力游出贝加尔湖 互关寻回中…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sealak",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sealak",
+                "start": 0,
+                "url": "https://t.co/mJiD4M1sS9"
+              }
+            ]
+          }
+        },
+        "id": "2077000098836545536",
+        "is_identity_verified": false,
+        "location": "贝加尔湖畔",
+        "most_recent_tweet_id": "2089058964335964588",
+        "name": "总而言之我哥哥非常非常好",
+        "pinned_tweet_id": "2079565491266531784",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2077000098836545536/1784030875",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077002116032303104/OOsRJMcA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 86,
+          "like_count": 629,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 561
+        },
+        "url": "https://t.co/mJiD4M1sS9",
+        "username": "wwwyizhiku",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-01-14T17:22:16.000Z",
+        "description": "04/女/短发/4i。恶趣味十足 吉林/不成熟的穿孔师。脾气很好^ ^，但焦虑型依赖/不配得感/焦虑症严重。请和我闲聊~\n我的ngl:https://t.co/9S8dc1Yv1i",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lion200403",
+                "end": 90,
+                "expanded_url": "https://ngl.link/lion200403",
+                "start": 67,
+                "url": "https://t.co/9S8dc1Yv1i"
+              }
+            ]
+          }
+        },
+        "id": "1614311887419887616",
+        "is_identity_verified": false,
+        "location": "地下18层",
+        "most_recent_tweet_id": "2089050209066389986",
+        "name": "狮子桑Lion",
+        "pinned_tweet_id": "2089032847634161668",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1614311887419887616/1783088331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086681545818193920/_AWKPSgR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 427,
+          "following_count": 239,
+          "like_count": 66,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 227
+        },
+        "url": "",
+        "username": "lion040317",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

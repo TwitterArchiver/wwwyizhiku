@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2077000098836545536",
+    "conversation_id": "2080756796763812047",
+    "created_at": "2026-07-24T20:47:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T21:47:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080756796763812047"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1247067356972503040",
+          "start": 3,
+          "username": "Luiipuffry_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080756796763812047",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 22
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080481345445446144",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Luiipuffry_: 排卵期就是坐着感觉逼里吐了一大泡水\n然后我的内裤睡裙全湿了。 \n我恨你排卵期。\n我要给排卵期写俳句"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077000098836545536",
+        "conversation_id": "2080756796763812047",
+        "created_at": "2026-07-24T20:47:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T21:47:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080756796763812047"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1247067356972503040",
+              "start": 3,
+              "username": "Luiipuffry_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080756796763812047",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 22
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080481345445446144",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Luiipuffry_: 排卵期就是坐着感觉逼里吐了一大泡水\n然后我的内裤睡裙全湿了。 \n我恨你排卵期。\n我要给排卵期写俳句"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1247067356972503040",
+        "conversation_id": "2080481345445446144",
+        "created_at": "2026-07-24T02:33:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T03:33:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080481345445446144"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080481345445446144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 31,
+          "impression_count": 153245,
+          "like_count": 1493,
+          "quote_count": 6,
+          "reply_count": 222,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "排卵期就是坐着感觉逼里吐了一大泡水\n然后我的内裤睡裙全湿了。 \n我恨你排卵期。\n我要给排卵期写俳句"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-14T12:04:19.000Z",
+        "description": "kk/哭哭 一只海豹 sh/od内容 努力游出贝加尔湖 互关寻回中…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sealak",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sealak",
+                "start": 0,
+                "url": "https://t.co/mJiD4M1sS9"
+              }
+            ]
+          }
+        },
+        "id": "2077000098836545536",
+        "location": "贝加尔湖畔",
+        "name": "总而言之我哥哥非常非常好",
+        "pinned_tweet_id": "2077044414782832722",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077002116032303104/OOsRJMcA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 76,
+          "like_count": 392,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 319
+        },
+        "url": "https://t.co/mJiD4M1sS9",
+        "username": "wwwyizhiku",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-06T07:43:36.000Z",
+        "description": "♡绝赞考试中～⌯'ㅅ'⌯！出门在外身份是自己给的！",
+        "id": "1247067356972503040",
+        "location": "La Porte étroite🚪",
+        "name": "崩溃地球人",
+        "pinned_tweet_id": "1848257314454938023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075803778755035136/O0cls1kR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16629,
+          "following_count": 381,
+          "like_count": 9531,
+          "listed_count": 53,
+          "media_count": 138,
+          "tweet_count": 4057
+        },
+        "url": "",
+        "username": "Luiipuffry_",
+        "verified": false
+      }
+    ]
+  }
+}

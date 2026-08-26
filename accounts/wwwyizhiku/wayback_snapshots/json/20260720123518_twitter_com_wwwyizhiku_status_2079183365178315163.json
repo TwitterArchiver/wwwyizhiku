@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2077000098836545536",
+    "conversation_id": "2079154318419411202",
+    "created_at": "2026-07-20T12:35:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T13:35:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079183365178315163"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2021958978834685952",
+          "start": 0,
+          "username": "Zzerro77"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079183365178315163",
+    "in_reply_to_user_id": "2021958978834685952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079154318419411202",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Zzerro77 生日快乐哦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077000098836545536",
+        "conversation_id": "2079154318419411202",
+        "created_at": "2026-07-20T12:35:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T13:35:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079183365178315163"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2021958978834685952",
+              "start": 0,
+              "username": "Zzerro77"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079183365178315163",
+        "in_reply_to_user_id": "2021958978834685952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079154318419411202",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zzerro77 生日快乐哦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2021958978834685952",
+        "conversation_id": "2079154318419411202",
+        "created_at": "2026-07-20T10:39:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T11:39:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079154318419411202"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079154318419411202",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 332,
+          "like_count": 18,
+          "quote_count": 1,
+          "reply_count": 14,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "生日抽奖贴🪽\n一等奖🧧52×1\n\n二等奖🧧18.8×2\n\n三等奖🧧5.2×5\n\n7.30晚上十点开\n三连即可参与（不揪抽奖号!!!抽到发现没有三连作废）\n\n最后感谢大家的喜欢 也感谢互关们愿意和我一起玩 爱你们! \n提前祝我19大寿生日快乐吧!🥳🥳🥳"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-14T12:04:19.000Z",
+        "description": "kk/哭哭 一只海豹，努力游出贝加尔湖",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sealak",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sealak",
+                "start": 0,
+                "url": "https://t.co/mJiD4M1sS9"
+              }
+            ]
+          }
+        },
+        "id": "2077000098836545536",
+        "location": "贝加尔湖畔",
+        "name": "总而言之我哥哥非常非常好",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077002116032303104/OOsRJMcA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 55,
+          "like_count": 272,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 202
+        },
+        "url": "https://t.co/mJiD4M1sS9",
+        "username": "wwwyizhiku",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-12T14:46:10.000Z",
+        "description": "我觉得你有我就够了呀 =⩌⩊⩌=\n碎碎念@zerro00730\n我的前世@QiuDAOyu0730",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 20,
+                "username": "zerro00730"
+              },
+              {
+                "end": 49,
+                "start": 36,
+                "username": "QiuDAOyu0730"
+              }
+            ]
+          }
+        },
+        "id": "2021958978834685952",
+        "location": "🚪",
+        "name": "魚（重生版）",
+        "pinned_tweet_id": "2079154318419411202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076344568472330240/9GCMsmXs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145,
+          "following_count": 88,
+          "like_count": 2200,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 750
+        },
+        "url": "",
+        "username": "Zzerro77",
+        "verified": false
+      }
+    ]
+  }
+}

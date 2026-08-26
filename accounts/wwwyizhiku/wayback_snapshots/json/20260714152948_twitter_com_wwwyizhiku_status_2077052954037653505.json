@@ -1,0 +1,330 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2077000098836545536",
+    "conversation_id": "2076970964613755207",
+    "created_at": "2026-07-14T15:29:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T16:29:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077052954037653505"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1778719380639014913",
+          "start": 0,
+          "username": "Ancde_1118"
+        },
+        {
+          "end": 27,
+          "id": "1623732739009810433",
+          "start": 12,
+          "username": "Sakura_l1in118"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077052954037653505",
+    "in_reply_to_user_id": "1778719380639014913",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076970964613755207",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ancde_1118 @Sakura_l1in118 蹲蹲😿"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2076970947257790464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNLiEoAbcAAgIq2.jpg",
+        "width": 1024
+      },
+      {
+        "height": 1023,
+        "media_key": "3_2076970947236728833",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNLiEn7aEAE7uTU.jpg",
+        "width": 1023
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2076970947240927232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNLiEn8aIAAUHE1.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1152,
+        "media_key": "3_2076970947266117632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNLiEoCagAArMh4.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077000098836545536",
+        "conversation_id": "2076970964613755207",
+        "created_at": "2026-07-14T15:29:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T16:29:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077052954037653505"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1778719380639014913",
+              "start": 0,
+              "username": "Ancde_1118"
+            },
+            {
+              "end": 27,
+              "id": "1623732739009810433",
+              "start": 12,
+              "username": "Sakura_l1in118"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077052954037653505",
+        "in_reply_to_user_id": "1778719380639014913",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076970964613755207",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ancde_1118 @Sakura_l1in118 蹲蹲😿"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076970947257790464",
+            "3_2076970947236728833",
+            "3_2076970947240927232",
+            "3_2076970947266117632"
+          ]
+        },
+        "author_id": "1778719380639014913",
+        "conversation_id": "2076970964613755207",
+        "created_at": "2026-07-14T10:04:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T11:04:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076970964613755207"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 35,
+              "id": "1623732739009810433",
+              "start": 20,
+              "username": "Sakura_l1in118"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MCPmWR3XSF",
+              "end": 89,
+              "expanded_url": "https://x.com/Ancde_1118/status/2076970964613755207/photo/1",
+              "media_key": "3_2076970947257790464",
+              "start": 66,
+              "url": "https://t.co/MCPmWR3XSF"
+            },
+            {
+              "display_url": "pic.x.com/MCPmWR3XSF",
+              "end": 89,
+              "expanded_url": "https://x.com/Ancde_1118/status/2076970964613755207/photo/1",
+              "media_key": "3_2076970947236728833",
+              "start": 66,
+              "url": "https://t.co/MCPmWR3XSF"
+            },
+            {
+              "display_url": "pic.x.com/MCPmWR3XSF",
+              "end": 89,
+              "expanded_url": "https://x.com/Ancde_1118/status/2076970964613755207/photo/1",
+              "media_key": "3_2076970947240927232",
+              "start": 66,
+              "url": "https://t.co/MCPmWR3XSF"
+            },
+            {
+              "display_url": "pic.x.com/MCPmWR3XSF",
+              "end": 89,
+              "expanded_url": "https://x.com/Ancde_1118/status/2076970964613755207/photo/1",
+              "media_key": "3_2076970947266117632",
+              "start": 66,
+              "url": "https://t.co/MCPmWR3XSF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076970964613755207",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 618,
+          "like_count": 12,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "=自介 我是Sakura ❀\n防走失小号@Sakura_l1in118 \n我想交朋友呀 欢迎大家来互转互fo (∩ˊ꒳​ˋ∩)･* https://t.co/MCPmWR3XSF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-14T12:04:19.000Z",
+        "description": "kk/哭哭 一只海豹，努力游出贝加尔湖",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sealak",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sealak",
+                "start": 0,
+                "url": "https://t.co/mJiD4M1sS9"
+              }
+            ]
+          }
+        },
+        "id": "2077000098836545536",
+        "location": "贝加尔湖畔",
+        "name": "总而言之我哥哥非常非常好",
+        "pinned_tweet_id": "2077044414782832722",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077002116032303104/OOsRJMcA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 13,
+          "like_count": 15,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 14
+        },
+        "url": "https://t.co/mJiD4M1sS9",
+        "username": "wwwyizhiku",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-12T09:38:51.000Z",
+        "description": "防走失小号@Sakura_l1in118\n双相 精分 od ed 割手/我是穿孔师/tg@Sakura_sakura01118/不经常上线找我直接DM/可以找我买电子烟（不卖加料的 只是普通电子烟 想买加料的请不要私信我）我想交朋友 互fo互转大欢迎 ¯꒳¯",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 5,
+                "username": "Sakura_l1in118"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sakura1118",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sakura1118",
+                "start": 0,
+                "url": "https://t.co/puqa4nzVpC"
+              }
+            ]
+          }
+        },
+        "id": "1778719380639014913",
+        "name": "Sakura",
+        "pinned_tweet_id": "2076970964613755207",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898374011295522816/t9_3UaIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 903,
+          "following_count": 674,
+          "like_count": 155,
+          "listed_count": 0,
+          "media_count": 263,
+          "tweet_count": 1681
+        },
+        "url": "https://t.co/puqa4nzVpC",
+        "username": "Ancde_1118",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-09T17:17:18.000Z",
+        "description": "Sakura的防走丢小号 双相 精分 od ed 割手 我想交朋友 互fo大欢迎 ¯꒳¯",
+        "id": "1623732739009810433",
+        "name": "Sakura 2.0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076927737198223360/UnKlPSpa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 1,
+          "like_count": 263,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 2
+        },
+        "url": "",
+        "username": "Sakura_l1in118",
+        "verified": false
+      }
+    ]
+  }
+}

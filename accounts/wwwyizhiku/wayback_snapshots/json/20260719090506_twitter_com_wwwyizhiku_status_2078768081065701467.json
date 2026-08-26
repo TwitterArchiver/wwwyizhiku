@@ -1,0 +1,361 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076584388700364800",
+        "3_2076584388700286977",
+        "3_2076584388624789504",
+        "3_2076584388629032960"
+      ],
+      "media_source_tweet_id": [
+        "2076584474675192223",
+        "2076584474675192223",
+        "2076584474675192223",
+        "2076584474675192223"
+      ]
+    },
+    "author_id": "2077000098836545536",
+    "conversation_id": "2078768081065701467",
+    "created_at": "2026-07-19T09:05:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T10:05:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078768081065701467"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1688706775367782400",
+          "start": 3,
+          "username": "ChuckJames9934"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/yc22dCvVzZ",
+          "end": 59,
+          "expanded_url": "https://x.com/ChuckJames9934/status/2076584474675192223/photo/1",
+          "media_key": "3_2076584388700364800",
+          "start": 36,
+          "url": "https://t.co/yc22dCvVzZ"
+        },
+        {
+          "display_url": "pic.x.com/yc22dCvVzZ",
+          "end": 59,
+          "expanded_url": "https://x.com/ChuckJames9934/status/2076584474675192223/photo/1",
+          "media_key": "3_2076584388700286977",
+          "start": 36,
+          "url": "https://t.co/yc22dCvVzZ"
+        },
+        {
+          "display_url": "pic.x.com/yc22dCvVzZ",
+          "end": 59,
+          "expanded_url": "https://x.com/ChuckJames9934/status/2076584474675192223/photo/1",
+          "media_key": "3_2076584388624789504",
+          "start": 36,
+          "url": "https://t.co/yc22dCvVzZ"
+        },
+        {
+          "display_url": "pic.x.com/yc22dCvVzZ",
+          "end": 59,
+          "expanded_url": "https://x.com/ChuckJames9934/status/2076584474675192223/photo/1",
+          "media_key": "3_2076584388629032960",
+          "start": 36,
+          "url": "https://t.co/yc22dCvVzZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078768081065701467",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 30
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076584474675192223",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ChuckJames9934: 小柔专属置顶嗯……礼貌问，谢谢 https://t.co/yc22dCvVzZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1557,
+        "media_key": "3_2076584388700364800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNGCf9KbYAAUI0D.jpg",
+        "width": 1179
+      },
+      {
+        "height": 993,
+        "media_key": "3_2076584388700286977",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNGCf9KaMAEr8o_.jpg",
+        "width": 1078
+      },
+      {
+        "height": 1224,
+        "media_key": "3_2076584388624789504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNGCf84aMAA7CKS.jpg",
+        "width": 1179
+      },
+      {
+        "height": 997,
+        "media_key": "3_2076584388629032960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNGCf85a8AAeIXj.jpg",
+        "width": 1069
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076584388700364800",
+            "3_2076584388700286977",
+            "3_2076584388624789504",
+            "3_2076584388629032960"
+          ]
+        },
+        "author_id": "1688706775367782400",
+        "conversation_id": "2076584474675192223",
+        "created_at": "2026-07-13T08:28:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T09:28:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076584474675192223"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yc22dCvVzZ",
+              "end": 39,
+              "expanded_url": "https://x.com/ChuckJames9934/status/2076584474675192223/photo/1",
+              "media_key": "3_2076584388700364800",
+              "start": 16,
+              "url": "https://t.co/yc22dCvVzZ"
+            },
+            {
+              "display_url": "pic.x.com/yc22dCvVzZ",
+              "end": 39,
+              "expanded_url": "https://x.com/ChuckJames9934/status/2076584474675192223/photo/1",
+              "media_key": "3_2076584388700286977",
+              "start": 16,
+              "url": "https://t.co/yc22dCvVzZ"
+            },
+            {
+              "display_url": "pic.x.com/yc22dCvVzZ",
+              "end": 39,
+              "expanded_url": "https://x.com/ChuckJames9934/status/2076584474675192223/photo/1",
+              "media_key": "3_2076584388624789504",
+              "start": 16,
+              "url": "https://t.co/yc22dCvVzZ"
+            },
+            {
+              "display_url": "pic.x.com/yc22dCvVzZ",
+              "end": 39,
+              "expanded_url": "https://x.com/ChuckJames9934/status/2076584474675192223/photo/1",
+              "media_key": "3_2076584388629032960",
+              "start": 16,
+              "url": "https://t.co/yc22dCvVzZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076584474675192223",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 5626,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 30
+        },
+        "reply_settings": "everyone",
+        "text": "小柔专属置顶嗯……礼貌问，谢谢 https://t.co/yc22dCvVzZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076584388700364800",
+            "3_2076584388700286977",
+            "3_2076584388624789504",
+            "3_2076584388629032960"
+          ],
+          "media_source_tweet_id": [
+            "2076584474675192223",
+            "2076584474675192223",
+            "2076584474675192223",
+            "2076584474675192223"
+          ]
+        },
+        "author_id": "2077000098836545536",
+        "conversation_id": "2078768081065701467",
+        "created_at": "2026-07-19T09:05:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T10:05:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078768081065701467"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1688706775367782400",
+              "start": 3,
+              "username": "ChuckJames9934"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yc22dCvVzZ",
+              "end": 59,
+              "expanded_url": "https://x.com/ChuckJames9934/status/2076584474675192223/photo/1",
+              "media_key": "3_2076584388700364800",
+              "start": 36,
+              "url": "https://t.co/yc22dCvVzZ"
+            },
+            {
+              "display_url": "pic.x.com/yc22dCvVzZ",
+              "end": 59,
+              "expanded_url": "https://x.com/ChuckJames9934/status/2076584474675192223/photo/1",
+              "media_key": "3_2076584388700286977",
+              "start": 36,
+              "url": "https://t.co/yc22dCvVzZ"
+            },
+            {
+              "display_url": "pic.x.com/yc22dCvVzZ",
+              "end": 59,
+              "expanded_url": "https://x.com/ChuckJames9934/status/2076584474675192223/photo/1",
+              "media_key": "3_2076584388624789504",
+              "start": 36,
+              "url": "https://t.co/yc22dCvVzZ"
+            },
+            {
+              "display_url": "pic.x.com/yc22dCvVzZ",
+              "end": 59,
+              "expanded_url": "https://x.com/ChuckJames9934/status/2076584474675192223/photo/1",
+              "media_key": "3_2076584388629032960",
+              "start": 36,
+              "url": "https://t.co/yc22dCvVzZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078768081065701467",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 30
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076584474675192223",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ChuckJames9934: 小柔专属置顶嗯……礼貌问，谢谢 https://t.co/yc22dCvVzZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-14T12:04:19.000Z",
+        "description": "kk/哭哭 一只海豹，努力游出贝加尔湖",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sealak",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sealak",
+                "start": 0,
+                "url": "https://t.co/mJiD4M1sS9"
+              }
+            ]
+          }
+        },
+        "id": "2077000098836545536",
+        "location": "贝加尔湖畔",
+        "name": "总而言之我哥哥非常非常好",
+        "pinned_tweet_id": "2077660228103860393",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077002116032303104/OOsRJMcA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 48,
+          "like_count": 172,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 138
+        },
+        "url": "https://t.co/mJiD4M1sS9",
+        "username": "wwwyizhiku",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-08T00:20:54.000Z",
+        "description": "小柔天天开心！",
+        "id": "1688706775367782400",
+        "name": "小柔爱吃糖",
+        "pinned_tweet_id": "2076584474675192223",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074440656873988096/9NrW3VUv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 10,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 26
+        },
+        "url": "",
+        "username": "ChuckJames9934",
+        "verified": false
+      }
+    ]
+  }
+}

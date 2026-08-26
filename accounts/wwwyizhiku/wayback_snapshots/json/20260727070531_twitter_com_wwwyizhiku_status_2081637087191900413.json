@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2077000098836545536",
+    "conversation_id": "2081306817825735152",
+    "created_at": "2026-07-27T07:05:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T08:05:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081637087191900413"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1132729630245265408",
+          "start": 0,
+          "username": "pr80net"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081637087191900413",
+    "in_reply_to_user_id": "1132729630245265408",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081306817825735152",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pr80net 蹲蹲"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2000,
+        "media_key": "3_2081305818302205952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOJInVDbUAAgwIC.png",
+        "width": 2000
+      },
+      {
+        "height": 741,
+        "media_key": "3_2081305841056313344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOJIop0bcAABRD_.png",
+        "width": 658
+      },
+      {
+        "height": 2000,
+        "media_key": "3_2081305887873101824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOJIrYOa8AAfuah.jpg",
+        "width": 2000
+      },
+      {
+        "height": 450,
+        "media_key": "3_2081305906026049537",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOJIsb2a8AEnfO6.png",
+        "width": 648
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077000098836545536",
+        "conversation_id": "2081306817825735152",
+        "created_at": "2026-07-27T07:05:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T08:05:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081637087191900413"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1132729630245265408",
+              "start": 0,
+              "username": "pr80net"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081637087191900413",
+        "in_reply_to_user_id": "1132729630245265408",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081306817825735152",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pr80net 蹲蹲"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081305818302205952",
+            "3_2081305841056313344",
+            "3_2081305887873101824",
+            "3_2081305906026049537"
+          ]
+        },
+        "author_id": "1132729630245265408",
+        "conversation_id": "2081306817825735152",
+        "created_at": "2026-07-26T09:13:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T10:13:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081306817825735152"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Upo0GQAQxg",
+              "end": 176,
+              "expanded_url": "https://x.com/pr80net/status/2081306817825735152/photo/1",
+              "media_key": "3_2081305818302205952",
+              "start": 153,
+              "url": "https://t.co/Upo0GQAQxg"
+            },
+            {
+              "display_url": "pic.x.com/Upo0GQAQxg",
+              "end": 176,
+              "expanded_url": "https://x.com/pr80net/status/2081306817825735152/photo/1",
+              "media_key": "3_2081305841056313344",
+              "start": 153,
+              "url": "https://t.co/Upo0GQAQxg"
+            },
+            {
+              "display_url": "pic.x.com/Upo0GQAQxg",
+              "end": 176,
+              "expanded_url": "https://x.com/pr80net/status/2081306817825735152/photo/1",
+              "media_key": "3_2081305887873101824",
+              "start": 153,
+              "url": "https://t.co/Upo0GQAQxg"
+            },
+            {
+              "display_url": "pic.x.com/Upo0GQAQxg",
+              "end": 176,
+              "expanded_url": "https://x.com/pr80net/status/2081306817825735152/photo/1",
+              "media_key": "3_2081305906026049537",
+              "start": 153,
+              "url": "https://t.co/Upo0GQAQxg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081306817825735152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1647,
+          "like_count": 31,
+          "quote_count": 4,
+          "reply_count": 20,
+          "retweet_count": 43
+        },
+        "reply_settings": "everyone",
+        "text": "这里是永夜安港的新转生号置顶。\n有关于我们社区和社区衍生内容请移步网站。\n本帖开展有史以来最大的抽奖活动，奖品为10份\n来自Zakky's 的典藏套装，每份含有新老包装各一盒的【99.7% pr80原粉 10g】。也就是总计20盒，10位中奖者。\n抽奖条件为关注此X账号并转发此推文，百转后开放抽奖结果。 https://t.co/Upo0GQAQxg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-14T12:04:19.000Z",
+        "description": "kk/哭哭 一只海豹 sh/od内容 努力游出贝加尔湖 互关寻回中…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sealak",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sealak",
+                "start": 0,
+                "url": "https://t.co/mJiD4M1sS9"
+              }
+            ]
+          }
+        },
+        "id": "2077000098836545536",
+        "location": "贝加尔湖畔",
+        "name": "总而言之我哥哥非常非常好",
+        "pinned_tweet_id": "2079565491266531784",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077002116032303104/OOsRJMcA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 82,
+          "like_count": 423,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 340
+        },
+        "url": "https://t.co/mJiD4M1sS9",
+        "username": "wwwyizhiku",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-26T19:26:03.000Z",
+        "description": "https://t.co/U6cOi5UAb8\n平等尊重每一个人，才能获得每一个人平等的尊重。\n极端冷门药物科普 / 平等交流社区 / 友一切人工回fo\nSponsored by Zakky's pr80原粉 @ZakkyV10\nCreated by Luvsenberg",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 114,
+                "start": 105,
+                "username": "ZakkyV10"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/ilovepr80",
+                "end": 23,
+                "expanded_url": "https://t.me/ilovepr80",
+                "start": 0,
+                "url": "https://t.co/U6cOi5UAb8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pr80.net",
+                "end": 23,
+                "expanded_url": "https://pr80.net/",
+                "start": 0,
+                "url": "https://t.co/Un7kre1RGI"
+              }
+            ]
+          }
+        },
+        "id": "1132729630245265408",
+        "location": "永夜安港",
+        "name": "pr80.net 永夜安港",
+        "pinned_tweet_id": "2081306817825735152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081293237512474624/vfSaAf5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 205,
+          "following_count": 276,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 44
+        },
+        "url": "https://t.co/Un7kre1RGI",
+        "username": "pr80net",
+        "verified": true
+      }
+    ]
+  }
+}

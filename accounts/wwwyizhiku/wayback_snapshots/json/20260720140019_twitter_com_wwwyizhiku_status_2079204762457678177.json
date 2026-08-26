@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2077000098836545536",
+    "conversation_id": "2079204762457678177",
+    "created_at": "2026-07-20T14:00:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T15:00:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079204762457678177"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2059212406451240960",
+          "start": 3,
+          "username": "Cxq6666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079204762457678177",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 31
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078533939531337864",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Cxq6666: 我的妈呀，我竟然要100fo了！？\n我也入乡随俗搞个抽奖喵\n\n一等奖：泡面先生麻酱火鸡面10袋*1（可折现）因为我爱吃\n\n二等奖：15r*1\n\n三等奖：5.2r*3\n\n转发关注加评论参与抽奖好吗\n（参与的人太少会偷偷删掉）\n*本人此状态为哦pr哦大了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077000098836545536",
+        "conversation_id": "2079204762457678177",
+        "created_at": "2026-07-20T14:00:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T15:00:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079204762457678177"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2059212406451240960",
+              "start": 3,
+              "username": "Cxq6666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079204762457678177",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 31
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078533939531337864",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Cxq6666: 我的妈呀，我竟然要100fo了！？\n我也入乡随俗搞个抽奖喵\n\n一等奖：泡面先生麻酱火鸡面10袋*1（可折现）因为我爱吃\n\n二等奖：15r*1\n\n三等奖：5.2r*3\n\n转发关注加评论参与抽奖好吗\n（参与的人太少会偷偷删掉）\n*本人此状态为哦pr哦大了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059212406451240960",
+        "conversation_id": "2078533939531337864",
+        "created_at": "2026-07-18T17:34:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T18:34:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078533939531337864"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078533939531337864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1167,
+          "like_count": 40,
+          "quote_count": 0,
+          "reply_count": 28,
+          "retweet_count": 31
+        },
+        "reply_settings": "everyone",
+        "text": "我的妈呀，我竟然要100fo了！？\n我也入乡随俗搞个抽奖喵\n\n一等奖：泡面先生麻酱火鸡面10袋*1（可折现）因为我爱吃\n\n二等奖：15r*1\n\n三等奖：5.2r*3\n\n转发关注加评论参与抽奖好吗\n（参与的人太少会偷偷删掉）\n*本人此状态为哦pr哦大了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-14T12:04:19.000Z",
+        "description": "kk/哭哭 一只海豹，努力游出贝加尔湖",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sealak",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sealak",
+                "start": 0,
+                "url": "https://t.co/mJiD4M1sS9"
+              }
+            ]
+          }
+        },
+        "id": "2077000098836545536",
+        "location": "贝加尔湖畔",
+        "name": "总而言之我哥哥非常非常好",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077002116032303104/OOsRJMcA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 56,
+          "like_count": 272,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 203
+        },
+        "url": "https://t.co/mJiD4M1sS9",
+        "username": "wwwyizhiku",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-26T09:58:33.000Z",
+        "description": "19｜餐券妹｜od｜轻松熊重度依赖\ncn陈弦清 叫我小清就好了 欢迎互fo",
+        "id": "2059212406451240960",
+        "location": "浙江",
+        "name": "小清分享普瑞巴林不好体验",
+        "pinned_tweet_id": "2071497448288346609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072964374105649152/USHjrqAl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 90,
+          "like_count": 242,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 359
+        },
+        "url": "",
+        "username": "Cxq6666",
+        "verified": false
+      }
+    ]
+  }
+}

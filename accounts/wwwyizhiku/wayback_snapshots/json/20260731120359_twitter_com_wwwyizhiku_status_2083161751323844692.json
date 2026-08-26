@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2083161645690290177"
+      ]
+    },
+    "author_id": "2077000098836545536",
+    "conversation_id": "2083161751323844692",
+    "created_at": "2026-07-31T12:03:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T13:03:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083161751323844692"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/9z38xljYvB",
+          "end": 23,
+          "expanded_url": "https://x.com/wwwyizhiku/status/2083161751323844692/video/1",
+          "media_key": "7_2083161645690290177",
+          "start": 0,
+          "url": "https://t.co/9z38xljYvB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083161751323844692",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/9z38xljYvB"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 19395,
+        "height": 1280,
+        "media_key": "7_2083161645690290177",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2083161645690290177/pu/img/L3hdVsJuPcfltU3m.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2083161645690290177/pu/vid/avc1/320x568/CIuEbSIAGstYraJ4.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2083161645690290177/pu/vid/avc1/480x852/EHfYFLbRRbpsYRXe.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2083161645690290177/pu/vid/avc1/720x1280/_MdokohyJN-krOcH.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2083161645690290177/pu/pl/rt9-dcDwXCuxiiaJ.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2083161645690290177"
+          ]
+        },
+        "author_id": "2077000098836545536",
+        "conversation_id": "2083161751323844692",
+        "created_at": "2026-07-31T12:03:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T13:03:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083161751323844692"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9z38xljYvB",
+              "end": 23,
+              "expanded_url": "https://x.com/wwwyizhiku/status/2083161751323844692/video/1",
+              "media_key": "7_2083161645690290177",
+              "start": 0,
+              "url": "https://t.co/9z38xljYvB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083161751323844692",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/9z38xljYvB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-14T12:04:19.000Z",
+        "description": "kk/哭哭 一只海豹 sh/od内容 努力游出贝加尔湖 互关寻回中…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sealak",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sealak",
+                "start": 0,
+                "url": "https://t.co/mJiD4M1sS9"
+              }
+            ]
+          }
+        },
+        "id": "2077000098836545536",
+        "location": "贝加尔湖畔",
+        "name": "总而言之我哥哥非常非常好",
+        "pinned_tweet_id": "2079565491266531784",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077002116032303104/OOsRJMcA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 86,
+          "like_count": 483,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 420
+        },
+        "url": "https://t.co/mJiD4M1sS9",
+        "username": "wwwyizhiku",
+        "verified": false
+      }
+    ]
+  }
+}

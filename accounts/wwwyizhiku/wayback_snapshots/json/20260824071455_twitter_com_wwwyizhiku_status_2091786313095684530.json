@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2077000098836545536",
+    "conversation_id": "2091786313095684530",
+    "created_at": "2026-08-24T07:14:55.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-24T08:14:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091786313095684530"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2087636528633982976",
+          "start": 3,
+          "username": "67De_dian"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091786313095684530",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091757259558654022",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @67De_dian: 抽奖一下顺便巡回互fo呀TwT\n哦哦我来随机出一点余量🥺\n原料药是菱形状晶体，非粉末\n｜双相｜ODer｜Gore｜\n叫我6点就好\n很温顺，可以找我问问题\n我会尽力回复 欢迎私信哦\n药理学习中\n\n关注+转赞评参与呀\n\n抽3个5.2r\n（人多的话可能再…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1138,
+        "media_key": "3_2091756443246419968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQdpZwxWYAAgK9s.png",
+        "width": 1067
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2091756570228965376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQdphJ0WQAAGom1.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077000098836545536",
+        "conversation_id": "2091786313095684530",
+        "created_at": "2026-08-24T07:14:55.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T08:14:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091786313095684530"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2087636528633982976",
+              "start": 3,
+              "username": "67De_dian"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091786313095684530",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091757259558654022",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @67De_dian: 抽奖一下顺便巡回互fo呀TwT\n哦哦我来随机出一点余量🥺\n原料药是菱形状晶体，非粉末\n｜双相｜ODer｜Gore｜\n叫我6点就好\n很温顺，可以找我问问题\n我会尽力回复 欢迎私信哦\n药理学习中\n\n关注+转赞评参与呀\n\n抽3个5.2r\n（人多的话可能再…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091756443246419968",
+            "3_2091756570228965376"
+          ]
+        },
+        "author_id": "2087636528633982976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2091757259558654022",
+        "created_at": "2026-08-24T05:19:28.000Z",
+        "display_text_range": [
+          0,
+          148
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T06:19:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091757259558654022"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FTpZKljnHT",
+              "end": 172,
+              "expanded_url": "https://x.com/67De_dian/status/2091757259558654022/photo/1",
+              "media_key": "3_2091756443246419968",
+              "start": 149,
+              "url": "https://t.co/FTpZKljnHT"
+            },
+            {
+              "display_url": "pic.x.com/FTpZKljnHT",
+              "end": 172,
+              "expanded_url": "https://x.com/67De_dian/status/2091757259558654022/photo/1",
+              "media_key": "3_2091756570228965376",
+              "start": 149,
+              "url": "https://t.co/FTpZKljnHT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091757259558654022",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2091756443246419968"
+          },
+          {
+            "media_key": "3_2091756570228965376"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 176,
+          "like_count": 15,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "抽奖一下顺便巡回互fo呀TwT\n哦哦我来随机出一点余量🥺\n原料药是菱形状晶体，非粉末\n｜双相｜ODer｜Gore｜\n叫我6点就好\n很温顺，可以找我问问题\n我会尽力回复 欢迎私信哦\n药理学习中\n\n关注+转赞评参与呀\n\n抽3个5.2r\n（人多的话可能再抽点pr？🤔）\n25或26号开\n补药没人理我呀😭 https://t.co/FTpZKljnHT"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T12:04:19.000Z",
+        "description": "kk/哭哭 一只海豹 sh/od内容 努力游出贝加尔湖 互关寻回中…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sealak",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sealak",
+                "start": 0,
+                "url": "https://t.co/mJiD4M1sS9"
+              }
+            ]
+          }
+        },
+        "id": "2077000098836545536",
+        "is_identity_verified": false,
+        "location": "贝加尔湖畔",
+        "most_recent_tweet_id": "2091786313095684530",
+        "name": "总而言之我哥哥非常非常好",
+        "pinned_tweet_id": "2079565491266531784",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2077000098836545536/1784030875",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077002116032303104/OOsRJMcA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 185,
+          "following_count": 105,
+          "like_count": 659,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 618
+        },
+        "url": "https://t.co/mJiD4M1sS9",
+        "username": "wwwyizhiku",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-12T20:25:09.000Z",
+        "description": "可以叫我6点。700fo前世@6De_dian\n\n让我明天 将一切重新来 该有多好？\n我一定更不负责任的生活 早知道。\n\n永远偏爱：@Korewoizontoyo\n\n｜双相｜ODer｜oc｜同人｜画手｜负能｜\n发什么随心情\n不见证不争议\n查属性回fo\n药理学爱好正在学习中…\n会尽力回答您的问题，可以私信我哦\npr有售",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 14,
+                "username": "6De_dian"
+              },
+              {
+                "end": 81,
+                "start": 66,
+                "username": "Korewoizontoyo"
+              }
+            ]
+          }
+        },
+        "id": "2087636528633982976",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091762508096823590",
+        "name": "绝望_6De点 2.0",
+        "pinned_tweet_id": "2087667609223524719",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2087636528633982976/1786566851",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087637037096771584/rJV3QI9C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 244,
+          "following_count": 247,
+          "like_count": 1673,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 501
+        },
+        "url": "",
+        "username": "67De_dian",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

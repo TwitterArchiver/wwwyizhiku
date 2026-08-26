@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2077000098836545536",
+    "conversation_id": "2079572749064835331",
+    "created_at": "2026-07-21T14:24:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T15:24:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079573179887161816"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2047699031502319616",
+          "start": 0,
+          "username": "Zxyywyl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079573179887161816",
+    "in_reply_to_user_id": "2047699031502319616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079572749064835331",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Zxyywyl 真的吗，我。好开心。鸭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077000098836545536",
+        "conversation_id": "2079572749064835331",
+        "created_at": "2026-07-21T14:24:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T15:24:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079573179887161816"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2047699031502319616",
+              "start": 0,
+              "username": "Zxyywyl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079573179887161816",
+        "in_reply_to_user_id": "2047699031502319616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079572749064835331",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zxyywyl 真的吗，我。好开心。鸭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047699031502319616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Beauty",
+              "id": "850395585941086209",
+              "name": "Beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Beauty Novelty",
+              "id": "855435585250484224",
+              "name": "Beauty Novelty"
+            }
+          }
+        ],
+        "conversation_id": "2079572749064835331",
+        "created_at": "2026-07-21T14:22:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T15:22:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079572749064835331"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wwwyizhiku/sta…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/wwwyizhiku/status/2078769337851154629",
+              "start": 17,
+              "url": "https://t.co/6GMdhNX6y7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079572749064835331",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078769337851154629",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我觉得。这个。真的。好漂亮。🥹🤤 https://t.co/6GMdhNX6y7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-14T12:04:19.000Z",
+        "description": "kk/哭哭 一只海豹，努力游出贝加尔湖",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sealak",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sealak",
+                "start": 0,
+                "url": "https://t.co/mJiD4M1sS9"
+              }
+            ]
+          }
+        },
+        "id": "2077000098836545536",
+        "location": "贝加尔湖畔",
+        "name": "总而言之我哥哥非常非常好",
+        "pinned_tweet_id": "2079565491266531784",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077002116032303104/OOsRJMcA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 60,
+          "like_count": 293,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 238
+        },
+        "url": "https://t.co/mJiD4M1sS9",
+        "username": "wwwyizhiku",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-24T15:31:28.000Z",
+        "description": "",
+        "id": "2047699031502319616",
+        "name": "六月",
+        "pinned_tweet_id": "2078809594483093920",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078865899881136128/CdGRkuZI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 101,
+          "like_count": 2623,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 127
+        },
+        "url": "",
+        "username": "Zxyywyl",
+        "verified": false
+      }
+    ]
+  }
+}

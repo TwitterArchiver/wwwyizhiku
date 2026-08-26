@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2079160051198300160"
+      ],
+      "media_source_tweet_id": [
+        "2079160056952791347"
+      ]
+    },
+    "author_id": "2077000098836545536",
+    "conversation_id": "2079176104397664518",
+    "created_at": "2026-07-20T12:06:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T13:06:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079176104397664518"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1327197298930028544",
+          "start": 3,
+          "username": "Psydrugswiki"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/VdDd1qsl9I",
+          "end": 134,
+          "expanded_url": "https://x.com/Psydrugswiki/status/2079160056952791347/photo/1",
+          "media_key": "3_2079160051198300160",
+          "start": 111,
+          "url": "https://t.co/VdDd1qsl9I"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079176104397664518",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079160056952791347",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Psydrugswiki: 此人张这样，他说的包括但不限于od区死了就死了 先奸后杀kr 好死什么的。在一个人精神崩溃的情况下说出这些话 无疑是可恶的。此完他打死辱骂od群体，结果他本人更像是吸毒的，自己看照片吧 https://t.co/VdDd1qsl9I"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 298,
+        "media_key": "3_2079160051198300160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNqpDPrbkAAok9N.jpg",
+        "width": 219
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079160051198300160"
+          ]
+        },
+        "author_id": "1327197298930028544",
+        "conversation_id": "2079160056952791347",
+        "created_at": "2026-07-20T11:02:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T12:02:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079160056952791347"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VdDd1qsl9I",
+              "end": 116,
+              "expanded_url": "https://x.com/Psydrugswiki/status/2079160056952791347/photo/1",
+              "media_key": "3_2079160051198300160",
+              "start": 93,
+              "url": "https://t.co/VdDd1qsl9I"
+            },
+            {
+              "display_url": "x.com/KrvyScorpii/st…",
+              "end": 140,
+              "expanded_url": "https://twitter.com/KrvyScorpii/status/2079155598621573276",
+              "start": 117,
+              "url": "https://t.co/CnSn9GB1Id"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079160056952791347",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 658,
+          "like_count": 22,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079155598621573276",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "此人张这样，他说的包括但不限于od区死了就死了 先奸后杀kr 好死什么的。在一个人精神崩溃的情况下说出这些话 无疑是可恶的。此完他打死辱骂od群体，结果他本人更像是吸毒的，自己看照片吧 https://t.co/VdDd1qsl9I https://t.co/CnSn9GB1Id"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079160051198300160"
+          ],
+          "media_source_tweet_id": [
+            "2079160056952791347"
+          ]
+        },
+        "author_id": "2077000098836545536",
+        "conversation_id": "2079176104397664518",
+        "created_at": "2026-07-20T12:06:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T13:06:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079176104397664518"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1327197298930028544",
+              "start": 3,
+              "username": "Psydrugswiki"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VdDd1qsl9I",
+              "end": 134,
+              "expanded_url": "https://x.com/Psydrugswiki/status/2079160056952791347/photo/1",
+              "media_key": "3_2079160051198300160",
+              "start": 111,
+              "url": "https://t.co/VdDd1qsl9I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079176104397664518",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079160056952791347",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Psydrugswiki: 此人张这样，他说的包括但不限于od区死了就死了 先奸后杀kr 好死什么的。在一个人精神崩溃的情况下说出这些话 无疑是可恶的。此完他打死辱骂od群体，结果他本人更像是吸毒的，自己看照片吧 https://t.co/VdDd1qsl9I"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-14T12:04:19.000Z",
+        "description": "kk/哭哭 一只海豹，努力游出贝加尔湖",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sealak",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sealak",
+                "start": 0,
+                "url": "https://t.co/mJiD4M1sS9"
+              }
+            ]
+          }
+        },
+        "id": "2077000098836545536",
+        "location": "贝加尔湖畔",
+        "name": "总而言之我哥哥非常非常好",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077002116032303104/OOsRJMcA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 55,
+          "like_count": 269,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 199
+        },
+        "url": "https://t.co/mJiD4M1sS9",
+        "username": "wwwyizhiku",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-13T10:31:21.000Z",
+        "description": "精神活性物质指栏 Psydrugs Wiki官方账号，多人运营中，https://t.co/CB9yLA9IjF 专注于精神药物科普",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "psydrugs.org",
+                "end": 56,
+                "expanded_url": "https://psydrugs.org",
+                "start": 33,
+                "url": "https://t.co/CB9yLA9IjF"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "psydrugs.org",
+                "end": 23,
+                "expanded_url": "https://psydrugs.org",
+                "start": 0,
+                "url": "https://t.co/CB9yLA9IjF"
+              }
+            ]
+          }
+        },
+        "id": "1327197298930028544",
+        "location": "Kansai, Hyogo",
+        "name": "Psydrugs official",
+        "pinned_tweet_id": "2060449609210831206",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015057185953263616/EoNq2pvq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1823,
+          "following_count": 241,
+          "like_count": 6286,
+          "listed_count": 0,
+          "media_count": 107,
+          "tweet_count": 1346
+        },
+        "url": "https://t.co/CB9yLA9IjF",
+        "username": "Psydrugswiki",
+        "verified": false
+      }
+    ]
+  }
+}

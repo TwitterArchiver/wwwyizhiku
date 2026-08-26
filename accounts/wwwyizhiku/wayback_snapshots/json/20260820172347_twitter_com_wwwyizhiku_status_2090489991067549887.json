@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2077000098836545536",
+    "conversation_id": "2090489991067549887",
+    "created_at": "2026-08-20T17:23:47.000Z",
+    "display_text_range": [
+      0,
+      40
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T18:23:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090489991067549887"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2027785341495873540",
+          "start": 3,
+          "username": "Zhouzhou28ep"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090489991067549887",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090307183195943194",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Zhouzhou28ep: 都是你们这些墙内的人一直发欧弟才害的我没药吃"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077000098836545536",
+        "conversation_id": "2090489991067549887",
+        "created_at": "2026-08-20T17:23:47.000Z",
+        "display_text_range": [
+          0,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T18:23:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090489991067549887"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2027785341495873540",
+              "start": 3,
+              "username": "Zhouzhou28ep"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090489991067549887",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090307183195943194",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Zhouzhou28ep: 都是你们这些墙内的人一直发欧弟才害的我没药吃"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2027785341495873540",
+        "conversation_id": "2090307183195943194",
+        "created_at": "2026-08-20T05:17:23.000Z",
+        "display_text_range": [
+          0,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T06:17:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090307183195943194"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2090307183195943194",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3169,
+          "like_count": 106,
+          "quote_count": 1,
+          "reply_count": 14,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "都是你们这些墙内的人一直发欧弟才害的我没药吃"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T12:04:19.000Z",
+        "description": "kk/哭哭 一只海豹 sh/od内容 努力游出贝加尔湖 互关寻回中…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sealak",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sealak",
+                "start": 0,
+                "url": "https://t.co/mJiD4M1sS9"
+              }
+            ]
+          }
+        },
+        "id": "2077000098836545536",
+        "is_identity_verified": false,
+        "location": "贝加尔湖畔",
+        "most_recent_tweet_id": "2090489991067549887",
+        "name": "总而言之我哥哥非常非常好",
+        "pinned_tweet_id": "2079565491266531784",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2077000098836545536/1784030875",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077002116032303104/OOsRJMcA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 98,
+          "like_count": 656,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 598
+        },
+        "url": "https://t.co/mJiD4M1sS9",
+        "username": "wwwyizhiku",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-02-28T16:39:01.000Z",
+        "description": "本人没素质傻逼一个此账号发表的所有言论,意在取悦自己,并通过文字或图片强制干预他人的思想,如果翻阅之后出现不适等症状,恭喜你,你怀了我的孩子 查成分回fo",
+        "id": "2027785341495873540",
+        "is_identity_verified": false,
+        "location": "0.01km",
+        "most_recent_tweet_id": "2090485126983549058",
+        "name": "zhou",
+        "pinned_tweet_id": "2087256331161936304",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2027785341495873540/1786110842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085726540848152576/cmX7prxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 430,
+          "following_count": 192,
+          "like_count": 1049,
+          "listed_count": 1,
+          "media_count": 44,
+          "tweet_count": 606
+        },
+        "url": "",
+        "username": "Zhouzhou28ep",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

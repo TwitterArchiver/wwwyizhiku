@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2077000098836545536",
+    "conversation_id": "2079117756608430457",
+    "created_at": "2026-07-20T08:14:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T09:14:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079117756608430457"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2073447900001042432",
+          "start": 3,
+          "username": "elizpup"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079117756608430457",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 581
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078504806763700405",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @elizpup: these pics make me wanna throw up everytime"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077000098836545536",
+        "conversation_id": "2079117756608430457",
+        "created_at": "2026-07-20T08:14:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T09:14:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079117756608430457"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2073447900001042432",
+              "start": 3,
+              "username": "elizpup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079117756608430457",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 581
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078504806763700405",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @elizpup: these pics make me wanna throw up everytime"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073447900001042432",
+        "conversation_id": "2078504806763700405",
+        "created_at": "2026-07-18T15:38:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T16:38:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078504806763700405"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kittykalzs/sta…",
+              "end": 67,
+              "expanded_url": "https://twitter.com/kittykalzs/status/2077901212196966656",
+              "start": 44,
+              "url": "https://t.co/PD0u7aDH1i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078504806763700405",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 486,
+          "impression_count": 85606,
+          "like_count": 8664,
+          "quote_count": 2,
+          "reply_count": 16,
+          "retweet_count": 581
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077901212196966656",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "these pics make me wanna throw up everytime https://t.co/PD0u7aDH1i"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-14T12:04:19.000Z",
+        "description": "kk/哭哭 一只海豹，努力游出贝加尔湖",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sealak",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sealak",
+                "start": 0,
+                "url": "https://t.co/mJiD4M1sS9"
+              }
+            ]
+          }
+        },
+        "id": "2077000098836545536",
+        "location": "贝加尔湖畔",
+        "name": "总而言之我哥哥非常非常好",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077002116032303104/OOsRJMcA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 55,
+          "like_count": 264,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 195
+        },
+        "url": "https://t.co/mJiD4M1sS9",
+        "username": "wwwyizhiku",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-04T16:46:37.000Z",
+        "description": "17 : she \n@elizapupp",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "elizapupp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "elizpup.straw.page",
+                "end": 23,
+                "expanded_url": "https://elizpup.straw.page",
+                "start": 0,
+                "url": "https://t.co/JVe75LtS0I"
+              }
+            ]
+          }
+        },
+        "id": "2073447900001042432",
+        "location": "hw 135 cw 125 gw 100",
+        "name": "elizabeth",
+        "pinned_tweet_id": "2073454024137879888",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075313728937947136/b4AMXCRg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 150,
+          "following_count": 252,
+          "like_count": 949,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 520
+        },
+        "url": "https://t.co/JVe75LtS0I",
+        "username": "elizpup",
+        "verified": false
+      }
+    ]
+  }
+}

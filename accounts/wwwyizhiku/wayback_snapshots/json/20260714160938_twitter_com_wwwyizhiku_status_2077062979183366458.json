@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2077000098836545536",
+    "conversation_id": "2066108367043772842",
+    "created_at": "2026-07-14T16:09:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T17:09:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077062979183366458"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1505767450385690625",
+          "start": 0,
+          "username": "Alistai33955292"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077062979183366458",
+    "in_reply_to_user_id": "1505767450385690625",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066108367043772842",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Alistai33955292 蹲蹲😿"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2066108363331809280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKxKnBfbMAAePw6.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077000098836545536",
+        "conversation_id": "2066108367043772842",
+        "created_at": "2026-07-14T16:09:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T17:09:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077062979183366458"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1505767450385690625",
+              "start": 0,
+              "username": "Alistai33955292"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077062979183366458",
+        "in_reply_to_user_id": "1505767450385690625",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066108367043772842",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Alistai33955292 蹲蹲😿"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066108363331809280"
+          ]
+        },
+        "author_id": "1505767450385690625",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2066108367043772842",
+        "created_at": "2026-06-14T10:39:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T11:39:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066108367043772842"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8y8NRTVsAE",
+              "end": 156,
+              "expanded_url": "https://x.com/Alistai33955292/status/2066108367043772842/photo/1",
+              "media_key": "3_2066108363331809280",
+              "start": 133,
+              "url": "https://t.co/8y8NRTVsAE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066108367043772842",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6771,
+          "like_count": 33,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "一个全新顶置\n我是🌰，叫我栗子或者别的都可以！\n06/已确诊双相二型/努力戒od/ed/自伤/未知性取向\n阶段性刷推，喜欢互动！(线下也可以知道我ip的可以小窗我)\n重度真皮脂肪层爱好者\n欢迎互fo！会查成分ovo\n我很缺钱，很缺。\n↓这些钱用于改善我的生活……！ https://t.co/8y8NRTVsAE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-14T12:04:19.000Z",
+        "description": "kk/哭哭 一只海豹，努力游出贝加尔湖",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sealak",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sealak",
+                "start": 0,
+                "url": "https://t.co/mJiD4M1sS9"
+              }
+            ]
+          }
+        },
+        "id": "2077000098836545536",
+        "location": "贝加尔湖畔",
+        "name": "总而言之我哥哥非常非常好",
+        "pinned_tweet_id": "2077044414782832722",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077002116032303104/OOsRJMcA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 19,
+          "like_count": 25,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 23
+        },
+        "url": "https://t.co/mJiD4M1sS9",
+        "username": "wwwyizhiku",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-21T04:45:18.000Z",
+        "description": "餐券丨od丨全性别友好丨只fo同类健人fo我拉黑丨希望爱我的我爱的人永远幸福/终生@youciAishiuu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 41,
+                "username": "youciAishiuu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nnbn17594",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nnbn17594",
+                "start": 0,
+                "url": "https://t.co/81DYKJ3Y8p"
+              }
+            ]
+          }
+        },
+        "id": "1505767450385690625",
+        "location": "天国",
+        "name": "🌰",
+        "pinned_tweet_id": "2066108367043772842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045141613958340608/DmfkJuqE_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 477,
+          "following_count": 648,
+          "like_count": 2504,
+          "listed_count": 0,
+          "media_count": 164,
+          "tweet_count": 3284
+        },
+        "url": "https://t.co/81DYKJ3Y8p",
+        "username": "Alistai33955292",
+        "verified": false
+      }
+    ]
+  }
+}

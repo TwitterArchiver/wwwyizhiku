@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2078637559513501696"
+      ],
+      "media_source_tweet_id": [
+        "2078637568019542240"
+      ]
+    },
+    "author_id": "2077000098836545536",
+    "conversation_id": "2078780087458054655",
+    "created_at": "2026-07-19T09:52:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T10:52:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078780087458054655"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1838225274715983872",
+          "start": 3,
+          "username": "smoothies450"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mU8T24sICE",
+          "end": 108,
+          "expanded_url": "https://x.com/smoothies450/status/2078637568019542240/photo/1",
+          "media_key": "3_2078637559513501696",
+          "start": 85,
+          "url": "https://t.co/mU8T24sICE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078780087458054655",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1012
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078637568019542240",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @smoothies450: “I’m not hurting myself!”\nAlso me as soon as something goes wrong: https://t.co/mU8T24sICE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 708,
+        "media_key": "3_2078637559513501696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNjN2OeWUAA29tu.jpg",
+        "width": 782
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078637559513501696"
+          ]
+        },
+        "author_id": "1838225274715983872",
+        "conversation_id": "2078637568019542240",
+        "created_at": "2026-07-19T00:26:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T01:26:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078637568019542240"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mU8T24sICE",
+              "end": 90,
+              "expanded_url": "https://x.com/smoothies450/status/2078637568019542240/photo/1",
+              "media_key": "3_2078637559513501696",
+              "start": 67,
+              "url": "https://t.co/mU8T24sICE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078637568019542240",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 94,
+          "impression_count": 14231,
+          "like_count": 3051,
+          "quote_count": 6,
+          "reply_count": 5,
+          "retweet_count": 1012
+        },
+        "reply_settings": "everyone",
+        "text": "“I’m not hurting myself!”\nAlso me as soon as something goes wrong: https://t.co/mU8T24sICE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078637559513501696"
+          ],
+          "media_source_tweet_id": [
+            "2078637568019542240"
+          ]
+        },
+        "author_id": "2077000098836545536",
+        "conversation_id": "2078780087458054655",
+        "created_at": "2026-07-19T09:52:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T10:52:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078780087458054655"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1838225274715983872",
+              "start": 3,
+              "username": "smoothies450"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mU8T24sICE",
+              "end": 108,
+              "expanded_url": "https://x.com/smoothies450/status/2078637568019542240/photo/1",
+              "media_key": "3_2078637559513501696",
+              "start": 85,
+              "url": "https://t.co/mU8T24sICE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078780087458054655",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1012
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078637568019542240",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @smoothies450: “I’m not hurting myself!”\nAlso me as soon as something goes wrong: https://t.co/mU8T24sICE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-14T12:04:19.000Z",
+        "description": "kk/哭哭 一只海豹，努力游出贝加尔湖",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sealak",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sealak",
+                "start": 0,
+                "url": "https://t.co/mJiD4M1sS9"
+              }
+            ]
+          }
+        },
+        "id": "2077000098836545536",
+        "location": "贝加尔湖畔",
+        "name": "总而言之我哥哥非常非常好",
+        "pinned_tweet_id": "2077660228103860393",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077002116032303104/OOsRJMcA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 48,
+          "like_count": 187,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 145
+        },
+        "url": "https://t.co/mJiD4M1sS9",
+        "username": "wwwyizhiku",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-23T14:34:11.000Z",
+        "description": "edtwt|drugtwt\n'Im a loner and I love drugs to much....sex addict....I need friends.'|ifb\n#edtwt #shedtwt",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 95,
+                "start": 89,
+                "tag": "edtwt"
+              },
+              {
+                "end": 104,
+                "start": 96,
+                "tag": "shedtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/26SXAKt8ep",
+                "end": 23,
+                "expanded_url": "https://discord.gg/26SXAKt8ep",
+                "start": 0,
+                "url": "https://t.co/QO9Zcq0PW8"
+              }
+            ]
+          }
+        },
+        "id": "1838225274715983872",
+        "location": "New Mexico, USA",
+        "name": "LINER • EDTWT",
+        "pinned_tweet_id": "2077462723860828344",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076546818502991872/a-MN3Gr-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1017,
+          "following_count": 1388,
+          "like_count": 31,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 65
+        },
+        "url": "https://t.co/QO9Zcq0PW8",
+        "username": "smoothies450",
+        "verified": false
+      }
+    ]
+  }
+}

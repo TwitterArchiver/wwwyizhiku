@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2077000098836545536",
+    "conversation_id": "2082497194796720166",
+    "created_at": "2026-07-29T23:44:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T00:44:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082613164349264228"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2077728357744275456",
+          "start": 0,
+          "username": "zerro00730"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082613164349264228",
+    "in_reply_to_user_id": "2077728357744275456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082497194796720166",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zerro00730 生日快乐呀！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1278,
+        "media_key": "3_2082497180825485312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOaEJwTbAAAY4zu.jpg",
+        "width": 1125
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077000098836545536",
+        "conversation_id": "2082497194796720166",
+        "created_at": "2026-07-29T23:44:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T00:44:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082613164349264228"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2077728357744275456",
+              "start": 0,
+              "username": "zerro00730"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082613164349264228",
+        "in_reply_to_user_id": "2077728357744275456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082497194796720166",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zerro00730 生日快乐呀！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082497180825485312"
+          ]
+        },
+        "author_id": "2077728357744275456",
+        "conversation_id": "2082497194796720166",
+        "created_at": "2026-07-29T16:03:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T17:03:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082497194796720166"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/21CJoaaVaL",
+              "end": 39,
+              "expanded_url": "https://x.com/zerro00730/status/2082497194796720166/photo/1",
+              "media_key": "3_2082497180825485312",
+              "start": 16,
+              "url": "https://t.co/21CJoaaVaL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082497194796720166",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 41,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天不吃板面! 吃生日蛋糕!🎂 https://t.co/21CJoaaVaL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-14T12:04:19.000Z",
+        "description": "kk/哭哭 一只海豹 sh/od内容 努力游出贝加尔湖 互关寻回中…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sealak",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sealak",
+                "start": 0,
+                "url": "https://t.co/mJiD4M1sS9"
+              }
+            ]
+          }
+        },
+        "id": "2077000098836545536",
+        "location": "贝加尔湖畔",
+        "name": "总而言之我哥哥非常非常好",
+        "pinned_tweet_id": "2079565491266531784",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077002116032303104/OOsRJMcA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 91,
+          "like_count": 476,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 399
+        },
+        "url": "https://t.co/mJiD4M1sS9",
+        "username": "wwwyizhiku",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-16T12:14:42.000Z",
+        "description": "天使@Zzerro77\n（过🚪请看⬆️）\n我的賬號被制裁了…等我會來!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 2,
+                "username": "Zzerro77"
+              }
+            ]
+          }
+        },
+        "id": "2077728357744275456",
+        "name": "板面之王",
+        "pinned_tweet_id": "2077926252279898236",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078175338656645120/xHkdTF0e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 34,
+          "like_count": 593,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 202
+        },
+        "url": "",
+        "username": "zerro00730",
+        "verified": false
+      }
+    ]
+  }
+}

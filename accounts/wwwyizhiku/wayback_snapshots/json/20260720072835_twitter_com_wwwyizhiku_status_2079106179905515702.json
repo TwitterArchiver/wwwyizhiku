@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2077000098836545536",
+    "conversation_id": "2079106179905515702",
+    "created_at": "2026-07-20T07:28:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T08:28:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079106179905515702"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Lay0113/status…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/Lay0113/status/2079037945714221268",
+          "start": 5,
+          "url": "https://t.co/xHFGBBQBvP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079106179905515702",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079037945714221268",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好开心呀 https://t.co/xHFGBBQBvP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2079037939200462848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNo5_ZCakAAlnmU.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077000098836545536",
+        "conversation_id": "2079106179905515702",
+        "created_at": "2026-07-20T07:28:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T08:28:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079106179905515702"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Lay0113/status…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/Lay0113/status/2079037945714221268",
+              "start": 5,
+              "url": "https://t.co/xHFGBBQBvP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079106179905515702",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079037945714221268",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好开心呀 https://t.co/xHFGBBQBvP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079037939200462848"
+          ]
+        },
+        "author_id": "294626568",
+        "conversation_id": "2079037945714221268",
+        "created_at": "2026-07-20T02:57:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T03:57:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079037945714221268"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9o4XIpTEqm",
+              "end": 38,
+              "expanded_url": "https://x.com/Lay0113/status/2079037945714221268/photo/1",
+              "media_key": "3_2079037939200462848",
+              "start": 15,
+              "url": "https://t.co/9o4XIpTEqm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079037945714221268",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 31,
+          "impression_count": 13608,
+          "like_count": 1465,
+          "quote_count": 7,
+          "reply_count": 2,
+          "retweet_count": 220
+        },
+        "reply_settings": "everyone",
+        "text": "夏芽💛お誕生日おめでとう🎂🎧 https://t.co/9o4XIpTEqm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-14T12:04:19.000Z",
+        "description": "kk/哭哭 一只海豹，努力游出贝加尔湖",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sealak",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sealak",
+                "start": 0,
+                "url": "https://t.co/mJiD4M1sS9"
+              }
+            ]
+          }
+        },
+        "id": "2077000098836545536",
+        "location": "贝加尔湖畔",
+        "name": "总而言之我哥哥非常非常好",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077002116032303104/OOsRJMcA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 54,
+          "like_count": 260,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 194
+        },
+        "url": "https://t.co/mJiD4M1sS9",
+        "username": "wwwyizhiku",
+        "verified": false
+      },
+      {
+        "created_at": "2011-05-07T13:48:04.000Z",
+        "description": "Singer🎤 RAISE A SUILEN🎧RAS レイヤ ／ D4DJ 姫神紗乃 ／FFBE幻影戦争 ／FMおだわら📻 #チェルラバ ／Fanclub会員 #ちぇるどれん 募集中👠／#ちぇるチューブ https://t.co/AKw9HGzUpJ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 68,
+                "start": 62,
+                "tag": "チェルラバ"
+              },
+              {
+                "end": 87,
+                "start": 80,
+                "tag": "ちぇるどれん"
+              },
+              {
+                "end": 101,
+                "start": 93,
+                "tag": "ちぇるチューブ"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "m.youtube.com/channel/UCiMQ-…",
+                "end": 125,
+                "expanded_url": "https://m.youtube.com/channel/UCiMQ-1qB4qHR4bJZ3VRxUkQ",
+                "start": 102,
+                "url": "https://t.co/AKw9HGzUpJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "raychell.net",
+                "end": 23,
+                "expanded_url": "https://raychell.net/",
+                "start": 0,
+                "url": "https://t.co/9irEUhhPLq"
+              }
+            ]
+          }
+        },
+        "id": "294626568",
+        "location": "\"R\" WORLD",
+        "name": "RAYCHELL👠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032725643923001344/LZQDYo84_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 181182,
+          "following_count": 863,
+          "like_count": 64559,
+          "listed_count": 1844,
+          "media_count": 9610,
+          "tweet_count": 49766
+        },
+        "url": "https://t.co/9irEUhhPLq",
+        "username": "Lay0113",
+        "verified": false
+      }
+    ]
+  }
+}

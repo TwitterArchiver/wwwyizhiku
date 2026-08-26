@@ -1,0 +1,441 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083177016824860672",
+        "3_2083177016233545729",
+        "3_2083177016279588864",
+        "3_2083177016241885184"
+      ],
+      "media_source_tweet_id": [
+        "2083177750865785215",
+        "2083177750865785215",
+        "2083177750865785215",
+        "2083177750865785215"
+      ]
+    },
+    "author_id": "2077000098836545536",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2083221341147173070",
+    "created_at": "2026-07-31T16:00:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T17:00:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083221341147173070"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "705087107849703424",
+          "start": 3,
+          "username": "NomfusiSetlhodi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZcSHldwdS4",
+          "end": 140,
+          "expanded_url": "https://x.com/NomfusiSetlhodi/status/2083177750865785215/photo/1",
+          "media_key": "3_2083177016824860672",
+          "start": 117,
+          "url": "https://t.co/ZcSHldwdS4"
+        },
+        {
+          "display_url": "pic.x.com/ZcSHldwdS4",
+          "end": 140,
+          "expanded_url": "https://x.com/NomfusiSetlhodi/status/2083177750865785215/photo/1",
+          "media_key": "3_2083177016233545729",
+          "start": 117,
+          "url": "https://t.co/ZcSHldwdS4"
+        },
+        {
+          "display_url": "pic.x.com/ZcSHldwdS4",
+          "end": 140,
+          "expanded_url": "https://x.com/NomfusiSetlhodi/status/2083177750865785215/photo/1",
+          "media_key": "3_2083177016279588864",
+          "start": 117,
+          "url": "https://t.co/ZcSHldwdS4"
+        },
+        {
+          "display_url": "pic.x.com/ZcSHldwdS4",
+          "end": 140,
+          "expanded_url": "https://x.com/NomfusiSetlhodi/status/2083177750865785215/photo/1",
+          "media_key": "3_2083177016241885184",
+          "start": 117,
+          "url": "https://t.co/ZcSHldwdS4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083221341147173070",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083177750865785215",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NomfusiSetlhodi: hello米娜桑！这里是伊井瀮！\n9月现役中1生😭\n我喜欢吃辣条还有巧乐兹🤤\n很温良欢迎互动🥺🥺🥺🥺\n因为家里断供了所以不得不网络乞讨orz\n（ososos快点认出我木木木木雨！！20_0） https://t.co/ZcSHldwdS4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1208,
+        "media_key": "3_2083177016824860672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOjudawakAAY-yI.jpg",
+        "width": 1216
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2083177016233545729",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOjudYjb0AEXxMH.jpg",
+        "width": 2048
+      },
+      {
+        "height": 892,
+        "media_key": "3_2083177016279588864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOjudYuaYAAYcwc.jpg",
+        "width": 1183
+      },
+      {
+        "height": 1193,
+        "media_key": "3_2083177016241885184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOjudYlbEAAv3QP.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083177016824860672",
+            "3_2083177016233545729",
+            "3_2083177016279588864",
+            "3_2083177016241885184"
+          ]
+        },
+        "author_id": "705087107849703424",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2083177750865785215",
+        "created_at": "2026-07-31T13:07:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T14:07:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083177750865785215"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZcSHldwdS4",
+              "end": 119,
+              "expanded_url": "https://x.com/NomfusiSetlhodi/status/2083177750865785215/photo/1",
+              "media_key": "3_2083177016824860672",
+              "start": 96,
+              "url": "https://t.co/ZcSHldwdS4"
+            },
+            {
+              "display_url": "pic.x.com/ZcSHldwdS4",
+              "end": 119,
+              "expanded_url": "https://x.com/NomfusiSetlhodi/status/2083177750865785215/photo/1",
+              "media_key": "3_2083177016233545729",
+              "start": 96,
+              "url": "https://t.co/ZcSHldwdS4"
+            },
+            {
+              "display_url": "pic.x.com/ZcSHldwdS4",
+              "end": 119,
+              "expanded_url": "https://x.com/NomfusiSetlhodi/status/2083177750865785215/photo/1",
+              "media_key": "3_2083177016279588864",
+              "start": 96,
+              "url": "https://t.co/ZcSHldwdS4"
+            },
+            {
+              "display_url": "pic.x.com/ZcSHldwdS4",
+              "end": 119,
+              "expanded_url": "https://x.com/NomfusiSetlhodi/status/2083177750865785215/photo/1",
+              "media_key": "3_2083177016241885184",
+              "start": 96,
+              "url": "https://t.co/ZcSHldwdS4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083177750865785215",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 323,
+          "like_count": 15,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "hello米娜桑！这里是伊井瀮！\n9月现役中1生😭\n我喜欢吃辣条还有巧乐兹🤤\n很温良欢迎互动🥺🥺🥺🥺\n因为家里断供了所以不得不网络乞讨orz\n（ososos快点认出我木木木木雨！！20_0） https://t.co/ZcSHldwdS4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083177016824860672",
+            "3_2083177016233545729",
+            "3_2083177016279588864",
+            "3_2083177016241885184"
+          ],
+          "media_source_tweet_id": [
+            "2083177750865785215",
+            "2083177750865785215",
+            "2083177750865785215",
+            "2083177750865785215"
+          ]
+        },
+        "author_id": "2077000098836545536",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2083221341147173070",
+        "created_at": "2026-07-31T16:00:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T17:00:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083221341147173070"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "705087107849703424",
+              "start": 3,
+              "username": "NomfusiSetlhodi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZcSHldwdS4",
+              "end": 140,
+              "expanded_url": "https://x.com/NomfusiSetlhodi/status/2083177750865785215/photo/1",
+              "media_key": "3_2083177016824860672",
+              "start": 117,
+              "url": "https://t.co/ZcSHldwdS4"
+            },
+            {
+              "display_url": "pic.x.com/ZcSHldwdS4",
+              "end": 140,
+              "expanded_url": "https://x.com/NomfusiSetlhodi/status/2083177750865785215/photo/1",
+              "media_key": "3_2083177016233545729",
+              "start": 117,
+              "url": "https://t.co/ZcSHldwdS4"
+            },
+            {
+              "display_url": "pic.x.com/ZcSHldwdS4",
+              "end": 140,
+              "expanded_url": "https://x.com/NomfusiSetlhodi/status/2083177750865785215/photo/1",
+              "media_key": "3_2083177016279588864",
+              "start": 117,
+              "url": "https://t.co/ZcSHldwdS4"
+            },
+            {
+              "display_url": "pic.x.com/ZcSHldwdS4",
+              "end": 140,
+              "expanded_url": "https://x.com/NomfusiSetlhodi/status/2083177750865785215/photo/1",
+              "media_key": "3_2083177016241885184",
+              "start": 117,
+              "url": "https://t.co/ZcSHldwdS4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083221341147173070",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083177750865785215",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NomfusiSetlhodi: hello米娜桑！这里是伊井瀮！\n9月现役中1生😭\n我喜欢吃辣条还有巧乐兹🤤\n很温良欢迎互动🥺🥺🥺🥺\n因为家里断供了所以不得不网络乞讨orz\n（ososos快点认出我木木木木雨！！20_0） https://t.co/ZcSHldwdS4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-14T12:04:19.000Z",
+        "description": "kk/哭哭 一只海豹 sh/od内容 努力游出贝加尔湖 互关寻回中…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sealak",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sealak",
+                "start": 0,
+                "url": "https://t.co/mJiD4M1sS9"
+              }
+            ]
+          }
+        },
+        "id": "2077000098836545536",
+        "location": "贝加尔湖畔",
+        "name": "总而言之我哥哥非常非常好",
+        "pinned_tweet_id": "2079565491266531784",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077002116032303104/OOsRJMcA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 89,
+          "like_count": 487,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 419
+        },
+        "url": "https://t.co/mJiD4M1sS9",
+        "username": "wwwyizhiku",
+        "verified": false
+      },
+      {
+        "created_at": "2016-03-02T17:47:21.000Z",
+        "description": "认出我。\n- ✰*🎀 ੈ✩🍥✰*💗ੈ✩-\n互联网依存！查成分回fo/我是小孩子不要和我计较！\n宇宙级严重失眠 -现役初中生\n^✟❀小号@yumumu_msknb❀💊@AminoXx_killer ❀ 💞@woaiuai0721❀🐱@niconekkod❀✟",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 67,
+                "username": "yumumu_msknb"
+              },
+              {
+                "end": 97,
+                "start": 82,
+                "username": "AminoXx_killer"
+              },
+              {
+                "end": 113,
+                "start": 101,
+                "username": "woaiuai0721"
+              },
+              {
+                "end": 126,
+                "start": 115,
+                "username": "niconekkod"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+A7UqL85q-kpkO…",
+                "end": 23,
+                "expanded_url": "https://t.me/+A7UqL85q-kpkOTEx",
+                "start": 0,
+                "url": "https://t.co/MZBvWf8Hki"
+              }
+            ]
+          }
+        },
+        "id": "705087107849703424",
+        "location": "你看看你身后",
+        "name": "伊井瀮（邪恶之王）",
+        "pinned_tweet_id": "2083177750865785215",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083173953791725568/lQ24d7RW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 10,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 4
+        },
+        "url": "https://t.co/MZBvWf8Hki",
+        "username": "NomfusiSetlhodi",
+        "verified": false
+      }
+    ]
+  }
+}

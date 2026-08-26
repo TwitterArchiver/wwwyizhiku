@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2078438294451294208"
+      ],
+      "media_source_tweet_id": [
+        "2078525207137145089"
+      ]
+    },
+    "author_id": "2077000098836545536",
+    "conversation_id": "2078825295801373073",
+    "created_at": "2026-07-19T12:52:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T13:52:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078825295801373073"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2010417524526260224",
+          "start": 3,
+          "username": "lovedarksoul"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vXBjoUa2WH",
+          "end": 41,
+          "expanded_url": "https://x.com/lovedarksoul/status/2078525207137145089/photo/1",
+          "media_key": "3_2078438294451294208",
+          "start": 18,
+          "url": "https://t.co/vXBjoUa2WH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078825295801373073",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 43
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078525207137145089",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lovedarksoul: https://t.co/vXBjoUa2WH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 888,
+        "media_key": "3_2078438294451294208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNgYneRWkAA3i13.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078438294451294208"
+          ]
+        },
+        "author_id": "2010417524526260224",
+        "conversation_id": "2078525207137145089",
+        "created_at": "2026-07-18T17:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T18:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078525207137145089"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vXBjoUa2WH",
+              "end": 23,
+              "expanded_url": "https://x.com/lovedarksoul/status/2078525207137145089/photo/1",
+              "media_key": "3_2078438294451294208",
+              "start": 0,
+              "url": "https://t.co/vXBjoUa2WH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078525207137145089",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 47,
+          "impression_count": 10351,
+          "like_count": 477,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 43
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/vXBjoUa2WH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078438294451294208"
+          ],
+          "media_source_tweet_id": [
+            "2078525207137145089"
+          ]
+        },
+        "author_id": "2077000098836545536",
+        "conversation_id": "2078825295801373073",
+        "created_at": "2026-07-19T12:52:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T13:52:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078825295801373073"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2010417524526260224",
+              "start": 3,
+              "username": "lovedarksoul"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vXBjoUa2WH",
+              "end": 41,
+              "expanded_url": "https://x.com/lovedarksoul/status/2078525207137145089/photo/1",
+              "media_key": "3_2078438294451294208",
+              "start": 18,
+              "url": "https://t.co/vXBjoUa2WH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078825295801373073",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 43
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078525207137145089",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lovedarksoul: https://t.co/vXBjoUa2WH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-14T12:04:19.000Z",
+        "description": "kk/哭哭 一只海豹，努力游出贝加尔湖",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sealak",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sealak",
+                "start": 0,
+                "url": "https://t.co/mJiD4M1sS9"
+              }
+            ]
+          }
+        },
+        "id": "2077000098836545536",
+        "location": "贝加尔湖畔",
+        "name": "总而言之我哥哥非常非常好",
+        "pinned_tweet_id": "2077660228103860393",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077002116032303104/OOsRJMcA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 49,
+          "like_count": 201,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 151
+        },
+        "url": "https://t.co/mJiD4M1sS9",
+        "username": "wwwyizhiku",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-11T18:24:35.000Z",
+        "description": "Plin plin plon",
+        "id": "2010417524526260224",
+        "name": "lovedarksoul",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077431795960737792/95ZTe92s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42711,
+          "following_count": 23,
+          "like_count": 1177,
+          "listed_count": 79,
+          "media_count": 1271,
+          "tweet_count": 1278
+        },
+        "url": "",
+        "username": "lovedarksoul",
+        "verified": true
+      }
+    ]
+  }
+}

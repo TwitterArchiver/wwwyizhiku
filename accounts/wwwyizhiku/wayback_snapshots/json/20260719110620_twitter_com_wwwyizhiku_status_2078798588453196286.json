@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2078489126593085440",
+        "3_2078489150479548416"
+      ],
+      "media_source_tweet_id": [
+        "2078541561143452050",
+        "2078541561143452050"
+      ]
+    },
+    "author_id": "2077000098836545536",
+    "conversation_id": "2078798588453196286",
+    "created_at": "2026-07-19T11:06:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T12:06:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078798588453196286"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2038247567742418944",
+          "start": 3,
+          "username": "itgirlsvogue"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/QULWFRjmJB",
+          "end": 41,
+          "expanded_url": "https://x.com/itgirlsvogue/status/2078541561143452050/photo/1",
+          "media_key": "3_2078489126593085440",
+          "start": 18,
+          "url": "https://t.co/QULWFRjmJB"
+        },
+        {
+          "display_url": "pic.x.com/QULWFRjmJB",
+          "end": 41,
+          "expanded_url": "https://x.com/itgirlsvogue/status/2078541561143452050/photo/1",
+          "media_key": "3_2078489150479548416",
+          "start": 18,
+          "url": "https://t.co/QULWFRjmJB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078798588453196286",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1732
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078541561143452050",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @itgirlsvogue: https://t.co/QULWFRjmJB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 853,
+        "media_key": "3_2078489126593085440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNhG2SwXwAAvvKS.jpg",
+        "width": 640
+      },
+      {
+        "height": 853,
+        "media_key": "3_2078489150479548416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNhG3rvWQAAYPs1.jpg",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078489126593085440",
+            "3_2078489150479548416"
+          ]
+        },
+        "author_id": "2038247567742418944",
+        "conversation_id": "2078541561143452050",
+        "created_at": "2026-07-18T18:05:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T19:05:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078541561143452050"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QULWFRjmJB",
+              "end": 23,
+              "expanded_url": "https://x.com/itgirlsvogue/status/2078541561143452050/photo/1",
+              "media_key": "3_2078489126593085440",
+              "start": 0,
+              "url": "https://t.co/QULWFRjmJB"
+            },
+            {
+              "display_url": "pic.x.com/QULWFRjmJB",
+              "end": 23,
+              "expanded_url": "https://x.com/itgirlsvogue/status/2078541561143452050/photo/1",
+              "media_key": "3_2078489150479548416",
+              "start": 0,
+              "url": "https://t.co/QULWFRjmJB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078541561143452050",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1658,
+          "impression_count": 387355,
+          "like_count": 16731,
+          "quote_count": 147,
+          "reply_count": 48,
+          "retweet_count": 1732
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/QULWFRjmJB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078489126593085440",
+            "3_2078489150479548416"
+          ],
+          "media_source_tweet_id": [
+            "2078541561143452050",
+            "2078541561143452050"
+          ]
+        },
+        "author_id": "2077000098836545536",
+        "conversation_id": "2078798588453196286",
+        "created_at": "2026-07-19T11:06:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T12:06:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078798588453196286"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2038247567742418944",
+              "start": 3,
+              "username": "itgirlsvogue"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QULWFRjmJB",
+              "end": 41,
+              "expanded_url": "https://x.com/itgirlsvogue/status/2078541561143452050/photo/1",
+              "media_key": "3_2078489126593085440",
+              "start": 18,
+              "url": "https://t.co/QULWFRjmJB"
+            },
+            {
+              "display_url": "pic.x.com/QULWFRjmJB",
+              "end": 41,
+              "expanded_url": "https://x.com/itgirlsvogue/status/2078541561143452050/photo/1",
+              "media_key": "3_2078489150479548416",
+              "start": 18,
+              "url": "https://t.co/QULWFRjmJB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078798588453196286",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1732
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078541561143452050",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @itgirlsvogue: https://t.co/QULWFRjmJB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-14T12:04:19.000Z",
+        "description": "kk/哭哭 一只海豹，努力游出贝加尔湖",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sealak",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sealak",
+                "start": 0,
+                "url": "https://t.co/mJiD4M1sS9"
+              }
+            ]
+          }
+        },
+        "id": "2077000098836545536",
+        "location": "贝加尔湖畔",
+        "name": "总而言之我哥哥非常非常好",
+        "pinned_tweet_id": "2077660228103860393",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077002116032303104/OOsRJMcA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 47,
+          "like_count": 194,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 149
+        },
+        "url": "https://t.co/mJiD4M1sS9",
+        "username": "wwwyizhiku",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-29T13:31:55.000Z",
+        "description": "your digital lookbook. curated outfits & aesthetic vibes.",
+        "id": "2038247567742418944",
+        "location": "Pinterest ",
+        "name": "‎‏َ",
+        "pinned_tweet_id": "2063665329566257552",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063612971805188097/uM2w8sKx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4481,
+          "following_count": 447,
+          "like_count": 249,
+          "listed_count": 6,
+          "media_count": 645,
+          "tweet_count": 663
+        },
+        "url": "",
+        "username": "itgirlsvogue",
+        "verified": true
+      }
+    ]
+  }
+}

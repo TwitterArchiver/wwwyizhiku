@@ -1,0 +1,319 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2077000098836545536",
+    "conversation_id": "2084995885113745709",
+    "created_at": "2026-08-05T14:23:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T15:23:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085008761890996731"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1132729630245265408",
+          "start": 0,
+          "username": "pr80net"
+        },
+        {
+          "end": 19,
+          "id": "38217523",
+          "start": 9,
+          "username": "ZakkysLab"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085008761890996731",
+    "in_reply_to_user_id": "1132729630245265408",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084995885113745709",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pr80net @ZakkysLab 一个…每天傻玩…永劫无间和apex的…海豹…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1435,
+        "media_key": "3_2084994395854745600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO9jWzOaMAAyGhj.jpg",
+        "width": 1170
+      },
+      {
+        "height": 3225,
+        "media_key": "3_2084995808559308800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO9kpB9bIAAf1O-.jpg",
+        "width": 2419
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077000098836545536",
+        "conversation_id": "2084995885113745709",
+        "created_at": "2026-08-05T14:23:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T15:23:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085008761890996731"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1132729630245265408",
+              "start": 0,
+              "username": "pr80net"
+            },
+            {
+              "end": 19,
+              "id": "38217523",
+              "start": 9,
+              "username": "ZakkysLab"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085008761890996731",
+        "in_reply_to_user_id": "1132729630245265408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084995885113745709",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pr80net @ZakkysLab 一个…每天傻玩…永劫无间和apex的…海豹…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084994395854745600",
+            "3_2084995808559308800"
+          ]
+        },
+        "author_id": "1132729630245265408",
+        "conversation_id": "2084995885113745709",
+        "created_at": "2026-08-05T13:32:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T14:32:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084995885113745709"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 115,
+              "id": "38217523",
+              "start": 105,
+              "username": "ZakkysLab"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cY5snhdvv8",
+              "end": 162,
+              "expanded_url": "https://x.com/pr80net/status/2084995885113745709/photo/1",
+              "media_key": "3_2084994395854745600",
+              "start": 139,
+              "url": "https://t.co/cY5snhdvv8"
+            },
+            {
+              "display_url": "pic.x.com/cY5snhdvv8",
+              "end": 162,
+              "expanded_url": "https://x.com/pr80net/status/2084995885113745709/photo/1",
+              "media_key": "3_2084995808559308800",
+              "start": 139,
+              "url": "https://t.co/cY5snhdvv8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084995885113745709",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 259,
+          "like_count": 9,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "【永夜安港今日空投贴】\n今天玩点不一样的！整点交友环节，你是个什么样的人？你想认识什么样的人，喜欢听什么歌玩什么游戏，希望这里的评论区能找到你想遇见的人，依旧随机选人送出空投妙妙小礼物，本期赛博红娘牵线依旧由 @ZakkysLab 赞助，永夜安港一直想让大伙能真挚的交到朋友。 https://t.co/cY5snhdvv8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-14T12:04:19.000Z",
+        "description": "kk/哭哭 一只海豹 sh/od内容 努力游出贝加尔湖 互关寻回中…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sealak",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sealak",
+                "start": 0,
+                "url": "https://t.co/mJiD4M1sS9"
+              }
+            ]
+          }
+        },
+        "id": "2077000098836545536",
+        "location": "贝加尔湖畔",
+        "name": "总而言之我哥哥非常非常好",
+        "pinned_tweet_id": "2079565491266531784",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077002116032303104/OOsRJMcA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 91,
+          "like_count": 525,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 453
+        },
+        "url": "https://t.co/mJiD4M1sS9",
+        "username": "wwwyizhiku",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-26T19:26:03.000Z",
+        "description": "https://t.co/U6cOi5U2lA\n平等尊重每一个人，才能获得每一个人平等的尊重。\n极端冷门药物科普 / 平等交流社区 / 友一切人工回fo\nSponsored by Zakky's @ZakkysLab\nCreated by Luvsenberg",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 98,
+                "username": "ZakkysLab"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/ilovepr80",
+                "end": 23,
+                "expanded_url": "https://t.me/ilovepr80",
+                "start": 0,
+                "url": "https://t.co/U6cOi5U2lA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pr80.net",
+                "end": 23,
+                "expanded_url": "https://pr80.net/",
+                "start": 0,
+                "url": "https://t.co/Un7kre1jRa"
+              }
+            ]
+          }
+        },
+        "id": "1132729630245265408",
+        "location": "永夜安港",
+        "name": "pr80.net 永夜安港",
+        "pinned_tweet_id": "2084995885113745709",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081293237512474624/vfSaAf5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 697,
+          "following_count": 513,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 126
+        },
+        "url": "https://t.co/Un7kre1jRa",
+        "username": "pr80net",
+        "verified": true
+      },
+      {
+        "created_at": "2009-05-06T16:33:52.000Z",
+        "description": "welcome to los pollos hermanos.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Zakky979",
+                "end": 23,
+                "expanded_url": "https://t.me/Zakky979",
+                "start": 0,
+                "url": "https://t.co/I2Is12SUjx"
+              }
+            ]
+          }
+        },
+        "id": "38217523",
+        "name": "Zakky's LAB 养号中",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083182116012224512/rSNbGMS3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 56,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 49
+        },
+        "url": "https://t.co/I2Is12SUjx",
+        "username": "ZakkysLab",
+        "verified": true
+      }
+    ]
+  }
+}

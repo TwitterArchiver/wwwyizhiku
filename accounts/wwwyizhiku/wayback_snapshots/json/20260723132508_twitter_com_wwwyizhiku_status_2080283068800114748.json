@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2080282977192296448"
+      ]
+    },
+    "author_id": "2077000098836545536",
+    "conversation_id": "2080283068800114748",
+    "created_at": "2026-07-23T13:25:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T14:25:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080283068800114748"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/YRJpaSl3lQ",
+          "end": 41,
+          "expanded_url": "https://x.com/wwwyizhiku/status/2080283068800114748/video/1",
+          "media_key": "7_2080282977192296448",
+          "start": 18,
+          "url": "https://t.co/YRJpaSl3lQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080283068800114748",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "宝贝…海豹终于有属于自己的小猫了… https://t.co/YRJpaSl3lQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 16431,
+        "height": 720,
+        "media_key": "7_2080282977192296448",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2080282977192296448/pu/img/rAZxz5obC7VL637p.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2080282977192296448/pu/vid/avc1/480x270/ufKuv-0olLDKBRL-.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2080282977192296448/pu/vid/avc1/640x360/dQTwAsFz78fTxs4O.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2080282977192296448/pu/vid/avc1/1280x720/dA4qWXC3cfXNDVqh.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2080282977192296448/pu/pl/SaPGLOsOljniDXpn.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2080282977192296448"
+          ]
+        },
+        "author_id": "2077000098836545536",
+        "conversation_id": "2080283068800114748",
+        "created_at": "2026-07-23T13:25:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T14:25:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080283068800114748"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YRJpaSl3lQ",
+              "end": 41,
+              "expanded_url": "https://x.com/wwwyizhiku/status/2080283068800114748/video/1",
+              "media_key": "7_2080282977192296448",
+              "start": 18,
+              "url": "https://t.co/YRJpaSl3lQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080283068800114748",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "宝贝…海豹终于有属于自己的小猫了… https://t.co/YRJpaSl3lQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-14T12:04:19.000Z",
+        "description": "kk/哭哭 一只海豹 sh/od内容 努力游出贝加尔湖 互关寻回中…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sealak",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sealak",
+                "start": 0,
+                "url": "https://t.co/mJiD4M1sS9"
+              }
+            ]
+          }
+        },
+        "id": "2077000098836545536",
+        "location": "贝加尔湖畔",
+        "name": "总而言之我哥哥非常非常好",
+        "pinned_tweet_id": "2077044414782832722",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077002116032303104/OOsRJMcA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 74,
+          "like_count": 375,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 303
+        },
+        "url": "https://t.co/mJiD4M1sS9",
+        "username": "wwwyizhiku",
+        "verified": false
+      }
+    ]
+  }
+}

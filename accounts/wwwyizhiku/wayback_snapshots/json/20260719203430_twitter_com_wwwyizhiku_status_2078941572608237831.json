@@ -1,0 +1,334 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2078789526957555712"
+      ],
+      "media_source_tweet_id": [
+        "2078789836954337314"
+      ]
+    },
+    "author_id": "2077000098836545536",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "id": "1364594897458663425",
+          "name": "Sauna"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1364594897458663425",
+          "name": "Sauna"
+        }
+      }
+    ],
+    "conversation_id": "2078941572608237831",
+    "created_at": "2026-07-19T20:34:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T21:34:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078941572608237831"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2061349239205380097",
+          "start": 3,
+          "username": "narafume"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/UTJUc4AG9p",
+          "end": 48,
+          "expanded_url": "https://x.com/narafume/status/2078789836954337314/photo/1",
+          "media_key": "3_2078789526957555712",
+          "start": 25,
+          "url": "https://t.co/UTJUc4AG9p"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078941572608237831",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 290
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078789836954337314",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @narafume: 競宴水着サウナバトル https://t.co/UTJUc4AG9p"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1504,
+        "media_key": "3_2078789526957555712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNlYD5UbgAAg6-3.jpg",
+        "width": 1062
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078789526957555712"
+          ]
+        },
+        "author_id": "2061349239205380097",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1364594897458663425",
+              "name": "Sauna"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1364594897458663425",
+              "name": "Sauna"
+            }
+          }
+        ],
+        "conversation_id": "2078789836954337314",
+        "created_at": "2026-07-19T10:31:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T11:31:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078789836954337314"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UTJUc4AG9p",
+              "end": 34,
+              "expanded_url": "https://x.com/narafume/status/2078789836954337314/photo/1",
+              "media_key": "3_2078789526957555712",
+              "start": 11,
+              "url": "https://t.co/UTJUc4AG9p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078789836954337314",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 565,
+          "impression_count": 42872,
+          "like_count": 3001,
+          "quote_count": 5,
+          "reply_count": 5,
+          "retweet_count": 290
+        },
+        "reply_settings": "everyone",
+        "text": "競宴水着サウナバトル https://t.co/UTJUc4AG9p"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078789526957555712"
+          ],
+          "media_source_tweet_id": [
+            "2078789836954337314"
+          ]
+        },
+        "author_id": "2077000098836545536",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1364594897458663425",
+              "name": "Sauna"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1364594897458663425",
+              "name": "Sauna"
+            }
+          }
+        ],
+        "conversation_id": "2078941572608237831",
+        "created_at": "2026-07-19T20:34:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T21:34:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078941572608237831"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2061349239205380097",
+              "start": 3,
+              "username": "narafume"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UTJUc4AG9p",
+              "end": 48,
+              "expanded_url": "https://x.com/narafume/status/2078789836954337314/photo/1",
+              "media_key": "3_2078789526957555712",
+              "start": 25,
+              "url": "https://t.co/UTJUc4AG9p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078941572608237831",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 290
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078789836954337314",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @narafume: 競宴水着サウナバトル https://t.co/UTJUc4AG9p"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-14T12:04:19.000Z",
+        "description": "kk/哭哭 一只海豹，努力游出贝加尔湖",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sealak",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sealak",
+                "start": 0,
+                "url": "https://t.co/mJiD4M1sS9"
+              }
+            ]
+          }
+        },
+        "id": "2077000098836545536",
+        "location": "贝加尔湖畔",
+        "name": "总而言之我哥哥非常非常好",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077002116032303104/OOsRJMcA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 52,
+          "like_count": 232,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 171
+        },
+        "url": "https://t.co/mJiD4M1sS9",
+        "username": "wwwyizhiku",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-01T07:29:47.000Z",
+        "description": "お絵描き練習アカウント\nセクシーな二次創作もするので苦手な方ご注意を…🙏🏻",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/25222040",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/25222040",
+                "start": 0,
+                "url": "https://t.co/1e7ue8RfUw"
+              }
+            ]
+          }
+        },
+        "id": "2061349239205380097",
+        "location": "絵の使用・転載・AI学習 ご遠慮ください",
+        "name": "ならふめ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073762012522500096/eJvJfGXd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 790,
+          "following_count": 71,
+          "like_count": 181,
+          "listed_count": 4,
+          "media_count": 9,
+          "tweet_count": 39
+        },
+        "url": "https://t.co/1e7ue8RfUw",
+        "username": "narafume",
+        "verified": false
+      }
+    ]
+  }
+}

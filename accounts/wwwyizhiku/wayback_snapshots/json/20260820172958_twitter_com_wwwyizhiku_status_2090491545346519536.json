@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2077000098836545536",
+    "conversation_id": "2090487380364951797",
+    "created_at": "2026-08-20T17:29:58.000Z",
+    "display_text_range": [
+      12,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T18:29:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090491545346519536"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2047378292123336704",
+          "start": 0,
+          "username": "616G167381"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090491545346519536",
+    "in_reply_to_user_id": "2047378292123336704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090490354370035992",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@616G167381 时间太慢又太快了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077000098836545536",
+        "conversation_id": "2090487380364951797",
+        "created_at": "2026-08-20T17:29:58.000Z",
+        "display_text_range": [
+          12,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T18:29:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090491545346519536"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2047378292123336704",
+              "start": 0,
+              "username": "616G167381"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090491545346519536",
+        "in_reply_to_user_id": "2047378292123336704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090490354370035992",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@616G167381 时间太慢又太快了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047378292123336704",
+        "conversation_id": "2090487380364951797",
+        "created_at": "2026-08-20T17:25:14.000Z",
+        "display_text_range": [
+          12,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T18:25:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090490354370035992"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2077000098836545536",
+              "start": 0,
+              "username": "wwwyizhiku"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090490354370035992",
+        "in_reply_to_user_id": "2077000098836545536",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090487380364951797",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wwwyizhiku 咋恐怖了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T12:04:19.000Z",
+        "description": "kk/哭哭 一只海豹 sh/od内容 努力游出贝加尔湖 互关寻回中…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sealak",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sealak",
+                "start": 0,
+                "url": "https://t.co/mJiD4M1sS9"
+              }
+            ]
+          }
+        },
+        "id": "2077000098836545536",
+        "is_identity_verified": false,
+        "location": "贝加尔湖畔",
+        "most_recent_tweet_id": "2090491545346519536",
+        "name": "总而言之我哥哥非常非常好",
+        "pinned_tweet_id": "2079565491266531784",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2077000098836545536/1784030875",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077002116032303104/OOsRJMcA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 98,
+          "like_count": 658,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 599
+        },
+        "url": "https://t.co/mJiD4M1sS9",
+        "username": "wwwyizhiku",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-23T18:14:45.000Z",
+        "description": "https://t.co/LhykoCj2U1",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/g616",
+                "end": 23,
+                "expanded_url": "https://ngl.link/g616",
+                "start": 0,
+                "url": "https://t.co/LhykoCj2U1"
+              }
+            ]
+          }
+        },
+        "id": "2047378292123336704",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090490354370035992",
+        "name": "616 G",
+        "pinned_tweet_id": "2062465217557389464",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047378292123336704/1780484969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047378659024269313/QUvP4C6H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 13,
+          "like_count": 1306,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 320
+        },
+        "url": "",
+        "username": "616G167381",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

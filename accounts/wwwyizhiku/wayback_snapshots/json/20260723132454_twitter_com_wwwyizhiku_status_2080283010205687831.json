@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2077000098836545536",
+    "conversation_id": "2080170831544553536",
+    "created_at": "2026-07-23T13:24:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T14:24:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080283010205687831"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1865792409776394240",
+          "start": 0,
+          "username": "Se7en0721"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080283010205687831",
+    "in_reply_to_user_id": "1865792409776394240",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080281823398309893",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Se7en0721 嘿嘿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077000098836545536",
+        "conversation_id": "2080170831544553536",
+        "created_at": "2026-07-23T13:24:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T14:24:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080283010205687831"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1865792409776394240",
+              "start": 0,
+              "username": "Se7en0721"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080283010205687831",
+        "in_reply_to_user_id": "1865792409776394240",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080281823398309893",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Se7en0721 嘿嘿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1865792409776394240",
+        "conversation_id": "2080170831544553536",
+        "created_at": "2026-07-23T13:20:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T14:20:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080281823398309893"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2077000098836545536",
+              "start": 0,
+              "username": "wwwyizhiku"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080281823398309893",
+        "in_reply_to_user_id": "2077000098836545536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080170831544553536",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wwwyizhiku 这里是天堂。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-14T12:04:19.000Z",
+        "description": "kk/哭哭 一只海豹 sh/od内容 努力游出贝加尔湖 互关寻回中…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sealak",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sealak",
+                "start": 0,
+                "url": "https://t.co/mJiD4M1sS9"
+              }
+            ]
+          }
+        },
+        "id": "2077000098836545536",
+        "location": "贝加尔湖畔",
+        "name": "总而言之我哥哥非常非常好",
+        "pinned_tweet_id": "2077044414782832722",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077002116032303104/OOsRJMcA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 74,
+          "like_count": 375,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 302
+        },
+        "url": "https://t.co/mJiD4M1sS9",
+        "username": "wwwyizhiku",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-08T16:15:59.000Z",
+        "description": "现实是个乐乐ㅇㅅㅇ\n这里是我的废话条呀梦到什么说什么",
+        "id": "1865792409776394240",
+        "name": "youo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079107264024342528/jrO3N0Vb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 12,
+          "like_count": 75,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 202
+        },
+        "url": "",
+        "username": "Se7en0721",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2087811956380184576"
+      ],
+      "media_source_tweet_id": [
+        "2087812021639332087"
+      ]
+    },
+    "author_id": "2077000098836545536",
+    "conversation_id": "2088306745240142106",
+    "created_at": "2026-08-14T16:48:21.000Z",
+    "display_text_range": [
+      0,
+      39
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T17:48:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088306745240142106"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1583489058214662144",
+          "start": 3,
+          "username": "dixretsa"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mbrqQ89fNN",
+          "end": 39,
+          "expanded_url": "https://x.com/dixretsa/status/2087812021639332087/photo/1",
+          "media_key": "3_2087811956380184576",
+          "start": 16,
+          "url": "https://t.co/mbrqQ89fNN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088306745240142106",
+    "lang": "qme",
+    "media_metadata": [
+      {
+        "media_key": "3_2087811956380184576"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9396
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087812021639332087",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dixretsa: 🫡 https://t.co/mbrqQ89fNN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3553,
+        "media_key": "3_2087811956380184576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPll6aHasAApbx6.jpg",
+        "width": 2832
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087811956380184576"
+          ]
+        },
+        "author_id": "1583489058214662144",
+        "conversation_id": "2087812021639332087",
+        "created_at": "2026-08-13T08:02:30.000Z",
+        "display_text_range": [
+          0,
+          1
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T09:02:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087812021639332087"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mbrqQ89fNN",
+              "end": 25,
+              "expanded_url": "https://x.com/dixretsa/status/2087812021639332087/photo/1",
+              "media_key": "3_2087811956380184576",
+              "start": 2,
+              "url": "https://t.co/mbrqQ89fNN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087812021639332087",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2087811956380184576"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12587,
+          "impression_count": 1282922,
+          "like_count": 116322,
+          "quote_count": 267,
+          "reply_count": 66,
+          "retweet_count": 9396
+        },
+        "reply_settings": "everyone",
+        "text": "🫡 https://t.co/mbrqQ89fNN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087811956380184576"
+          ],
+          "media_source_tweet_id": [
+            "2087812021639332087"
+          ]
+        },
+        "author_id": "2077000098836545536",
+        "conversation_id": "2088306745240142106",
+        "created_at": "2026-08-14T16:48:21.000Z",
+        "display_text_range": [
+          0,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T17:48:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088306745240142106"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1583489058214662144",
+              "start": 3,
+              "username": "dixretsa"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mbrqQ89fNN",
+              "end": 39,
+              "expanded_url": "https://x.com/dixretsa/status/2087812021639332087/photo/1",
+              "media_key": "3_2087811956380184576",
+              "start": 16,
+              "url": "https://t.co/mbrqQ89fNN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088306745240142106",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2087811956380184576"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9396
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087812021639332087",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dixretsa: 🫡 https://t.co/mbrqQ89fNN"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T12:04:19.000Z",
+        "description": "kk/哭哭 一只海豹 sh/od内容 努力游出贝加尔湖 互关寻回中…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sealak",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sealak",
+                "start": 0,
+                "url": "https://t.co/mJiD4M1sS9"
+              }
+            ]
+          }
+        },
+        "id": "2077000098836545536",
+        "is_identity_verified": false,
+        "location": "贝加尔湖畔",
+        "most_recent_tweet_id": "2088306745240142106",
+        "name": "总而言之我哥哥非常非常好",
+        "pinned_tweet_id": "2079565491266531784",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2077000098836545536/1784030875",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077002116032303104/OOsRJMcA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 90,
+          "like_count": 618,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 543
+        },
+        "url": "https://t.co/mJiD4M1sS9",
+        "username": "wwwyizhiku",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-10-21T16:03:12.000Z",
+        "description": "dixretsa@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/dixretsa",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/dixretsa",
+                "start": 0,
+                "url": "https://t.co/n2ahqi6AX1"
+              }
+            ]
+          }
+        },
+        "id": "1583489058214662144",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088272932959391952",
+        "name": "Dioretsa",
+        "pinned_tweet_id": "2085611134988792230",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1583489058214662144/1784898837",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080642638810841088/WTXOFqFV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27003,
+          "following_count": 92,
+          "like_count": 68,
+          "listed_count": 126,
+          "media_count": 69,
+          "tweet_count": 122
+        },
+        "url": "https://t.co/n2ahqi6AX1",
+        "username": "dixretsa",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

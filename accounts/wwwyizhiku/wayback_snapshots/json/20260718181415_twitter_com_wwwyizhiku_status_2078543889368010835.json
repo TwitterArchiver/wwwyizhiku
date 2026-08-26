@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2078230883006394369"
+      ],
+      "media_source_tweet_id": [
+        "2078230887506809219"
+      ]
+    },
+    "author_id": "2077000098836545536",
+    "conversation_id": "2078543889368010835",
+    "created_at": "2026-07-18T18:14:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T19:14:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078543889368010835"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1482375897504272389",
+          "start": 3,
+          "username": "x1xu902xr"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/duqpy6xrUj",
+          "end": 38,
+          "expanded_url": "https://x.com/x1xu902xr/status/2078230887506809219/photo/1",
+          "media_key": "3_2078230883006394369",
+          "start": 15,
+          "url": "https://t.co/duqpy6xrUj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078543889368010835",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 470
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078230887506809219",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @x1xu902xr: https://t.co/duqpy6xrUj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1071,
+        "media_key": "3_2078230883006394369",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNdb-ibXsAEYpGw.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078230883006394369"
+          ]
+        },
+        "author_id": "1482375897504272389",
+        "conversation_id": "2078230887506809219",
+        "created_at": "2026-07-17T21:30:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T22:30:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078230887506809219"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/duqpy6xrUj",
+              "end": 23,
+              "expanded_url": "https://x.com/x1xu902xr/status/2078230887506809219/photo/1",
+              "media_key": "3_2078230883006394369",
+              "start": 0,
+              "url": "https://t.co/duqpy6xrUj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078230887506809219",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 341,
+          "impression_count": 30968,
+          "like_count": 4144,
+          "quote_count": 5,
+          "reply_count": 7,
+          "retweet_count": 470
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/duqpy6xrUj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078230883006394369"
+          ],
+          "media_source_tweet_id": [
+            "2078230887506809219"
+          ]
+        },
+        "author_id": "2077000098836545536",
+        "conversation_id": "2078543889368010835",
+        "created_at": "2026-07-18T18:14:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T19:14:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078543889368010835"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1482375897504272389",
+              "start": 3,
+              "username": "x1xu902xr"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/duqpy6xrUj",
+              "end": 38,
+              "expanded_url": "https://x.com/x1xu902xr/status/2078230887506809219/photo/1",
+              "media_key": "3_2078230883006394369",
+              "start": 15,
+              "url": "https://t.co/duqpy6xrUj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078543889368010835",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 470
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078230887506809219",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @x1xu902xr: https://t.co/duqpy6xrUj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-14T12:04:19.000Z",
+        "description": "kk/哭哭 一只海豹，努力游出贝加尔湖",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sealak",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sealak",
+                "start": 0,
+                "url": "https://t.co/mJiD4M1sS9"
+              }
+            ]
+          }
+        },
+        "id": "2077000098836545536",
+        "location": "贝加尔湖畔",
+        "name": "总而言之我哥哥非常非常好",
+        "pinned_tweet_id": "2077660228103860393",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077002116032303104/OOsRJMcA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 42,
+          "like_count": 149,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 119
+        },
+        "url": "https://t.co/mJiD4M1sS9",
+        "username": "wwwyizhiku",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-15T15:35:40.000Z",
+        "description": "destroy and create",
+        "id": "1482375897504272389",
+        "name": "lean",
+        "pinned_tweet_id": "2063587381576343635",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073510026392530944/SBEUyQ_c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 494,
+          "following_count": 13,
+          "like_count": 1865,
+          "listed_count": 1,
+          "media_count": 70,
+          "tweet_count": 262
+        },
+        "url": "",
+        "username": "x1xu902xr",
+        "verified": false
+      }
+    ]
+  }
+}

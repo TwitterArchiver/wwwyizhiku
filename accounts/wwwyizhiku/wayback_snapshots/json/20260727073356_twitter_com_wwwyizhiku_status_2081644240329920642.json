@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2081036093231861760"
+      ],
+      "media_source_tweet_id": [
+        "2081036107249275203"
+      ]
+    },
+    "author_id": "2077000098836545536",
+    "conversation_id": "2081644240329920642",
+    "created_at": "2026-07-27T07:33:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T08:33:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081644240329920642"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2056703191597920256",
+          "start": 3,
+          "username": "Mandrake8964"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7U9Leb90pI",
+          "end": 67,
+          "expanded_url": "https://x.com/Mandrake8964/status/2081036107249275203/photo/1",
+          "media_key": "3_2081036093231861760",
+          "start": 44,
+          "url": "https://t.co/7U9Leb90pI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081644240329920642",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 135
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081036107249275203",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Mandrake8964: 我的生命在滲出 下墜\n（特效化妝，未成年請勿模仿） https://t.co/7U9Leb90pI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2081036093231861760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOFTTQ3aEAAdZjz.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081036093231861760"
+          ]
+        },
+        "author_id": "2056703191597920256",
+        "conversation_id": "2081036107249275203",
+        "created_at": "2026-07-25T15:17:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T16:17:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081036107249275203"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7U9Leb90pI",
+              "end": 49,
+              "expanded_url": "https://x.com/Mandrake8964/status/2081036107249275203/photo/1",
+              "media_key": "3_2081036093231861760",
+              "start": 26,
+              "url": "https://t.co/7U9Leb90pI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081036107249275203",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 43,
+          "impression_count": 8072,
+          "like_count": 1247,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 135
+        },
+        "reply_settings": "everyone",
+        "text": "我的生命在滲出 下墜\n（特效化妝，未成年請勿模仿） https://t.co/7U9Leb90pI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081036093231861760"
+          ],
+          "media_source_tweet_id": [
+            "2081036107249275203"
+          ]
+        },
+        "author_id": "2077000098836545536",
+        "conversation_id": "2081644240329920642",
+        "created_at": "2026-07-27T07:33:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T08:33:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081644240329920642"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2056703191597920256",
+              "start": 3,
+              "username": "Mandrake8964"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7U9Leb90pI",
+              "end": 67,
+              "expanded_url": "https://x.com/Mandrake8964/status/2081036107249275203/photo/1",
+              "media_key": "3_2081036093231861760",
+              "start": 44,
+              "url": "https://t.co/7U9Leb90pI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081644240329920642",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 135
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081036107249275203",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Mandrake8964: 我的生命在滲出 下墜\n（特效化妝，未成年請勿模仿） https://t.co/7U9Leb90pI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-14T12:04:19.000Z",
+        "description": "kk/哭哭 一只海豹 sh/od内容 努力游出贝加尔湖 互关寻回中…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sealak",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sealak",
+                "start": 0,
+                "url": "https://t.co/mJiD4M1sS9"
+              }
+            ]
+          }
+        },
+        "id": "2077000098836545536",
+        "location": "贝加尔湖畔",
+        "name": "总而言之我哥哥非常非常好",
+        "pinned_tweet_id": "2079565491266531784",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077002116032303104/OOsRJMcA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 83,
+          "like_count": 430,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 350
+        },
+        "url": "https://t.co/mJiD4M1sS9",
+        "username": "wwwyizhiku",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-19T11:48:15.000Z",
+        "description": "你看那通天的巨塔 每時每刻都有人往下跳 小時候不懂 以為那是雪花‖上一世@Ekouuuuuu ‖最好的朋友@seeFvn‖LGBTQ+友好‖查主頁成分回fo‖討厭NSFW",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 36,
+                "username": "Ekouuuuuu"
+              },
+              {
+                "end": 60,
+                "start": 53,
+                "username": "seeFvn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "https://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/DmBgrvZUvo"
+              }
+            ]
+          }
+        },
+        "id": "2056703191597920256",
+        "location": "罌粟花與你/3lue",
+        "name": "最後一株Mandrake2.0",
+        "pinned_tweet_id": "2076340685972836556",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076341566319538176/7xcvNHKw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152,
+          "following_count": 98,
+          "like_count": 1159,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 199
+        },
+        "url": "https://t.co/DmBgrvZUvo",
+        "username": "Mandrake8964",
+        "verified": false
+      }
+    ]
+  }
+}

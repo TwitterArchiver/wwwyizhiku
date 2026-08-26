@@ -1,0 +1,688 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2077000098836545536",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1550444438127685635",
+          "name": "NewJeans"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1612562270415998979",
+          "name": "NewJeans"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "id": "1550444438127685635",
+          "name": "NewJeans"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "id": "1612562270415998979",
+          "name": "NewJeans"
+        }
+      },
+      {
+        "domain": {
+          "description": "A category for a musical style, like Pop, Rock, or Rap",
+          "id": "55",
+          "name": "Music Genre"
+        },
+        "entity": {
+          "description": "K-Pop",
+          "id": "888105153038958593",
+          "name": "K-pop"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "K-Pop",
+          "id": "888105153038958593",
+          "name": "K-pop"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1550444438127685635",
+          "name": "NewJeans"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "FOR ANIMATION AND COMICS ONLY - DO NOT USE IF YOU NEED MUSIC.",
+          "id": "1585792216395436032",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1612562270415998979",
+          "name": "NewJeans"
+        }
+      }
+    ],
+    "conversation_id": "2079587840087015576",
+    "created_at": "2026-07-21T16:20:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T17:20:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079602330631385188"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1476476838180696073",
+          "start": 0,
+          "username": "NewJeans_ADOR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079602330631385188",
+    "in_reply_to_user_id": "1476476838180696073",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079587840087015576",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NewJeans_ADOR 卧槽泥马丹尼尔呢"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2184,
+        "media_key": "3_2079584702848270337",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNwrROWbgAEpbVl.jpg",
+        "width": 3276
+      },
+      {
+        "height": 2184,
+        "media_key": "3_2079584702172889088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNwrRL1aAAAeYSV.jpg",
+        "width": 3276
+      },
+      {
+        "height": 2731,
+        "media_key": "3_2079584702877638657",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNwrROdboAEb2rb.jpg",
+        "width": 4096
+      },
+      {
+        "height": 2731,
+        "media_key": "3_2079584702177095680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNwrRL2aMAAjjdZ.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077000098836545536",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1550444438127685635",
+              "name": "NewJeans"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1612562270415998979",
+              "name": "NewJeans"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1550444438127685635",
+              "name": "NewJeans"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1612562270415998979",
+              "name": "NewJeans"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1550444438127685635",
+              "name": "NewJeans"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "FOR ANIMATION AND COMICS ONLY - DO NOT USE IF YOU NEED MUSIC.",
+              "id": "1585792216395436032",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1612562270415998979",
+              "name": "NewJeans"
+            }
+          }
+        ],
+        "conversation_id": "2079587840087015576",
+        "created_at": "2026-07-21T16:20:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T17:20:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079602330631385188"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1476476838180696073",
+              "start": 0,
+              "username": "NewJeans_ADOR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079602330631385188",
+        "in_reply_to_user_id": "1476476838180696073",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079587840087015576",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NewJeans_ADOR 卧槽泥马丹尼尔呢"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079584702848270337",
+            "3_2079584702172889088",
+            "3_2079584702877638657",
+            "3_2079584702177095680"
+          ]
+        },
+        "author_id": "1476476838180696073",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1550444438127685635",
+              "name": "NewJeans"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1612562270415998979",
+              "name": "NewJeans"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1550444438127685635",
+              "name": "NewJeans"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1612562270415998979",
+              "name": "NewJeans"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1550444438127685635",
+              "name": "NewJeans"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "FOR ANIMATION AND COMICS ONLY - DO NOT USE IF YOU NEED MUSIC.",
+              "id": "1585792216395436032",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1612562270415998979",
+              "name": "NewJeans"
+            }
+          }
+        ],
+        "conversation_id": "2079587840087015576",
+        "created_at": "2026-07-21T15:22:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T16:22:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079587840087015576"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 27,
+              "start": 18,
+              "tag": "NewJeans"
+            },
+            {
+              "end": 32,
+              "start": 28,
+              "tag": "뉴진스"
+            },
+            {
+              "end": 45,
+              "start": 33,
+              "tag": "NewJeansDay"
+            },
+            {
+              "end": 71,
+              "start": 46,
+              "tag": "NewJeans_4th_Anniversary"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/llZtz2y076",
+              "end": 95,
+              "expanded_url": "https://x.com/NewJeans_ADOR/status/2079587840087015576/photo/1",
+              "media_key": "3_2079584702848270337",
+              "start": 72,
+              "url": "https://t.co/llZtz2y076"
+            },
+            {
+              "display_url": "pic.x.com/llZtz2y076",
+              "end": 95,
+              "expanded_url": "https://x.com/NewJeans_ADOR/status/2079587840087015576/photo/1",
+              "media_key": "3_2079584702172889088",
+              "start": 72,
+              "url": "https://t.co/llZtz2y076"
+            },
+            {
+              "display_url": "pic.x.com/llZtz2y076",
+              "end": 95,
+              "expanded_url": "https://x.com/NewJeans_ADOR/status/2079587840087015576/photo/1",
+              "media_key": "3_2079584702877638657",
+              "start": 72,
+              "url": "https://t.co/llZtz2y076"
+            },
+            {
+              "display_url": "pic.x.com/llZtz2y076",
+              "end": 95,
+              "expanded_url": "https://x.com/NewJeans_ADOR/status/2079587840087015576/photo/1",
+              "media_key": "3_2079584702177095680",
+              "start": 72,
+              "url": "https://t.co/llZtz2y076"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079587840087015576",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1282,
+          "impression_count": 1106637,
+          "like_count": 31554,
+          "quote_count": 8374,
+          "reply_count": 845,
+          "retweet_count": 9886
+        },
+        "reply_settings": "everyone",
+        "text": "[NewJeans Day]\n🐰\n\n#NewJeans #뉴진스\n#NewJeansDay #NewJeans_4th_Anniversary https://t.co/llZtz2y076"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-14T12:04:19.000Z",
+        "description": "kk/哭哭 一只海豹，努力游出贝加尔湖",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sealak",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sealak",
+                "start": 0,
+                "url": "https://t.co/mJiD4M1sS9"
+              }
+            ]
+          }
+        },
+        "id": "2077000098836545536",
+        "location": "贝加尔湖畔",
+        "name": "总而言之我哥哥非常非常好",
+        "pinned_tweet_id": "2079565491266531784",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077002116032303104/OOsRJMcA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 64,
+          "like_count": 308,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 245
+        },
+        "url": "https://t.co/mJiD4M1sS9",
+        "username": "wwwyizhiku",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-30T08:54:56.000Z",
+        "description": "NewJeans is Everywhere",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "newjeans.kr",
+                "end": 23,
+                "expanded_url": "http://newjeans.kr",
+                "start": 0,
+                "url": "https://t.co/wITF1P8yFO"
+              }
+            ]
+          }
+        },
+        "id": "1476476838180696073",
+        "name": "NewJeans",
+        "pinned_tweet_id": "2079583397329195259",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079578404337360896/876cjwWk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1975768,
+          "following_count": 4,
+          "like_count": 34,
+          "listed_count": 4338,
+          "media_count": 1924,
+          "tweet_count": 3134
+        },
+        "url": "https://t.co/wITF1P8yFO",
+        "username": "NewJeans_ADOR",
+        "verified": true
+      }
+    ]
+  }
+}

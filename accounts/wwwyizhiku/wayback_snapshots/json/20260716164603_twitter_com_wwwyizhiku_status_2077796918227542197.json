@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2077000098836545536",
+    "conversation_id": "2077796918227542197",
+    "created_at": "2026-07-16T16:46:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T17:46:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077796918227542197"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/killmyaffairs/…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/killmyaffairs/status/2077457542574162067",
+          "start": 4,
+          "url": "https://t.co/AuzgNhk7sV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077796918227542197",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077457542574162067",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我肚肚 https://t.co/AuzgNhk7sV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 862,
+        "media_key": "3_2077457538665107456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNScn-QXUAA6gZi.jpg",
+        "width": 1038
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077000098836545536",
+        "conversation_id": "2077796918227542197",
+        "created_at": "2026-07-16T16:46:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T17:46:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077796918227542197"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/killmyaffairs/…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/killmyaffairs/status/2077457542574162067",
+              "start": 4,
+              "url": "https://t.co/AuzgNhk7sV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077796918227542197",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077457542574162067",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我肚肚 https://t.co/AuzgNhk7sV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077457538665107456"
+          ]
+        },
+        "author_id": "1337902475609690113",
+        "conversation_id": "2077457542574162067",
+        "created_at": "2026-07-15T18:17:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T19:17:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077457542574162067"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5W2GSjs0tZ",
+              "end": 56,
+              "expanded_url": "https://x.com/killmyaffairs/status/2077457542574162067/photo/1",
+              "media_key": "3_2077457538665107456",
+              "start": 33,
+              "url": "https://t.co/5W2GSjs0tZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077457542574162067",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 404,
+          "impression_count": 78516,
+          "like_count": 12911,
+          "quote_count": 17,
+          "reply_count": 25,
+          "retweet_count": 1835
+        },
+        "reply_settings": "everyone",
+        "text": "yo en el espejo // yo en camaras https://t.co/5W2GSjs0tZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-14T12:04:19.000Z",
+        "description": "kk/哭哭 一只海豹，努力游出贝加尔湖",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sealak",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sealak",
+                "start": 0,
+                "url": "https://t.co/mJiD4M1sS9"
+              }
+            ]
+          }
+        },
+        "id": "2077000098836545536",
+        "location": "贝加尔湖畔",
+        "name": "总而言之我哥哥非常非常好",
+        "pinned_tweet_id": "2077660228103860393",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077002116032303104/OOsRJMcA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 36,
+          "like_count": 110,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 92
+        },
+        "url": "https://t.co/mJiD4M1sS9",
+        "username": "wwwyizhiku",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-12T23:29:54.000Z",
+        "description": "mi vida por el satosugu",
+        "id": "1337902475609690113",
+        "location": "she/her ",
+        "name": "karen",
+        "pinned_tweet_id": "1819448945611100167",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072166444846964736/LAfgUqiB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24903,
+          "following_count": 12476,
+          "like_count": 41519,
+          "listed_count": 283,
+          "media_count": 5983,
+          "tweet_count": 204178
+        },
+        "url": "",
+        "username": "killmyaffairs",
+        "verified": true
+      }
+    ]
+  }
+}

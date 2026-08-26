@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2077000098836545536",
+    "conversation_id": "2079647698458972670",
+    "created_at": "2026-07-21T19:20:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T20:20:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079647698458972670"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1510243706347028482",
+          "start": 3,
+          "username": "Qyunachii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079647698458972670",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 25
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079360841900802444",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Qyunachii: 太过敏感要怎么办啊。在意的人五分钟没回消息对不起就已经发出去了，脑子里一直在想是不是生气了不开心了我有没有说不该说的话做不该做的事什么的，哪怕语气变得冷淡点也会这样。整天都在胡思乱想，还总会有种莫名的愧疚感和负罪感。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077000098836545536",
+        "conversation_id": "2079647698458972670",
+        "created_at": "2026-07-21T19:20:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T20:20:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079647698458972670"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1510243706347028482",
+              "start": 3,
+              "username": "Qyunachii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079647698458972670",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 25
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079360841900802444",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Qyunachii: 太过敏感要怎么办啊。在意的人五分钟没回消息对不起就已经发出去了，脑子里一直在想是不是生气了不开心了我有没有说不该说的话做不该做的事什么的，哪怕语气变得冷淡点也会这样。整天都在胡思乱想，还总会有种莫名的愧疚感和负罪感。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510243706347028482",
+        "conversation_id": "2079360841900802444",
+        "created_at": "2026-07-21T00:20:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T01:20:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079360841900802444"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079360841900802444",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 7351,
+          "like_count": 199,
+          "quote_count": 5,
+          "reply_count": 42,
+          "retweet_count": 25
+        },
+        "reply_settings": "everyone",
+        "text": "太过敏感要怎么办啊。在意的人五分钟没回消息对不起就已经发出去了，脑子里一直在想是不是生气了不开心了我有没有说不该说的话做不该做的事什么的，哪怕语气变得冷淡点也会这样。整天都在胡思乱想，还总会有种莫名的愧疚感和负罪感。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-14T12:04:19.000Z",
+        "description": "kk/哭哭 一只海豹 sh/od内容 努力游出贝加尔湖 互关寻回中…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sealak",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sealak",
+                "start": 0,
+                "url": "https://t.co/mJiD4M1sS9"
+              }
+            ]
+          }
+        },
+        "id": "2077000098836545536",
+        "location": "贝加尔湖畔",
+        "name": "总而言之我哥哥非常非常好",
+        "pinned_tweet_id": "2078769337851154629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077002116032303104/OOsRJMcA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 69,
+          "like_count": 337,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 261
+        },
+        "url": "https://t.co/mJiD4M1sS9",
+        "username": "wwwyizhiku",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-02T13:12:25.000Z",
+        "description": "如果觉得被冒犯了那是我的猫发的，它有四个爪子打字比我快。最喜欢午餐肉。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/Chiqyuna?s=20",
+                "end": 23,
+                "expanded_url": "https://x.com/Chiqyuna?s=20",
+                "start": 0,
+                "url": "https://t.co/vaWDMNBtCu"
+              }
+            ]
+          }
+        },
+        "id": "1510243706347028482",
+        "location": "四軒茶屋",
+        "name": "ツ",
+        "pinned_tweet_id": "2079167856131064170",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075468197336403968/VOIWrHlU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 226,
+          "following_count": 469,
+          "like_count": 7481,
+          "listed_count": 0,
+          "media_count": 157,
+          "tweet_count": 2384
+        },
+        "url": "https://t.co/vaWDMNBtCu",
+        "username": "Qyunachii",
+        "verified": false
+      }
+    ]
+  }
+}

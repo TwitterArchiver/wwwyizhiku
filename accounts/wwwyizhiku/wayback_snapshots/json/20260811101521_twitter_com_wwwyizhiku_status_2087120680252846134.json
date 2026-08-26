@@ -1,0 +1,462 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083795551162871808",
+        "3_2083795551158673408",
+        "3_2083795551129358336"
+      ],
+      "media_source_tweet_id": [
+        "2083795558385553702",
+        "2083795558385553702",
+        "2083795558385553702"
+      ]
+    },
+    "author_id": "2077000098836545536",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2087120680252846134",
+    "created_at": "2026-08-11T10:15:21.000Z",
+    "display_text_range": [
+      0,
+      93
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T11:15:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087120680252846134"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2013233628847980544",
+          "start": 3,
+          "username": "Asukai_Yuki"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6nsU2F6rkC",
+          "end": 93,
+          "expanded_url": "https://x.com/Asukai_Yuki/status/2083795558385553702/photo/1",
+          "media_key": "3_2083795551162871808",
+          "start": 70,
+          "url": "https://t.co/6nsU2F6rkC"
+        },
+        {
+          "display_url": "pic.x.com/6nsU2F6rkC",
+          "end": 93,
+          "expanded_url": "https://x.com/Asukai_Yuki/status/2083795558385553702/photo/1",
+          "media_key": "3_2083795551158673408",
+          "start": 70,
+          "url": "https://t.co/6nsU2F6rkC"
+        },
+        {
+          "display_url": "pic.x.com/6nsU2F6rkC",
+          "end": 93,
+          "expanded_url": "https://x.com/Asukai_Yuki/status/2083795558385553702/photo/1",
+          "media_key": "3_2083795551129358336",
+          "start": 70,
+          "url": "https://t.co/6nsU2F6rkC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087120680252846134",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2083795551162871808"
+      },
+      {
+        "media_key": "3_2083795551158673408"
+      },
+      {
+        "media_key": "3_2083795551129358336"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 51
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083795558385553702",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Asukai_Yuki: 马上500fo了点赞转发关注参与\n8.15开吧！\n一等奖 30r\n二等奖 20r\n三等奖 三位以下三选一 https://t.co/6nsU2F6rkC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2083795551162871808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOshA2uaMAAQp28.jpg",
+        "width": 946
+      },
+      {
+        "height": 1168,
+        "media_key": "3_2083795551158673408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOshA2taIAAka9H.jpg",
+        "width": 1168
+      },
+      {
+        "height": 800,
+        "media_key": "3_2083795551129358336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOshA2ma0AA9sEh.jpg",
+        "width": 800
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083795551162871808",
+            "3_2083795551158673408",
+            "3_2083795551129358336"
+          ]
+        },
+        "author_id": "2013233628847980544",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2083795558385553702",
+        "created_at": "2026-08-02T06:02:30.000Z",
+        "display_text_range": [
+          0,
+          52
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-02T07:02:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083795558385553702"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6nsU2F6rkC",
+              "end": 76,
+              "expanded_url": "https://x.com/Asukai_Yuki/status/2083795558385553702/photo/1",
+              "media_key": "3_2083795551162871808",
+              "start": 53,
+              "url": "https://t.co/6nsU2F6rkC"
+            },
+            {
+              "display_url": "pic.x.com/6nsU2F6rkC",
+              "end": 76,
+              "expanded_url": "https://x.com/Asukai_Yuki/status/2083795558385553702/photo/1",
+              "media_key": "3_2083795551158673408",
+              "start": 53,
+              "url": "https://t.co/6nsU2F6rkC"
+            },
+            {
+              "display_url": "pic.x.com/6nsU2F6rkC",
+              "end": 76,
+              "expanded_url": "https://x.com/Asukai_Yuki/status/2083795558385553702/photo/1",
+              "media_key": "3_2083795551129358336",
+              "start": 53,
+              "url": "https://t.co/6nsU2F6rkC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083795558385553702",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2083795551162871808"
+          },
+          {
+            "media_key": "3_2083795551158673408"
+          },
+          {
+            "media_key": "3_2083795551129358336"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 3068,
+          "like_count": 71,
+          "quote_count": 0,
+          "reply_count": 25,
+          "retweet_count": 51
+        },
+        "reply_settings": "everyone",
+        "text": "马上500fo了点赞转发关注参与\n8.15开吧！\n一等奖 30r\n二等奖 20r\n三等奖 三位以下三选一 https://t.co/6nsU2F6rkC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083795551162871808",
+            "3_2083795551158673408",
+            "3_2083795551129358336"
+          ],
+          "media_source_tweet_id": [
+            "2083795558385553702",
+            "2083795558385553702",
+            "2083795558385553702"
+          ]
+        },
+        "author_id": "2077000098836545536",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2087120680252846134",
+        "created_at": "2026-08-11T10:15:21.000Z",
+        "display_text_range": [
+          0,
+          93
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T11:15:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087120680252846134"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2013233628847980544",
+              "start": 3,
+              "username": "Asukai_Yuki"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6nsU2F6rkC",
+              "end": 93,
+              "expanded_url": "https://x.com/Asukai_Yuki/status/2083795558385553702/photo/1",
+              "media_key": "3_2083795551162871808",
+              "start": 70,
+              "url": "https://t.co/6nsU2F6rkC"
+            },
+            {
+              "display_url": "pic.x.com/6nsU2F6rkC",
+              "end": 93,
+              "expanded_url": "https://x.com/Asukai_Yuki/status/2083795558385553702/photo/1",
+              "media_key": "3_2083795551158673408",
+              "start": 70,
+              "url": "https://t.co/6nsU2F6rkC"
+            },
+            {
+              "display_url": "pic.x.com/6nsU2F6rkC",
+              "end": 93,
+              "expanded_url": "https://x.com/Asukai_Yuki/status/2083795558385553702/photo/1",
+              "media_key": "3_2083795551129358336",
+              "start": 70,
+              "url": "https://t.co/6nsU2F6rkC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087120680252846134",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2083795551162871808"
+          },
+          {
+            "media_key": "3_2083795551158673408"
+          },
+          {
+            "media_key": "3_2083795551129358336"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 51
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083795558385553702",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Asukai_Yuki: 马上500fo了点赞转发关注参与\n8.15开吧！\n一等奖 30r\n二等奖 20r\n三等奖 三位以下三选一 https://t.co/6nsU2F6rkC"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T12:04:19.000Z",
+        "description": "kk/哭哭 一只海豹 sh/od内容 努力游出贝加尔湖 互关寻回中…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sealak",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sealak",
+                "start": 0,
+                "url": "https://t.co/mJiD4M1sS9"
+              }
+            ]
+          }
+        },
+        "id": "2077000098836545536",
+        "is_identity_verified": false,
+        "location": "贝加尔湖畔",
+        "most_recent_tweet_id": "2087120696283435380",
+        "name": "总而言之我哥哥非常非常好",
+        "pinned_tweet_id": "2079565491266531784",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2077000098836545536/1784030875",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077002116032303104/OOsRJMcA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 90,
+          "like_count": 604,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 525
+        },
+        "url": "https://t.co/mJiD4M1sS9",
+        "username": "wwwyizhiku",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-19T12:54:43.000Z",
+        "description": "＝飞鸟井郁希/yuki | 🏳️‍⚧️🏳️‍🌈enby | 餐券女 | 天真的和感伤的吉他手 | 红色担当❤️ | 滚男oc | re0，昴公但是i昴草昴\n\n前世 @SUNSET_ROCK_\n好朋友：@0803SUHONG @zou_hua62172 @hynsug_aaugcx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 82,
+                "username": "SUNSET_ROCK_"
+              },
+              {
+                "end": 111,
+                "start": 100,
+                "username": "0803SUHONG"
+              },
+              {
+                "end": 125,
+                "start": 112,
+                "username": "zou_hua62172"
+              },
+              {
+                "end": 140,
+                "start": 126,
+                "username": "hynsug_aaugcx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+yZ4u21Oez7Y3Z…",
+                "end": 23,
+                "expanded_url": "https://t.me/+yZ4u21Oez7Y3ZmQ9",
+                "start": 0,
+                "url": "https://t.co/HPwIfhLJlR"
+              }
+            ]
+          }
+        },
+        "id": "2013233628847980544",
+        "is_identity_verified": false,
+        "location": "纯绿🚪52/99/150 tele频道在下面",
+        "most_recent_tweet_id": "2087100816662680020",
+        "name": "飞鸟井郁希",
+        "pinned_tweet_id": "2083503232459174093",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2013233628847980544/1775176743",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078508009702268928/p6S16Kqi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 558,
+          "following_count": 252,
+          "like_count": 482,
+          "listed_count": 1,
+          "media_count": 339,
+          "tweet_count": 3399
+        },
+        "url": "https://t.co/HPwIfhLJlR",
+        "username": "Asukai_Yuki",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

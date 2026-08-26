@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2077000098836545536",
+    "conversation_id": "2080944955556516205",
+    "created_at": "2026-07-25T09:15:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T10:15:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080944955556516205"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2074568420574851072",
+          "start": 3,
+          "username": "jinshi778899"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080944955556516205",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 32
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080880284137148663",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jinshi778899: ✨【限时抽奖活动开启！】\n📷右美福利大派送，好运直接砸中你！  为感谢各位宝子们一直以来的支持，\n特别推出【右美幸运抽奖】活动！\n奖品丰厚，轻松参与，人人有机会！  \n📷 奖项设置：\n\n 一等奖（1名）\n右美 4板 + 撒隆巴斯 + 进口伟哥…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077000098836545536",
+        "conversation_id": "2080944955556516205",
+        "created_at": "2026-07-25T09:15:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T10:15:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080944955556516205"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2074568420574851072",
+              "start": 3,
+              "username": "jinshi778899"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080944955556516205",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 32
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080880284137148663",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jinshi778899: ✨【限时抽奖活动开启！】\n📷右美福利大派送，好运直接砸中你！  为感谢各位宝子们一直以来的支持，\n特别推出【右美幸运抽奖】活动！\n奖品丰厚，轻松参与，人人有机会！  \n📷 奖项设置：\n\n 一等奖（1名）\n右美 4板 + 撒隆巴斯 + 进口伟哥…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2074568420574851072",
+        "conversation_id": "2080880284137148663",
+        "created_at": "2026-07-25T04:58:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T05:58:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080880284137148663"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080880284137148663",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 340,
+                "start": 335,
+                "tag": "右美抽奖"
+              },
+              {
+                "end": 348,
+                "start": 341,
+                "tag": "右美好物推荐"
+              },
+              {
+                "end": 355,
+                "start": 349,
+                "tag": "幸运大放送"
+              },
+              {
+                "end": 359,
+                "start": 356,
+                "tag": "右美"
+              }
+            ]
+          },
+          "text": "✨【限时抽奖活动开启！】\n📷右美福利大派送，好运直接砸中你！  为感谢各位宝子们一直以来的支持，\n特别推出【右美幸运抽奖】活动！\n奖品丰厚，轻松参与，人人有机会！  \n📷 奖项设置：\n\n 一等奖（1名）\n右美 4板 + 撒隆巴斯 + 进口伟哥 4粒  \n\n📷 二等奖（3名）\n右美 2板 + 撒隆巴斯  \n\n📷 三等奖（6名）\n右美 1板  \n\n必备好物，品质放心，效果看得见！\n\n现在参与抽奖，就有机会把满满的右美大礼包带回家～  参与方式超简单：\n关注 + 转发 + 评论区留言\n即可自动获得抽奖资格！  活动时间有限，手慢无！\n快来试试你的手气，把右美好运一起带走吧～  右美，与你同行，温暖每一天！\n\n开奖时间为7月28日 20:00 北京时间使用grok开奖\n#右美抽奖 #右美好物推荐 #幸运大放送 #右美"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 523,
+          "like_count": 24,
+          "quote_count": 1,
+          "reply_count": 29,
+          "retweet_count": 32
+        },
+        "reply_settings": "everyone",
+        "text": "✨【限时抽奖活动开启！】\n📷右美福利大派送，好运直接砸中你！  为感谢各位宝子们一直以来的支持，\n特别推出【右美幸运抽奖】活动！\n奖品丰厚，轻松参与，人人有机会！  \n📷 奖项设置：\n\n 一等奖（1名）\n右美 4板 + 撒隆巴斯 + 进口伟哥 4粒  \n\n📷 二等奖（3名）\n右美 2板 + 撒隆巴斯  \n\n📷"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-14T12:04:19.000Z",
+        "description": "kk/哭哭 一只海豹 sh/od内容 努力游出贝加尔湖 互关寻回中…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sealak",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sealak",
+                "start": 0,
+                "url": "https://t.co/mJiD4M1sS9"
+              }
+            ]
+          }
+        },
+        "id": "2077000098836545536",
+        "location": "贝加尔湖畔",
+        "name": "总而言之我哥哥非常非常好",
+        "pinned_tweet_id": "2079565491266531784",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077002116032303104/OOsRJMcA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 78,
+          "like_count": 407,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 325
+        },
+        "url": "https://t.co/mJiD4M1sS9",
+        "username": "wwwyizhiku",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-07T18:57:55.000Z",
+        "description": "资深老oder 欢迎各种询问 | 🈲政｜出售单方右美沙芬 需要的私 私信常开 请确保了解药理后再服用 备用号@yinshi778899",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 54,
+                "username": "yinshi778899"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/KIKOnb666",
+                "end": 23,
+                "expanded_url": "https://t.me/KIKOnb666",
+                "start": 0,
+                "url": "https://t.co/ZdR23jTRXh"
+              }
+            ]
+          }
+        },
+        "id": "2074568420574851072",
+        "location": "新加坡",
+        "name": "金时（互fo）🍥💻",
+        "pinned_tweet_id": "2075146854862594542",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074569945795747840/kOiJ_Z_v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 292,
+          "following_count": 189,
+          "like_count": 181,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 189
+        },
+        "url": "https://t.co/ZdR23jTRXh",
+        "username": "jinshi778899",
+        "verified": true
+      }
+    ]
+  }
+}
