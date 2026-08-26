@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-08-26T18:13:52",
+  "last_updated": "2026-08-26T18:15:17",
   "html": {
     "https://web.archive.org/web/20260714145753if_/https://twitter.com/wwwyizhiku/status/2077044919785390300": {
       "status": "done",
@@ -4906,14 +4906,14 @@
       "last_updated": "2026-08-26T17:23:36"
     },
     "https://pbs.twimg.com/profile_images/2073510026392530944/SBEUyQ_c_normal.jpg": {
-      "status": "failed_all",
+      "status": "failed",
       "referenced_by": [
         "20260718181415_twitter_com_wwwyizhiku_status_2078543889368010835.json",
         "20260721143135_twitter_com_wwwyizhiku_status_2079575017285923053.json"
       ],
-      "last_updated": "2026-08-26T18:06:05",
-      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260721143135if_/https://pbs.twimg.com/profile_images/2073510026392530944/SBEUyQ_c_normal.jpg",
-      "miss_count": 2
+      "last_updated": "2026-08-26T18:14:58",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260721143135im_/https://pbs.twimg.com/profile_images/2073510026392530944/SBEUyQ_c_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f3ec281fda0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 3
     },
     "https://pbs.twimg.com/profile_images/2041014657167802368/WOq5BhqV_normal.jpg": {
       "status": "done",
@@ -4979,9 +4979,9 @@
       "referenced_by": [
         "20260719122200_twitter_com_wwwyizhiku_status_2078817632543801546.json"
       ],
-      "last_updated": "2026-08-26T17:23:38",
+      "last_updated": "2026-08-26T18:15:17",
       "last_reason": "无法识别 profile pid",
-      "miss_count": 1
+      "miss_count": 2
     },
     "https://pbs.twimg.com/profile_images/2077431795960737792/95ZTe92s_normal.jpg": {
       "status": "done",
@@ -5289,9 +5289,9 @@
       "referenced_by": [
         "20260723132454_twitter_com_wwwyizhiku_status_2080283010205687831.json"
       ],
-      "last_updated": "2026-08-26T17:23:40",
+      "last_updated": "2026-08-26T18:15:06",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260723132454if_/https://pbs.twimg.com/profile_images/2079107264024342528/jrO3N0Vb_normal.jpg",
-      "miss_count": 1
+      "miss_count": 2
     },
     "https://pbs.twimg.com/profile_images/2080114070276153344/k1a-L4t2_normal.jpg": {
       "status": "done",
@@ -5575,13 +5575,13 @@
       "last_updated": "2026-08-26T17:23:37"
     },
     "https://pbs.twimg.com/profile_images/2080206570882019328/z5use695_normal.jpg": {
-      "status": "failed_all",
+      "status": "failed",
       "referenced_by": [
         "20260803135818_twitter_com_wwwyizhiku_status_2084277683815395615.json"
       ],
-      "last_updated": "2026-08-26T17:23:43",
-      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260803135818if_/https://pbs.twimg.com/profile_images/2080206570882019328/z5use695_normal.jpg",
-      "miss_count": 1
+      "last_updated": "2026-08-26T18:15:11",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260803135818im_/https://pbs.twimg.com/profile_images/2080206570882019328/z5use695_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f3ec281f500>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 2
     },
     "https://pbs.twimg.com/profile_images/2066809787120234496/KyfpCFTY_normal.jpg": {
       "status": "done",
@@ -5595,9 +5595,9 @@
       "referenced_by": [
         "20260803135818_twitter_com_wwwyizhiku_status_2084277683815395615.json"
       ],
-      "last_updated": "2026-08-26T18:06:09",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260803135818im_/https://pbs.twimg.com/profile_images/2076710620087623683/KPwC6LEF_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fef5e0bbd70>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-26T18:15:17",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260803135818im_/https://pbs.twimg.com/profile_images/2076710620087623683/KPwC6LEF_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f3ec293d7f0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/profile_images/2015886921612816384/0PGH1PJP_normal.jpg": {
       "status": "done",
@@ -7239,7 +7239,7 @@
       "last_updated": "2026-08-26T17:23:36"
     },
     "20260718181415_twitter_com_wwwyizhiku_status_2078543889368010835.json": {
-      "status": "done",
+      "status": "failed",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HNdb-ibXsAEYpGw.jpg"
@@ -7250,7 +7250,7 @@
           "https://pbs.twimg.com/profile_images/2073510026392530944/SBEUyQ_c_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-26T18:06:05",
+      "last_updated": "2026-08-26T18:14:58",
       "miss_count": 2
     },
     "20260718181520_twitter_com_wwwyizhiku_status_2078544161515487727.json": {
@@ -8694,7 +8694,7 @@
       "last_updated": "2026-08-26T17:23:36"
     },
     "20260721143135_twitter_com_wwwyizhiku_status_2079575017285923053.json": {
-      "status": "done",
+      "status": "failed",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HNwZST4XcAAwlH0.jpg"
@@ -8705,7 +8705,7 @@
           "https://pbs.twimg.com/profile_images/2073510026392530944/SBEUyQ_c_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-26T18:06:05",
+      "last_updated": "2026-08-26T18:14:58",
       "miss_count": 2
     },
     "20260721143318_twitter_com_wwwyizhiku_status_2079575451161571605.json": {
