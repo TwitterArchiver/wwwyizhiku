@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2077000098836545536",
+    "conversation_id": "2079639293451002158",
+    "created_at": "2026-07-21T19:14:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T20:14:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079646145689911537"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2047699031502319616",
+          "start": 0,
+          "username": "Zxyywyl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079646145689911537",
+    "in_reply_to_user_id": "2047699031502319616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079642068935209228",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Zxyywyl 羞羞脸😳"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077000098836545536",
+        "conversation_id": "2079639293451002158",
+        "created_at": "2026-07-21T19:14:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T20:14:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079646145689911537"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2047699031502319616",
+              "start": 0,
+              "username": "Zxyywyl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079646145689911537",
+        "in_reply_to_user_id": "2047699031502319616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079642068935209228",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zxyywyl 羞羞脸😳"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047699031502319616",
+        "conversation_id": "2079639293451002158",
+        "created_at": "2026-07-21T18:58:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T19:58:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079642068935209228"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2077000098836545536",
+              "start": 0,
+              "username": "wwwyizhiku"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079642068935209228",
+        "in_reply_to_user_id": "2077000098836545536",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079639293451002158",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wwwyizhiku 姐姐你好美呀🤤"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-14T12:04:19.000Z",
+        "description": "kk/哭哭 一只海豹 sh/od内容 努力游出贝加尔湖 互关寻回中…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sealak",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sealak",
+                "start": 0,
+                "url": "https://t.co/mJiD4M1sS9"
+              }
+            ]
+          }
+        },
+        "id": "2077000098836545536",
+        "location": "贝加尔湖畔",
+        "name": "总而言之我哥哥非常非常好",
+        "pinned_tweet_id": "2078769337851154629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077002116032303104/OOsRJMcA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 69,
+          "like_count": 330,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 257
+        },
+        "url": "https://t.co/mJiD4M1sS9",
+        "username": "wwwyizhiku",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-24T15:31:28.000Z",
+        "description": "我们变成现在这样 真的是你想要的吗",
+        "id": "2047699031502319616",
+        "name": "六月",
+        "pinned_tweet_id": "2078809594483093920",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078865899881136128/CdGRkuZI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 99,
+          "like_count": 2710,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 131
+        },
+        "url": "",
+        "username": "Zxyywyl",
+        "verified": false
+      }
+    ]
+  }
+}
