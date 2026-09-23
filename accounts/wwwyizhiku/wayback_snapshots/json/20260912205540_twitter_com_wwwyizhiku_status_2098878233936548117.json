@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2077000098836545536",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      }
+    ],
+    "conversation_id": "2098878233936548117",
+    "created_at": "2026-09-12T20:55:40.000Z",
+    "display_text_range": [
+      0,
+      104
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T21:55:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098878233936548117"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2087523845901049856",
+          "start": 3,
+          "username": "suan4hjwnms"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098878233936548117",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 264
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098633034455253400",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @suan4hjwnms: 病娇:你只能是我的\n重力系:我只有你一个选择\n轻浮系:我是谁的无所谓\n浮力系:我是你的又有什么意义\n电波系:你是我的吗。我想明天去看电影，你去吗？ \n坤系:你是我的我是你的谁"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077000098836545536",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2098878233936548117",
+        "created_at": "2026-09-12T20:55:40.000Z",
+        "display_text_range": [
+          0,
+          104
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T21:55:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098878233936548117"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2087523845901049856",
+              "start": 3,
+              "username": "suan4hjwnms"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098878233936548117",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 264
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098633034455253400",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @suan4hjwnms: 病娇:你只能是我的\n重力系:我只有你一个选择\n轻浮系:我是谁的无所谓\n浮力系:我是你的又有什么意义\n电波系:你是我的吗。我想明天去看电影，你去吗？ \n坤系:你是我的我是你的谁"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2087523845901049856",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2098633034455253400",
+        "created_at": "2026-09-12T04:41:20.000Z",
+        "display_text_range": [
+          0,
+          87
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T05:41:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098633034455253400"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2098633034455253400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 167,
+          "impression_count": 48460,
+          "like_count": 2483,
+          "quote_count": 24,
+          "reply_count": 137,
+          "retweet_count": 264
+        },
+        "reply_settings": "everyone",
+        "text": "病娇:你只能是我的\n重力系:我只有你一个选择\n轻浮系:我是谁的无所谓\n浮力系:我是你的又有什么意义\n电波系:你是我的吗。我想明天去看电影，你去吗？ \n坤系:你是我的我是你的谁"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T12:04:19.000Z",
+        "description": "kk/哭哭 一只海豹 sh/od内容 努力游出贝加尔湖 互关寻回中…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sealak",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sealak",
+                "start": 0,
+                "url": "https://t.co/mJiD4M1sS9"
+              }
+            ]
+          }
+        },
+        "id": "2077000098836545536",
+        "is_identity_verified": false,
+        "location": "贝加尔湖畔",
+        "most_recent_tweet_id": "2098878233936548117",
+        "name": "总而言之我哥哥非常非常好",
+        "pinned_tweet_id": "2079565491266531784",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2077000098836545536/1784030875",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077002116032303104/OOsRJMcA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 181,
+          "following_count": 108,
+          "like_count": 716,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 686
+        },
+        "url": "https://t.co/mJiD4M1sS9",
+        "username": "wwwyizhiku",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-12T12:58:00.000Z",
+        "description": "oder/bpd/pink/🩸\n同类互fo 没回发私信给我就好\n联系不到我找@lyxz738 @T0X1C_R3B0Rn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 38,
+                "username": "lyxz738"
+              },
+              {
+                "end": 60,
+                "start": 47,
+                "username": "T0X1C_R3B0Rn"
+              }
+            ]
+          }
+        },
+        "id": "2087523845901049856",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098873941016346833",
+        "name": "小酸4.0",
+        "pinned_tweet_id": "2088053477302055155",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2087523845901049856/1786665438",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092618861329911808/N4KIRah-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 719,
+          "following_count": 384,
+          "like_count": 711,
+          "listed_count": 1,
+          "media_count": 66,
+          "tweet_count": 708
+        },
+        "url": "",
+        "username": "suan4hjwnms",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

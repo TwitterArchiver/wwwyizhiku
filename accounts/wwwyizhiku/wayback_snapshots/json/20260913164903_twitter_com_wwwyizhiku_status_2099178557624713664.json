@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2077000098836545536",
+    "conversation_id": "2099178557624713664",
+    "created_at": "2026-09-13T16:49:03.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-13T17:49:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099178557624713664"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2054968042107346944",
+          "start": 3,
+          "username": "yangyv_huntun"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099178557624713664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099145133472047247",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yangyv_huntun: 抽奖 为了涨fo\n一等奖一人：奖品1g酸奶葡萄\n二等奖三人：奖品5gpr原粉\n三等奖五人：奖品神秘\n㊙️如果涨到500fo奖励翻倍\n参与条件：需要关注我，点赞评论我的这个帖子\n从这些都做了的宝子们抽奖哦\n截止时间10月1日 https://…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 720,
+        "media_key": "3_2099145125746323456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSGpXsAaMAAzUfZ.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077000098836545536",
+        "conversation_id": "2099178557624713664",
+        "created_at": "2026-09-13T16:49:03.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T17:49:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099178557624713664"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2054968042107346944",
+              "start": 3,
+              "username": "yangyv_huntun"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099178557624713664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099145133472047247",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yangyv_huntun: 抽奖 为了涨fo\n一等奖一人：奖品1g酸奶葡萄\n二等奖三人：奖品5gpr原粉\n三等奖五人：奖品神秘\n㊙️如果涨到500fo奖励翻倍\n参与条件：需要关注我，点赞评论我的这个帖子\n从这些都做了的宝子们抽奖哦\n截止时间10月1日 https://…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099145125746323456"
+          ]
+        },
+        "author_id": "2054968042107346944",
+        "conversation_id": "2099145133472047247",
+        "created_at": "2026-09-13T14:36:14.000Z",
+        "display_text_range": [
+          0,
+          111
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T15:36:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099145133472047247"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uHyCPskQru",
+              "end": 135,
+              "expanded_url": "https://x.com/yangyv_huntun/status/2099145133472047247/photo/1",
+              "media_key": "3_2099145125746323456",
+              "start": 112,
+              "url": "https://t.co/uHyCPskQru"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099145133472047247",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2099145125746323456"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 278,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 24,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "抽奖 为了涨fo\n一等奖一人：奖品1g酸奶葡萄\n二等奖三人：奖品5gpr原粉\n三等奖五人：奖品神秘\n㊙️如果涨到500fo奖励翻倍\n参与条件：需要关注我，点赞评论我的这个帖子\n从这些都做了的宝子们抽奖哦\n截止时间10月1日 https://t.co/uHyCPskQru"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T12:04:19.000Z",
+        "description": "kk/哭哭 一只海豹 sh/od内容 努力游出贝加尔湖 互关寻回中…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sealak",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sealak",
+                "start": 0,
+                "url": "https://t.co/mJiD4M1sS9"
+              }
+            ]
+          }
+        },
+        "id": "2077000098836545536",
+        "is_identity_verified": false,
+        "location": "贝加尔湖畔",
+        "most_recent_tweet_id": "2099178573735112986",
+        "name": "总而言之我哥哥非常非常好",
+        "pinned_tweet_id": "2079565491266531784",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2077000098836545536/1784030875",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077002116032303104/OOsRJMcA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 180,
+          "following_count": 107,
+          "like_count": 727,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 696
+        },
+        "url": "https://t.co/mJiD4M1sS9",
+        "username": "wwwyizhiku",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-14T16:52:28.000Z",
+        "description": "前世：yangyan_huntun寻回互关中\nINTP | 双相已确诊 | 喜扩列  | 06/185 |  bi男  |  细胞神曲 重返未来1999  | oder | 术力口 | 💊🔪🚬🍺🍥🍬全肯定\n下面是匿名提问，随便问捏",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yangyan_huntun",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yangyan_huntun",
+                "start": 0,
+                "url": "https://t.co/BzlAM4DgrC"
+              }
+            ]
+          }
+        },
+        "id": "2054968042107346944",
+        "is_identity_verified": false,
+        "location": "重塑之手",
+        "most_recent_tweet_id": "2099156847605457128",
+        "name": "羊🐏言转生2.0(毛元璋形态)",
+        "pinned_tweet_id": "2090077682755412427",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054968042107346944/1787131897",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090008776548159488/NC9zVCI7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 282,
+          "like_count": 472,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 134
+        },
+        "url": "https://t.co/BzlAM4DgrC",
+        "username": "yangyv_huntun",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

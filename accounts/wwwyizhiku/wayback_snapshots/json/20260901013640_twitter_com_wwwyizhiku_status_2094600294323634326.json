@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2077000098836545536",
+    "conversation_id": "2094002247088873939",
+    "created_at": "2026-09-01T01:36:40.000Z",
+    "display_text_range": [
+      10,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-01T02:36:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094600294323634326"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2057729979677548544",
+          "start": 0,
+          "username": "Numiouoo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094600294323634326",
+    "in_reply_to_user_id": "2057729979677548544",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094002247088873939",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Numiouoo 好甜呀…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077000098836545536",
+        "conversation_id": "2094002247088873939",
+        "created_at": "2026-09-01T01:36:40.000Z",
+        "display_text_range": [
+          10,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T02:36:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094600294323634326"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2057729979677548544",
+              "start": 0,
+              "username": "Numiouoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094600294323634326",
+        "in_reply_to_user_id": "2057729979677548544",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094002247088873939",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Numiouoo 好甜呀…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2094002247088873939",
+        "created_at": "2026-08-30T10:00:15.000Z",
+        "display_text_range": [
+          0,
+          71
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T11:00:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094002247088873939"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2094002247088873939",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1864,
+          "like_count": 77,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "十七：刚才疯狂舔你照片\n糯米：啊啊啊啊啊啊啊啊啊啊\n十七：本来只是想亲一下的 亲一下就忍不住了 \n糯米：《只蹭蹭不进去》十七版：《只亲亲不舔》"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T12:04:19.000Z",
+        "description": "kk/哭哭 一只海豹 sh/od内容 努力游出贝加尔湖 互关寻回中…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sealak",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sealak",
+                "start": 0,
+                "url": "https://t.co/mJiD4M1sS9"
+              }
+            ]
+          }
+        },
+        "id": "2077000098836545536",
+        "is_identity_verified": false,
+        "location": "贝加尔湖畔",
+        "most_recent_tweet_id": "2094600294323634326",
+        "name": "总而言之我哥哥非常非常好",
+        "pinned_tweet_id": "2079565491266531784",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2077000098836545536/1784030875",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077002116032303104/OOsRJMcA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 176,
+          "following_count": 100,
+          "like_count": 664,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 620
+        },
+        "url": "https://t.co/mJiD4M1sS9",
+        "username": "wwwyizhiku",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护大家🩷爱与和平🩷偏爱@fanwei_17\n疯狗但温良🩵成分请看置顶🩵互动眼熟了会回fo(互关重生请直接d我!)🩵我素non-binary友跨友全部🩵ND社交过载⚠️⚠️请勿私信⚠️⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "fanwei_17"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094397222544953462",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2057729979677548544/1779436201",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2170,
+          "following_count": 972,
+          "like_count": 4459,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 3375
+        },
+        "url": "",
+        "username": "Numiouoo",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

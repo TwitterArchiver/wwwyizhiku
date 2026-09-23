@@ -1,0 +1,325 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2099423066837360640"
+      ],
+      "media_source_tweet_id": [
+        "2099423072344588542"
+      ]
+    },
+    "author_id": "2077000098836545536",
+    "conversation_id": "2099935506188415384",
+    "created_at": "2026-09-15T18:56:54.000Z",
+    "display_text_range": [
+      0,
+      54
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T19:56:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099935506188415384"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 30,
+          "start": 19,
+          "tag": "ANON_TOKYO"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1515174423799955461",
+          "start": 3,
+          "username": "Oraora_oekaki"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/omndqH8z5g",
+          "end": 54,
+          "expanded_url": "https://x.com/Oraora_oekaki/status/2099423072344588542/photo/1",
+          "media_key": "3_2099423066837360640",
+          "start": 31,
+          "url": "https://t.co/omndqH8z5g"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099935506188415384",
+    "lang": "qme",
+    "media_metadata": [
+      {
+        "media_key": "3_2099423066837360640"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3115
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099423072344588542",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Oraora_oekaki: #ANON_TOKYO https://t.co/omndqH8z5g"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2099423066837360640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSKmJ_QaIAAZbea.jpg",
+        "width": 1449
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099423066837360640"
+          ],
+          "media_source_tweet_id": [
+            "2099423072344588542"
+          ]
+        },
+        "author_id": "2077000098836545536",
+        "conversation_id": "2099935506188415384",
+        "created_at": "2026-09-15T18:56:54.000Z",
+        "display_text_range": [
+          0,
+          54
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T19:56:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099935506188415384"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 30,
+              "start": 19,
+              "tag": "ANON_TOKYO"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1515174423799955461",
+              "start": 3,
+              "username": "Oraora_oekaki"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/omndqH8z5g",
+              "end": 54,
+              "expanded_url": "https://x.com/Oraora_oekaki/status/2099423072344588542/photo/1",
+              "media_key": "3_2099423066837360640",
+              "start": 31,
+              "url": "https://t.co/omndqH8z5g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099935506188415384",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2099423066837360640"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3115
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099423072344588542",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Oraora_oekaki: #ANON_TOKYO https://t.co/omndqH8z5g"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099423066837360640"
+          ]
+        },
+        "author_id": "1515174423799955461",
+        "conversation_id": "2099423072344588542",
+        "created_at": "2026-09-14T09:00:40.000Z",
+        "display_text_range": [
+          0,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T10:00:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099423072344588542"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 0,
+              "tag": "ANON_TOKYO"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/omndqH8z5g",
+              "end": 35,
+              "expanded_url": "https://x.com/Oraora_oekaki/status/2099423072344588542/photo/1",
+              "media_key": "3_2099423066837360640",
+              "start": 12,
+              "url": "https://t.co/omndqH8z5g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099423072344588542",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2099423066837360640"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3118,
+          "impression_count": 226916,
+          "like_count": 22946,
+          "quote_count": 71,
+          "reply_count": 5,
+          "retweet_count": 3115
+        },
+        "reply_settings": "everyone",
+        "text": "#ANON_TOKYO https://t.co/omndqH8z5g"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T12:04:19.000Z",
+        "description": "kk/哭哭 一只海豹 sh/od内容 努力游出贝加尔湖 互关寻回中…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sealak",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sealak",
+                "start": 0,
+                "url": "https://t.co/mJiD4M1sS9"
+              }
+            ]
+          }
+        },
+        "id": "2077000098836545536",
+        "is_identity_verified": false,
+        "location": "贝加尔湖畔",
+        "most_recent_tweet_id": "2099935506188415384",
+        "name": "总而言之我哥哥非常非常好",
+        "pinned_tweet_id": "2079565491266531784",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2077000098836545536/1784030875",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077002116032303104/OOsRJMcA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 178,
+          "following_count": 107,
+          "like_count": 728,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 698
+        },
+        "url": "https://t.co/mJiD4M1sS9",
+        "username": "wwwyizhiku",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-04-16T03:45:21.000Z",
+        "description": "ﾏｼｭﾏﾛ:https://t.co/NDaZgxrXg5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/yrlym04x3e3fkh…",
+                "end": 29,
+                "expanded_url": "https://marshmallow-qa.com/yrlym04x3e3fkhb?t=SXi5F7&utm_medium=url_text&utm_source=promotion",
+                "start": 6,
+                "url": "https://t.co/NDaZgxrXg5"
+              }
+            ]
+          }
+        },
+        "id": "1515174423799955461",
+        "is_identity_verified": false,
+        "location": "無断転載・無断使用禁止　AIもダメ！",
+        "most_recent_tweet_id": "2099860855009755258",
+        "name": "おら",
+        "pinned_tweet_id": "2057692953930580286",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1515174423799955461/1786426921",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057163128631341056/UwrW-qIO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9392,
+          "following_count": 93,
+          "like_count": 2736,
+          "listed_count": 72,
+          "media_count": 284,
+          "tweet_count": 823
+        },
+        "url": "",
+        "username": "Oraora_oekaki",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2077000098836545536",
+    "conversation_id": "2097252773297308033",
+    "created_at": "2026-09-08T09:16:40.000Z",
+    "display_text_range": [
+      0,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T10:16:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097252773297308033"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2057729979677548544",
+          "start": 3,
+          "username": "Numiouoo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097252773297308033",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096958810447593892",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Numiouoo: 我："
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077000098836545536",
+        "conversation_id": "2097252773297308033",
+        "created_at": "2026-09-08T09:16:40.000Z",
+        "display_text_range": [
+          0,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T10:16:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097252773297308033"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2057729979677548544",
+              "start": 3,
+              "username": "Numiouoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097252773297308033",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096958810447593892",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Numiouoo: 我："
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2096958810447593892",
+        "created_at": "2026-09-07T13:48:34.000Z",
+        "display_text_range": [
+          0,
+          2
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T14:48:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096958810447593892"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xzdrbrugcrjnzr…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/xzdrbrugcrjnzrd/status/2096537473891684566",
+              "start": 3,
+              "url": "https://t.co/90d6WAksWb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096958810447593892",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1556,
+          "like_count": 37,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096537473891684566",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我： https://t.co/90d6WAksWb"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T12:04:19.000Z",
+        "description": "kk/哭哭 一只海豹 sh/od内容 努力游出贝加尔湖 互关寻回中…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sealak",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sealak",
+                "start": 0,
+                "url": "https://t.co/mJiD4M1sS9"
+              }
+            ]
+          }
+        },
+        "id": "2077000098836545536",
+        "is_identity_verified": false,
+        "location": "贝加尔湖畔",
+        "most_recent_tweet_id": "2097252773297308033",
+        "name": "总而言之我哥哥非常非常好",
+        "pinned_tweet_id": "2079565491266531784",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2077000098836545536/1784030875",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077002116032303104/OOsRJMcA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 179,
+          "following_count": 105,
+          "like_count": 690,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 659
+        },
+        "url": "https://t.co/mJiD4M1sS9",
+        "username": "wwwyizhiku",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护大家🩷爱与和平🩷偏爱@fanwei_17\n疯狗但温良🩵成分请看置顶🩵互动眼熟了会回fo(互关重生请直接d我!)🩵我素non-binary友跨友全部🩵ND社交过载⚠️⚠️请勿私信⚠️⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "fanwei_17"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097232469791772844",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2057729979677548544/1779436201",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2194,
+          "following_count": 970,
+          "like_count": 4670,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 3445
+        },
+        "url": "",
+        "username": "Numiouoo",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

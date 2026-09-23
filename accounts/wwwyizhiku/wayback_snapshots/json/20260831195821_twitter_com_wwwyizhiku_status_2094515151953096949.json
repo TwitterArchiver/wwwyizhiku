@@ -1,0 +1,368 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2077000098836545536",
+    "conversation_id": "2094515151953096949",
+    "created_at": "2026-08-31T19:58:21.000Z",
+    "display_text_range": [
+      0,
+      10
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T20:58:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2094515151953096949"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Yuiko114514/st…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/Yuiko114514/status/2094263819782742357",
+          "start": 11,
+          "url": "https://t.co/Zyr1reyssN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094515151953096949",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094263819782742357",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这个我是真的喜欢呀… https://t.co/Zyr1reyssN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1258,
+        "media_key": "3_2094263813923364864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRBR18bbYAAfIB-.jpg",
+        "width": 1258
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077000098836545536",
+        "conversation_id": "2094515151953096949",
+        "created_at": "2026-08-31T19:58:21.000Z",
+        "display_text_range": [
+          0,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T20:58:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094515151953096949"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Yuiko114514/st…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/Yuiko114514/status/2094263819782742357",
+              "start": 11,
+              "url": "https://t.co/Zyr1reyssN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094515151953096949",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094263819782742357",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个我是真的喜欢呀… https://t.co/Zyr1reyssN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094263813923364864"
+          ]
+        },
+        "author_id": "1992627685798137856",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "2094263819782742357",
+        "created_at": "2026-08-31T03:19:38.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T04:19:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094263819782742357"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/In81KeVLG4",
+              "end": 28,
+              "expanded_url": "https://x.com/Yuiko114514/status/2094263819782742357/photo/1",
+              "media_key": "3_2094263813923364864",
+              "start": 5,
+              "url": "https://t.co/In81KeVLG4"
+            },
+            {
+              "display_url": "x.com/bang_dream_on/…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/bang_dream_on/status/2094228680394551790",
+              "start": 29,
+              "url": "https://t.co/kBQFmiVI1V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094263819782742357",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094263813923364864"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 794,
+          "impression_count": 158604,
+          "like_count": 4638,
+          "quote_count": 90,
+          "reply_count": 35,
+          "retweet_count": 433
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094228680394551790",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "来都来了 https://t.co/In81KeVLG4 https://t.co/kBQFmiVI1V"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T12:04:19.000Z",
+        "description": "kk/哭哭 一只海豹 sh/od内容 努力游出贝加尔湖 互关寻回中…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sealak",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sealak",
+                "start": 0,
+                "url": "https://t.co/mJiD4M1sS9"
+              }
+            ]
+          }
+        },
+        "id": "2077000098836545536",
+        "is_identity_verified": false,
+        "location": "贝加尔湖畔",
+        "most_recent_tweet_id": "2094515151953096949",
+        "name": "总而言之我哥哥非常非常好",
+        "pinned_tweet_id": "2079565491266531784",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2077000098836545536/1784030875",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077002116032303104/OOsRJMcA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 176,
+          "following_count": 100,
+          "like_count": 654,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 616
+        },
+        "url": "https://t.co/mJiD4M1sS9",
+        "username": "wwwyizhiku",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-23T16:14:10.000Z",
+        "description": "🧭#一瞬一瞬で一生 🌸🍊🐧🐱🐼",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 9,
+                "start": 1,
+                "tag": "一瞬一瞬で一生"
+              }
+            ]
+          }
+        },
+        "id": "1992627685798137856",
+        "is_identity_verified": false,
+        "location": "月ノ森女子学園",
+        "most_recent_tweet_id": "2094471167298183629",
+        "name": "家人",
+        "pinned_tweet_id": "2069700513747378382",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1992627685798137856/1787797481",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094343999238848512/rDJC9Lvd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2381,
+          "following_count": 1191,
+          "like_count": 19860,
+          "listed_count": 9,
+          "media_count": 2970,
+          "tweet_count": 8739
+        },
+        "url": "",
+        "username": "Yuiko114514",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2077000098836545536",
+    "conversation_id": "2094712754812919827",
+    "created_at": "2026-09-02T04:34:49.000Z",
+    "display_text_range": [
+      14,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T05:34:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095007515138297964"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1687876238474629120",
+          "start": 0,
+          "username": "AgNo3_xq0719"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095007515138297964",
+    "in_reply_to_user_id": "1687876238474629120",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094712754812919827",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AgNo3_xq0719 蹲蹲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077000098836545536",
+        "conversation_id": "2094712754812919827",
+        "created_at": "2026-09-02T04:34:49.000Z",
+        "display_text_range": [
+          14,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T05:34:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095007515138297964"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1687876238474629120",
+              "start": 0,
+              "username": "AgNo3_xq0719"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095007515138297964",
+        "in_reply_to_user_id": "1687876238474629120",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094712754812919827",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AgNo3_xq0719 蹲蹲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687876238474629120",
+        "conversation_id": "2094712754812919827",
+        "created_at": "2026-09-01T09:03:33.000Z",
+        "display_text_range": [
+          0,
+          76
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T10:03:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094712754812919827"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2094712754812919827",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 895,
+          "like_count": 48,
+          "quote_count": 0,
+          "reply_count": 30,
+          "retweet_count": 32
+        },
+        "reply_settings": "everyone",
+        "text": "求互关 发个抽奖吧 参加需要关注➕评论➕点赞➕转发\n第一 2版玉米\n第二1版玉米*2\n第三5.2 *3\n需要关注哦 我的属性在主页\n9.2号12:00开"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T12:04:19.000Z",
+        "description": "kk/哭哭 一只海豹 sh/od内容 努力游出贝加尔湖 互关寻回中…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sealak",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sealak",
+                "start": 0,
+                "url": "https://t.co/mJiD4M1sS9"
+              }
+            ]
+          }
+        },
+        "id": "2077000098836545536",
+        "is_identity_verified": false,
+        "location": "贝加尔湖畔",
+        "most_recent_tweet_id": "2095007515138297964",
+        "name": "总而言之我哥哥非常非常好",
+        "pinned_tweet_id": "2079565491266531784",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2077000098836545536/1784030875",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077002116032303104/OOsRJMcA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 173,
+          "following_count": 100,
+          "like_count": 665,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 623
+        },
+        "url": "https://t.co/mJiD4M1sS9",
+        "username": "wwwyizhiku",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-08-05T17:20:44.000Z",
+        "description": "09｜od｜自伤｜双相情感障碍｜istp-t｜爱人@llzvkeai @NiimiyaHoshi @fngkli131022",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 25,
+                "username": "llzvkeai"
+              },
+              {
+                "end": 48,
+                "start": 35,
+                "username": "NiimiyaHoshi"
+              },
+              {
+                "end": 62,
+                "start": 49,
+                "username": "fngkli131022"
+              }
+            ]
+          }
+        },
+        "id": "1687876238474629120",
+        "is_identity_verified": false,
+        "location": "普瑞巴林星球",
+        "most_recent_tweet_id": "2094801974650867953",
+        "name": "硝酸银#浅（三世）",
+        "pinned_tweet_id": "2085337710705954839",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1687876238474629120/1777450045",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094034451638747136/yTM49hoW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 326,
+          "following_count": 318,
+          "like_count": 775,
+          "listed_count": 1,
+          "media_count": 25,
+          "tweet_count": 354
+        },
+        "url": "",
+        "username": "AgNo3_xq0719",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

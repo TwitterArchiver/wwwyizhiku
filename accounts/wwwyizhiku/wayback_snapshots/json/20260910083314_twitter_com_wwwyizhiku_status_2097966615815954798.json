@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2077000098836545536",
+    "conversation_id": "2097966615815954798",
+    "created_at": "2026-09-10T08:33:14.000Z",
+    "display_text_range": [
+      0,
+      87
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T09:33:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097966615815954798"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2088462331332198400",
+          "start": 3,
+          "username": "AgNo3xq0719"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097966615815954798",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 62
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097319455449903211",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AgNo3xq0719: 为了寻回互关 我决定发个抽奖\n一等奖 52r*1\n二等奖15r*2\n三等奖5.2r*3\n点赞 关注 转发 评论参加\n9.10 12:00开奖"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077000098836545536",
+        "conversation_id": "2097966615815954798",
+        "created_at": "2026-09-10T08:33:14.000Z",
+        "display_text_range": [
+          0,
+          87
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T09:33:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097966615815954798"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2088462331332198400",
+              "start": 3,
+              "username": "AgNo3xq0719"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097966615815954798",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 62
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097319455449903211",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AgNo3xq0719: 为了寻回互关 我决定发个抽奖\n一等奖 52r*1\n二等奖15r*2\n三等奖5.2r*3\n点赞 关注 转发 评论参加\n9.10 12:00开奖"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2088462331332198400",
+        "conversation_id": "2097319455449903211",
+        "created_at": "2026-09-08T13:41:39.000Z",
+        "display_text_range": [
+          0,
+          70
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T14:41:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097319455449903211"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2097319455449903211",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1999,
+          "like_count": 82,
+          "quote_count": 1,
+          "reply_count": 59,
+          "retweet_count": 62
+        },
+        "reply_settings": "everyone",
+        "text": "为了寻回互关 我决定发个抽奖\n一等奖 52r*1\n二等奖15r*2\n三等奖5.2r*3\n点赞 关注 转发 评论参加\n9.10 12:00开奖"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T12:04:19.000Z",
+        "description": "kk/哭哭 一只海豹 sh/od内容 努力游出贝加尔湖 互关寻回中…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sealak",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sealak",
+                "start": 0,
+                "url": "https://t.co/mJiD4M1sS9"
+              }
+            ]
+          }
+        },
+        "id": "2077000098836545536",
+        "is_identity_verified": false,
+        "location": "贝加尔湖畔",
+        "most_recent_tweet_id": "2097966615815954798",
+        "name": "总而言之我哥哥非常非常好",
+        "pinned_tweet_id": "2079565491266531784",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2077000098836545536/1784030875",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077002116032303104/OOsRJMcA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 179,
+          "following_count": 107,
+          "like_count": 700,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 672
+        },
+        "url": "https://t.co/mJiD4M1sS9",
+        "username": "wwwyizhiku",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-15T03:07:40.000Z",
+        "description": "od/自伤/双相 想和女孩子互fo 同类互fo  直接关注就行看到会回 杯子@NiimiyaHoshi @llzvkeai @fngkli131022",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 38,
+                "username": "NiimiyaHoshi"
+              },
+              {
+                "end": 61,
+                "start": 52,
+                "username": "llzvkeai"
+              },
+              {
+                "end": 75,
+                "start": 62,
+                "username": "fngkli131022"
+              }
+            ]
+          }
+        },
+        "id": "2088462331332198400",
+        "is_identity_verified": false,
+        "location": "普瑞巴林星球",
+        "most_recent_tweet_id": "2097956550778429775",
+        "name": "硝酸银#浅（四世）",
+        "pinned_tweet_id": "2097950796491223170",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2088462331332198400/1788874599",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097318134680301568/re7DCVnf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 122,
+          "like_count": 34,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 26
+        },
+        "url": "",
+        "username": "AgNo3xq0719",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

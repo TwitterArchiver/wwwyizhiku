@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2094514902794727424"
+      ]
+    },
+    "author_id": "2077000098836545536",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2094514960860668252",
+    "created_at": "2026-08-31T19:57:35.000Z",
+    "display_text_range": [
+      0,
+      28
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T20:57:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2094514960860668252"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 28,
+          "id": "1132729630245265408",
+          "start": 20,
+          "username": "pr80net"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hg4A9zAdj4",
+          "end": 52,
+          "expanded_url": "https://x.com/wwwyizhiku/status/2094514960860668252/photo/1",
+          "media_key": "3_2094514902794727424",
+          "start": 29,
+          "url": "https://t.co/hg4A9zAdj4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094514960860668252",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2094514902794727424"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "然后…爱来自zakky鸡叔…\n感谢喵…\n@pr80net https://t.co/hg4A9zAdj4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2094514902794727424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRE2NPXXcAAYOIw.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094514902794727424"
+          ]
+        },
+        "author_id": "2077000098836545536",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2094514960860668252",
+        "created_at": "2026-08-31T19:57:35.000Z",
+        "display_text_range": [
+          0,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T20:57:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094514960860668252"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 28,
+              "id": "1132729630245265408",
+              "start": 20,
+              "username": "pr80net"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hg4A9zAdj4",
+              "end": 52,
+              "expanded_url": "https://x.com/wwwyizhiku/status/2094514960860668252/photo/1",
+              "media_key": "3_2094514902794727424",
+              "start": 29,
+              "url": "https://t.co/hg4A9zAdj4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094514960860668252",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094514902794727424"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "然后…爱来自zakky鸡叔…\n感谢喵…\n@pr80net https://t.co/hg4A9zAdj4"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T12:04:19.000Z",
+        "description": "kk/哭哭 一只海豹 sh/od内容 努力游出贝加尔湖 互关寻回中…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sealak",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sealak",
+                "start": 0,
+                "url": "https://t.co/mJiD4M1sS9"
+              }
+            ]
+          }
+        },
+        "id": "2077000098836545536",
+        "is_identity_verified": false,
+        "location": "贝加尔湖畔",
+        "most_recent_tweet_id": "2094514960860668252",
+        "name": "总而言之我哥哥非常非常好",
+        "pinned_tweet_id": "2079565491266531784",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2077000098836545536/1784030875",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077002116032303104/OOsRJMcA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 176,
+          "following_count": 100,
+          "like_count": 652,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 615
+        },
+        "url": "https://t.co/mJiD4M1sS9",
+        "username": "wwwyizhiku",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-05-26T19:26:03.000Z",
+        "description": "https://t.co/U6cOi5U2lA\n平等尊重每一个人，才能获得每一个人平等的尊重。\n极端冷门药物科普 / 平等交流社区 / 友一切人工回fo\nSponsored by Zakky's @17_ZakkysLab\nCreated by Luvsenberg",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 98,
+                "username": "17_ZakkysLab"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/ilovepr80",
+                "end": 23,
+                "expanded_url": "https://t.me/ilovepr80",
+                "start": 0,
+                "url": "https://t.co/U6cOi5U2lA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pr80.net",
+                "end": 23,
+                "expanded_url": "https://pr80.net/",
+                "start": 0,
+                "url": "https://t.co/Un7kre1jRa"
+              }
+            ]
+          }
+        },
+        "id": "1132729630245265408",
+        "is_identity_verified": false,
+        "location": "永夜安港",
+        "most_recent_tweet_id": "2093429909016441180",
+        "name": "pr80.net 永夜安港",
+        "pinned_tweet_id": "2093316083445063776",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1132729630245265408/1785053954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081293237512474624/vfSaAf5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1258,
+          "following_count": 614,
+          "like_count": 19,
+          "listed_count": 1,
+          "media_count": 109,
+          "tweet_count": 371
+        },
+        "url": "https://t.co/Un7kre1jRa",
+        "username": "pr80net",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

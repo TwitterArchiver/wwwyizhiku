@@ -1,0 +1,365 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2077000098836545536",
+    "conversation_id": "2094774561061601305",
+    "created_at": "2026-09-03T20:11:28.000Z",
+    "display_text_range": [
+      12,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-03T21:11:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095605617020829830"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1665304321066684416",
+          "start": 0,
+          "username": "OoOooo0518"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095605617020829830",
+    "in_reply_to_user_id": "1665304321066684416",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094774561061601305",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OoOooo0518 蹲蹲"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2094774525112242176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRIiVP3aUAA9JMX.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077000098836545536",
+        "conversation_id": "2094774561061601305",
+        "created_at": "2026-09-03T20:11:28.000Z",
+        "display_text_range": [
+          12,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T21:11:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095605617020829830"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1665304321066684416",
+              "start": 0,
+              "username": "OoOooo0518"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095605617020829830",
+        "in_reply_to_user_id": "1665304321066684416",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094774561061601305",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OoOooo0518 蹲蹲"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094774525112242176"
+          ]
+        },
+        "author_id": "1665304321066684416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2094774561061601305",
+        "created_at": "2026-09-01T13:09:09.000Z",
+        "display_text_range": [
+          0,
+          96
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T14:09:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094774561061601305"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 61,
+              "start": 58,
+              "tag": "od"
+            },
+            {
+              "end": 71,
+              "start": 62,
+              "tag": "overdose"
+            },
+            {
+              "end": 75,
+              "start": 72,
+              "tag": "抽奖"
+            },
+            {
+              "end": 81,
+              "start": 76,
+              "tag": "右美沙芬"
+            },
+            {
+              "end": 86,
+              "start": 82,
+              "tag": "愈美片"
+            },
+            {
+              "end": 90,
+              "start": 87,
+              "tag": "药商"
+            },
+            {
+              "end": 96,
+              "start": 91,
+              "tag": "普瑞巴林"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RFavdFyePv",
+              "end": 120,
+              "expanded_url": "https://x.com/OoOooo0518/status/2094774561061601305/photo/1",
+              "media_key": "3_2094774525112242176",
+              "start": 97,
+              "url": "https://t.co/RFavdFyePv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094774561061601305",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094774525112242176"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2932,
+          "like_count": 65,
+          "quote_count": 0,
+          "reply_count": 50,
+          "retweet_count": 45
+        },
+        "reply_settings": "everyone",
+        "text": "我每一条抽奖帖子底下评论一次都可以增加一次概率哦！我会让grok从我最近所有帖子里面评论➕关注➕点赞➕转发的人里抽！#od #overdose #抽奖 #右美沙芬\n#愈美片 #药商 #普瑞巴林 https://t.co/RFavdFyePv"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T12:04:19.000Z",
+        "description": "kk/哭哭 一只海豹 sh/od内容 努力游出贝加尔湖 互关寻回中…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sealak",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sealak",
+                "start": 0,
+                "url": "https://t.co/mJiD4M1sS9"
+              }
+            ]
+          }
+        },
+        "id": "2077000098836545536",
+        "is_identity_verified": false,
+        "location": "贝加尔湖畔",
+        "most_recent_tweet_id": "2095605617020829830",
+        "name": "总而言之我哥哥非常非常好",
+        "pinned_tweet_id": "2079565491266531784",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2077000098836545536/1784030875",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077002116032303104/OOsRJMcA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 175,
+          "following_count": 103,
+          "like_count": 678,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 642
+        },
+        "url": "https://t.co/mJiD4M1sS9",
+        "username": "wwwyizhiku",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-06-04T10:27:54.000Z",
+        "description": "mtf 重抑重焦 无证含糖 你可以叫我O泡（大一休学中 欢迎互fo 我再次重生的妹妹:@OE3IIGFQRQ9473｜28r/盒出云药愈美片65r/盒出普瑞巴林橙色(150mg)以及免费咨询药物推荐电报联系https://t.co/hleBBuHP7a或X私信 还有：你可以在下面的链接里尽情去寻找你想要的药物",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 43,
+                "username": "OE3IIGFQRQ9473"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/melody_tik",
+                "end": 126,
+                "expanded_url": "http://t.me/melody_tik",
+                "start": 103,
+                "url": "https://t.co/hleBBuHP7a"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "melodytik.github.io/overdose-and-d…",
+                "end": 23,
+                "expanded_url": "https://melodytik.github.io/overdose-and-drugs/",
+                "start": 0,
+                "url": "https://t.co/gVu7qbdlGJ"
+              }
+            ]
+          }
+        },
+        "id": "1665304321066684416",
+        "is_identity_verified": false,
+        "location": "杭州",
+        "most_recent_tweet_id": "2095584039336083792",
+        "name": "OoOooo",
+        "pinned_tweet_id": "2083268021070786824",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1665304321066684416/1770916243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082407067441381376/qdkgUI2W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 835,
+          "following_count": 344,
+          "like_count": 2790,
+          "listed_count": 2,
+          "media_count": 204,
+          "tweet_count": 989
+        },
+        "url": "https://t.co/gVu7qbdlGJ",
+        "username": "OoOooo0518",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

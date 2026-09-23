@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2077000098836545536",
+    "conversation_id": "2099178079516045545",
+    "created_at": "2026-09-15T16:40:54.000Z",
+    "display_text_range": [
+      15,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T17:40:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099901283172036939"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1827754267551395840",
+          "start": 0,
+          "username": "MosaicIceRoll"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099901283172036939",
+    "in_reply_to_user_id": "1827754267551395840",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099530543830638692",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MosaicIceRoll 哭哭"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2099530543830638692].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2099530543830638692",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2099530543830638692"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077000098836545536",
+        "conversation_id": "2099178079516045545",
+        "created_at": "2026-09-15T16:40:54.000Z",
+        "display_text_range": [
+          15,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T17:40:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099901283172036939"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1827754267551395840",
+              "start": 0,
+              "username": "MosaicIceRoll"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099901283172036939",
+        "in_reply_to_user_id": "1827754267551395840",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099530543830638692",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MosaicIceRoll 哭哭"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T12:04:19.000Z",
+        "description": "kk/哭哭 一只海豹 sh/od内容 努力游出贝加尔湖 互关寻回中…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sealak",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sealak",
+                "start": 0,
+                "url": "https://t.co/mJiD4M1sS9"
+              }
+            ]
+          }
+        },
+        "id": "2077000098836545536",
+        "is_identity_verified": false,
+        "location": "贝加尔湖畔",
+        "most_recent_tweet_id": "2099901283172036939",
+        "name": "总而言之我哥哥非常非常好",
+        "pinned_tweet_id": "2079565491266531784",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2077000098836545536/1784030875",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077002116032303104/OOsRJMcA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 178,
+          "following_count": 107,
+          "like_count": 724,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 696
+        },
+        "url": "https://t.co/mJiD4M1sS9",
+        "username": "wwwyizhiku",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-08-25T17:06:04.000Z",
+        "description": "我是冰卷，叫我冰就行，\n避难二号机@IcyRoll777\nshtwt/overdosetwt/edtwt,\n（但是msk一个都不让发。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 17,
+                "username": "IcyRoll777"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ice.mocaic",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ice.mocaic",
+                "start": 0,
+                "url": "https://t.co/cCCiMfEPE4"
+              }
+            ]
+          }
+        },
+        "id": "1827754267551395840",
+        "is_identity_verified": false,
+        "location": "大电池鲶鱼保护中心",
+        "most_recent_tweet_id": "2083942596913877050",
+        "name": "_(:3」∠)_",
+        "pinned_tweet_id": "2086087877658816560",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1827754267551395840/1779860360",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830319129904975873/HzgrEU7m_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 236,
+          "like_count": 713,
+          "listed_count": 0,
+          "media_count": 208,
+          "tweet_count": 1784
+        },
+        "url": "https://t.co/cCCiMfEPE4",
+        "username": "MosaicIceRoll",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

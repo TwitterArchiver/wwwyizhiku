@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2077000098836545536",
+    "conversation_id": "2095244235356217484",
+    "created_at": "2026-09-02T20:15:28.000Z",
+    "display_text_range": [
+      0,
+      43
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T21:15:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095244235356217484"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2094632853795692544",
+          "start": 3,
+          "username": "d9nmTT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095244235356217484",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 21
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094725494709404144",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @d9nmTT: 帮我转转宝贝们 抽取 2t 200mg的噻奈普汀 （酸奶葡萄）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077000098836545536",
+        "conversation_id": "2095244235356217484",
+        "created_at": "2026-09-02T20:15:28.000Z",
+        "display_text_range": [
+          0,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T21:15:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095244235356217484"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2094632853795692544",
+              "start": 3,
+              "username": "d9nmTT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095244235356217484",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 21
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094725494709404144",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @d9nmTT: 帮我转转宝贝们 抽取 2t 200mg的噻奈普汀 （酸奶葡萄）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2094632853795692544",
+        "conversation_id": "2094723563286929882",
+        "created_at": "2026-09-01T09:54:10.000Z",
+        "display_text_range": [
+          0,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T10:54:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094725494709404144"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2094725494709404144",
+        "in_reply_to_user_id": "2094632853795692544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 904,
+          "like_count": 19,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 21
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094723563286929882",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "帮我转转宝贝们 抽取 2t 200mg的噻奈普汀 （酸奶葡萄）"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T12:04:19.000Z",
+        "description": "kk/哭哭 一只海豹 sh/od内容 努力游出贝加尔湖 互关寻回中…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sealak",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sealak",
+                "start": 0,
+                "url": "https://t.co/mJiD4M1sS9"
+              }
+            ]
+          }
+        },
+        "id": "2077000098836545536",
+        "is_identity_verified": false,
+        "location": "贝加尔湖畔",
+        "most_recent_tweet_id": "2095244235356217484",
+        "name": "总而言之我哥哥非常非常好",
+        "pinned_tweet_id": "2079565491266531784",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2077000098836545536/1784030875",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077002116032303104/OOsRJMcA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 174,
+          "following_count": 101,
+          "like_count": 667,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 629
+        },
+        "url": "https://t.co/mJiD4M1sS9",
+        "username": "wwwyizhiku",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-01T03:47:55.000Z",
+        "description": "现已成年/13岁抑郁症确诊 /后期混乱性双向重度焦虑/药物会带我们 逃离这扭曲的世界/pcp研究中/wlw/长发p 喜欢社交od妹 欢迎互fo 聊天 做一些合法公开药丸的慈善啦…\n非正常男的不要私信我这是我雷区 前世@Ooopoowooi \n没有回答就是在打包 上班或者在在睡觉哦tg@d9nmTT \n東九是个很温柔的人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 119,
+                "start": 108,
+                "username": "Ooopoowooi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/d9nmtt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/d9nmtt",
+                "start": 0,
+                "url": "https://t.co/lg4BUz5Zsq"
+              }
+            ]
+          }
+        },
+        "id": "2094632853795692544",
+        "is_identity_verified": false,
+        "location": "台湾",
+        "most_recent_tweet_id": "2095242328663548055",
+        "name": "東九2.0(巡回 推u中 ( ̀⌄ ́)问题 私信噢msk我爱你",
+        "pinned_tweet_id": "2095127424296157614",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2094632853795692544/1788345888",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095082409800912896/ZiU2fFb9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 74,
+          "like_count": 49,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 143
+        },
+        "url": "https://t.co/lg4BUz5Zsq",
+        "username": "d9nmTT",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2077000098836545536",
+    "conversation_id": "2097594774278590557",
+    "created_at": "2026-09-09T07:55:40.000Z",
+    "display_text_range": [
+      0,
+      79
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T08:55:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097594774278590557"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1901685825076973568",
+          "start": 3,
+          "username": "rczong666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097594774278590557",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097366218210779493",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rczong666: oder一生哭三次\n\n20240507 单方右美划入精二\n20260420 复方右美网络禁售\n20260901 复方右美列入处方"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077000098836545536",
+        "conversation_id": "2097594774278590557",
+        "created_at": "2026-09-09T07:55:40.000Z",
+        "display_text_range": [
+          0,
+          79
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T08:55:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097594774278590557"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1901685825076973568",
+              "start": 3,
+              "username": "rczong666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097594774278590557",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097366218210779493",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @rczong666: oder一生哭三次\n\n20240507 单方右美划入精二\n20260420 复方右美网络禁售\n20260901 复方右美列入处方"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1901685825076973568",
+        "conversation_id": "2097366218210779493",
+        "created_at": "2026-09-08T16:47:28.000Z",
+        "display_text_range": [
+          0,
+          64
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T17:47:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097366218210779493"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2097366218210779493",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 2391,
+          "like_count": 70,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "oder一生哭三次\n\n20240507 单方右美划入精二\n20260420 复方右美网络禁售\n20260901 复方右美列入处方"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T12:04:19.000Z",
+        "description": "kk/哭哭 一只海豹 sh/od内容 努力游出贝加尔湖 互关寻回中…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sealak",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sealak",
+                "start": 0,
+                "url": "https://t.co/mJiD4M1sS9"
+              }
+            ]
+          }
+        },
+        "id": "2077000098836545536",
+        "is_identity_verified": false,
+        "location": "贝加尔湖畔",
+        "most_recent_tweet_id": "2097594774278590557",
+        "name": "总而言之我哥哥非常非常好",
+        "pinned_tweet_id": "2079565491266531784",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2077000098836545536/1784030875",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077002116032303104/OOsRJMcA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 179,
+          "following_count": 104,
+          "like_count": 693,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 663
+        },
+        "url": "https://t.co/mJiD4M1sS9",
+        "username": "wwwyizhiku",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-03-17T17:24:39.000Z",
+        "description": "大二本科在读｜人工智能专业｜非mtf｜双相｜非二元，爱好是od，玩mc及各种剧情向游戏，不擅长fps，让我在药效中沉沦吧，\n总有一天我会成为药圈大手子",
+        "id": "1901685825076973568",
+        "is_identity_verified": false,
+        "location": "逐渐清醒",
+        "most_recent_tweet_id": "2097366218210779493",
+        "name": "Fσrgεt-Mε-Nσt",
+        "pinned_tweet_id": "2037219160271589538",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1901685825076973568/1770321260",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996278257709395968/3WbiD3Fl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 280,
+          "following_count": 305,
+          "like_count": 226,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 340
+        },
+        "url": "",
+        "username": "rczong666",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

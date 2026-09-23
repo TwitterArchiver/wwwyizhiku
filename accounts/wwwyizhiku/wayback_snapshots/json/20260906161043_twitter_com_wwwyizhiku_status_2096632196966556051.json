@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2077000098836545536",
+    "conversation_id": "2096270071215903057",
+    "created_at": "2026-09-06T16:10:43.000Z",
+    "display_text_range": [
+      12,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T17:10:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096632196966556051"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1665304321066684416",
+          "start": 0,
+          "username": "OoOooo0518"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096632196966556051",
+    "in_reply_to_user_id": "1665304321066684416",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096270071215903057",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OoOooo0518 哦不…抱抱你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077000098836545536",
+        "conversation_id": "2096270071215903057",
+        "created_at": "2026-09-06T16:10:43.000Z",
+        "display_text_range": [
+          12,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T17:10:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096632196966556051"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1665304321066684416",
+              "start": 0,
+              "username": "OoOooo0518"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096632196966556051",
+        "in_reply_to_user_id": "1665304321066684416",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096270071215903057",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OoOooo0518 哦不…抱抱你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1665304321066684416",
+        "conversation_id": "2096270071215903057",
+        "created_at": "2026-09-05T16:11:46.000Z",
+        "display_text_range": [
+          0,
+          69
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T17:11:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096270071215903057"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "od"
+            },
+            {
+              "end": 13,
+              "start": 4,
+              "tag": "overdose"
+            },
+            {
+              "end": 18,
+              "start": 14,
+              "tag": "愈美片"
+            },
+            {
+              "end": 24,
+              "start": 19,
+              "tag": "普瑞巴林"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096270071215903057",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1549,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#od #overdose #愈美片 #普瑞巴林\n不打算干了，大家也不要来找我买药了，危险大上面给的钱还少，哎，也不知道接下来该怎么活……"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T12:04:19.000Z",
+        "description": "kk/哭哭 一只海豹 sh/od内容 努力游出贝加尔湖 互关寻回中…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sealak",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sealak",
+                "start": 0,
+                "url": "https://t.co/mJiD4M1sS9"
+              }
+            ]
+          }
+        },
+        "id": "2077000098836545536",
+        "is_identity_verified": false,
+        "location": "贝加尔湖畔",
+        "most_recent_tweet_id": "2096632196966556051",
+        "name": "总而言之我哥哥非常非常好",
+        "pinned_tweet_id": "2079565491266531784",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2077000098836545536/1784030875",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077002116032303104/OOsRJMcA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 179,
+          "following_count": 105,
+          "like_count": 687,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 654
+        },
+        "url": "https://t.co/mJiD4M1sS9",
+        "username": "wwwyizhiku",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-06-04T10:27:54.000Z",
+        "description": "mtf 重抑重焦 无证含糖 你可以叫我O泡（大一休学中 欢迎互fo 我再次重生的妹妹:@OE3IIGFQRQ9473｜免费咨询药物推荐电报联系https://t.co/hleBBuImWI或X私信 还有：你可以在下面的链接里尽情去寻找你想要的药物",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 43,
+                "username": "OE3IIGFQRQ9473"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/melody_tik",
+                "end": 94,
+                "expanded_url": "http://t.me/melody_tik",
+                "start": 71,
+                "url": "https://t.co/hleBBuImWI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "melodytik.github.io/overdose-and-d…",
+                "end": 23,
+                "expanded_url": "https://melodytik.github.io/overdose-and-drugs/",
+                "start": 0,
+                "url": "https://t.co/gVu7qbdTwh"
+              }
+            ]
+          }
+        },
+        "id": "1665304321066684416",
+        "is_identity_verified": false,
+        "location": "杭州",
+        "most_recent_tweet_id": "2096283974012395703",
+        "name": "OoOooo",
+        "pinned_tweet_id": "2083268021070786824",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1665304321066684416/1770916243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082407067441381376/qdkgUI2W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 926,
+          "following_count": 348,
+          "like_count": 2809,
+          "listed_count": 2,
+          "media_count": 201,
+          "tweet_count": 1014
+        },
+        "url": "https://t.co/gVu7qbdTwh",
+        "username": "OoOooo0518",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
