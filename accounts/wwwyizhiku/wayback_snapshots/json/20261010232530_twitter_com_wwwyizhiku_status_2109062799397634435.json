@@ -1,0 +1,562 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2108782927136088064",
+        "3_2108782926888595456"
+      ],
+      "media_source_tweet_id": [
+        "2108782934664835489",
+        "2108782934664835489"
+      ]
+    },
+    "author_id": "2077000098836545536",
+    "conversation_id": "2109062799397634435",
+    "created_at": "2026-10-10T23:25:30.000Z",
+    "display_text_range": [
+      0,
+      124
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-11T00:25:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2109062799397634435"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 79,
+          "start": 76,
+          "tag": "捆绑"
+        },
+        {
+          "end": 88,
+          "start": 80,
+          "tag": "shibari"
+        },
+        {
+          "end": 92,
+          "start": 89,
+          "tag": "绳缚"
+        },
+        {
+          "end": 96,
+          "start": 93,
+          "tag": "绳艺"
+        },
+        {
+          "end": 100,
+          "start": 97,
+          "tag": "束缚"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1933857167557505024",
+          "start": 3,
+          "username": "1ruvatar"
+        },
+        {
+          "end": 37,
+          "id": "2025100878819241984",
+          "start": 22,
+          "username": "mianmian530776"
+        },
+        {
+          "end": 54,
+          "id": "1715039973890793472",
+          "start": 41,
+          "username": "kenji_kojima"
+        },
+        {
+          "end": 73,
+          "id": "1301201378254024704",
+          "start": 58,
+          "username": "MrTogether1227"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/RaiPgwpWW0",
+          "end": 124,
+          "expanded_url": "https://x.com/1ruvatar/status/2108782934664835489/photo/1",
+          "media_key": "3_2108782927136088064",
+          "start": 101,
+          "url": "https://t.co/RaiPgwpWW0"
+        },
+        {
+          "display_url": "pic.x.com/RaiPgwpWW0",
+          "end": 124,
+          "expanded_url": "https://x.com/1ruvatar/status/2108782934664835489/photo/1",
+          "media_key": "3_2108782926888595456",
+          "start": 101,
+          "url": "https://t.co/RaiPgwpWW0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2109062799397634435",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2108782927136088064"
+      },
+      {
+        "media_key": "3_2108782926888595456"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 77
+    },
+    "referenced_tweets": [
+      {
+        "id": "2108782934664835489",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @1ruvatar: 斬缚少女\n♀️:@mianmian530776 \n🏠:@kenji_kojima \n📷:@MrTogether1227 \n #捆绑 #shibari #绳缚 #绳艺 #束缚 https://t.co/RaiPgwpWW0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 800,
+        "media_key": "3_2108782927136088064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUPm5kBa4AA5Mgt.jpg",
+        "width": 1200
+      },
+      {
+        "height": 800,
+        "media_key": "3_2108782926888595456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUPm5jGacAAhclI.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2108782927136088064",
+            "3_2108782926888595456"
+          ],
+          "media_source_tweet_id": [
+            "2108782934664835489",
+            "2108782934664835489"
+          ]
+        },
+        "author_id": "2077000098836545536",
+        "conversation_id": "2109062799397634435",
+        "created_at": "2026-10-10T23:25:30.000Z",
+        "display_text_range": [
+          0,
+          124
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-11T00:25:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2109062799397634435"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 79,
+              "start": 76,
+              "tag": "捆绑"
+            },
+            {
+              "end": 88,
+              "start": 80,
+              "tag": "shibari"
+            },
+            {
+              "end": 92,
+              "start": 89,
+              "tag": "绳缚"
+            },
+            {
+              "end": 96,
+              "start": 93,
+              "tag": "绳艺"
+            },
+            {
+              "end": 100,
+              "start": 97,
+              "tag": "束缚"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1933857167557505024",
+              "start": 3,
+              "username": "1ruvatar"
+            },
+            {
+              "end": 37,
+              "id": "2025100878819241984",
+              "start": 22,
+              "username": "mianmian530776"
+            },
+            {
+              "end": 54,
+              "id": "1715039973890793472",
+              "start": 41,
+              "username": "kenji_kojima"
+            },
+            {
+              "end": 73,
+              "id": "1301201378254024704",
+              "start": 58,
+              "username": "MrTogether1227"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RaiPgwpWW0",
+              "end": 124,
+              "expanded_url": "https://x.com/1ruvatar/status/2108782934664835489/photo/1",
+              "media_key": "3_2108782927136088064",
+              "start": 101,
+              "url": "https://t.co/RaiPgwpWW0"
+            },
+            {
+              "display_url": "pic.x.com/RaiPgwpWW0",
+              "end": 124,
+              "expanded_url": "https://x.com/1ruvatar/status/2108782934664835489/photo/1",
+              "media_key": "3_2108782926888595456",
+              "start": 101,
+              "url": "https://t.co/RaiPgwpWW0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2109062799397634435",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2108782927136088064"
+          },
+          {
+            "media_key": "3_2108782926888595456"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 77
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108782934664835489",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @1ruvatar: 斬缚少女\n♀️:@mianmian530776 \n🏠:@kenji_kojima \n📷:@MrTogether1227 \n #捆绑 #shibari #绳缚 #绳艺 #束缚 https://t.co/RaiPgwpWW0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2108782927136088064",
+            "3_2108782926888595456"
+          ]
+        },
+        "author_id": "1933857167557505024",
+        "conversation_id": "2108782934664835489",
+        "created_at": "2026-10-10T04:53:25.000Z",
+        "display_text_range": [
+          0,
+          86
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-10T05:53:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2108782934664835489"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 65,
+              "start": 62,
+              "tag": "捆绑"
+            },
+            {
+              "end": 74,
+              "start": 66,
+              "tag": "shibari"
+            },
+            {
+              "end": 78,
+              "start": 75,
+              "tag": "绳缚"
+            },
+            {
+              "end": 82,
+              "start": 79,
+              "tag": "绳艺"
+            },
+            {
+              "end": 86,
+              "start": 83,
+              "tag": "束缚"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 23,
+              "id": "2025100878819241984",
+              "start": 8,
+              "username": "mianmian530776"
+            },
+            {
+              "end": 40,
+              "id": "1715039973890793472",
+              "start": 27,
+              "username": "kenji_kojima"
+            },
+            {
+              "end": 59,
+              "id": "1301201378254024704",
+              "start": 44,
+              "username": "MrTogether1227"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RaiPgwpWW0",
+              "end": 110,
+              "expanded_url": "https://x.com/1ruvatar/status/2108782934664835489/photo/1",
+              "media_key": "3_2108782927136088064",
+              "start": 87,
+              "url": "https://t.co/RaiPgwpWW0"
+            },
+            {
+              "display_url": "pic.x.com/RaiPgwpWW0",
+              "end": 110,
+              "expanded_url": "https://x.com/1ruvatar/status/2108782934664835489/photo/1",
+              "media_key": "3_2108782926888595456",
+              "start": 87,
+              "url": "https://t.co/RaiPgwpWW0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108782934664835489",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2108782927136088064"
+          },
+          {
+            "media_key": "3_2108782926888595456"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 313,
+          "impression_count": 25179,
+          "like_count": 1767,
+          "quote_count": 3,
+          "reply_count": 9,
+          "retweet_count": 77
+        },
+        "reply_settings": "everyone",
+        "text": "斬缚少女\n♀️:@mianmian530776 \n🏠:@kenji_kojima \n📷:@MrTogether1227 \n #捆绑 #shibari #绳缚 #绳艺 #束缚 https://t.co/RaiPgwpWW0"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T12:04:19.000Z",
+        "description": "kk/哭哭 一只海豹 sh/od内容 努力游出贝加尔湖 互关寻回中…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sealak",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sealak",
+                "start": 0,
+                "url": "https://t.co/mJiD4M1sS9"
+              }
+            ]
+          }
+        },
+        "id": "2077000098836545536",
+        "is_identity_verified": false,
+        "location": "贝加尔湖畔",
+        "most_recent_tweet_id": "2109062799397634435",
+        "name": "总而言之我哥哥非常非常好",
+        "pinned_tweet_id": "2079565491266531784",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2077000098836545536/1784030875",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2105774729491529728/HxwkiHiW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 193,
+          "following_count": 124,
+          "like_count": 829,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 798
+        },
+        "url": "https://t.co/mJiD4M1sS9",
+        "username": "wwwyizhiku",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-06-14T12:01:10.000Z",
+        "description": "练绳",
+        "id": "1933857167557505024",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2108782934664835489",
+        "name": "一如",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1933857167557505024/1780991489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074014578518986752/b4mW5ChI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 734,
+          "following_count": 27,
+          "like_count": 14,
+          "listed_count": 6,
+          "media_count": 9,
+          "tweet_count": 17
+        },
+        "url": "",
+        "username": "1ruvatar",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-02-21T06:50:58.000Z",
+        "description": "我好困",
+        "id": "2025100878819241984",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2108817573811044384",
+        "name": "绵绵",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2025100878819241984/1771657076",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086120700381945856/hjRIqanP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 740,
+          "following_count": 18,
+          "like_count": 113,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 40
+        },
+        "url": "",
+        "username": "mianmian530776",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-10-19T16:19:38.000Z",
+        "description": "来自合肥艺术空间 雙影社\n\n什么都可以试一下的一只生理男 轻中度均可一起玩 重度留永久性痕迹害怕捏\n\n#bakushi &  #photographer\n\n有自己的绳屋 转发的图片基本均与本人绳缚 摄影 场地相关 欢迎来一起玩 绳缚 摄影 等体验可V：kenji_kojima",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 59,
+                "start": 51,
+                "tag": "bakushi"
+              },
+              {
+                "end": 76,
+                "start": 63,
+                "tag": "photographer"
+              }
+            ]
+          }
+        },
+        "id": "1715039973890793472",
+        "is_identity_verified": false,
+        "location": "皖A",
+        "most_recent_tweet_id": "2108859321564147886",
+        "name": "kenji_kojima 徐双",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1715039973890793472/1761998275",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060404591808929792/qv_qyfuc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1691,
+          "following_count": 366,
+          "like_count": 335,
+          "listed_count": 10,
+          "media_count": 38,
+          "tweet_count": 266
+        },
+        "url": "",
+        "username": "kenji_kojima",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-09-02T16:52:44.000Z",
+        "description": "s/dom，爱好广泛，喜欢摄影绳缚K9羞辱SP和一些奇奇怪怪，我会把你的天马行空都变成现实。",
+        "id": "1301201378254024704",
+        "is_identity_verified": false,
+        "location": "合肥",
+        "most_recent_tweet_id": "2108786759157112904",
+        "name": "Mr.Together",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1301201378254024704/1599105034",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1498492825301708800/OjYbg3AX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 792,
+          "following_count": 549,
+          "like_count": 1726,
+          "listed_count": 5,
+          "media_count": 17,
+          "tweet_count": 100
+        },
+        "url": "",
+        "username": "MrTogether1227",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2077000098836545536",
+    "conversation_id": "2101767224038130132",
+    "created_at": "2026-09-20T20:15:29.000Z",
+    "display_text_range": [
+      0,
+      51
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-20T21:15:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101767224038130132"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2018452878008938496",
+          "start": 3,
+          "username": "wssy8180"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101767224038130132",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 389
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101251379704500509",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wssy8180: 被质问好爽 被管着好爽 被吃醋好爽 你对我的占有欲窥探欲太低 我真的好失望"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077000098836545536",
+        "conversation_id": "2101767224038130132",
+        "created_at": "2026-09-20T20:15:29.000Z",
+        "display_text_range": [
+          0,
+          51
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T21:15:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101767224038130132"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2018452878008938496",
+              "start": 3,
+              "username": "wssy8180"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101767224038130132",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 389
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101251379704500509",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @wssy8180: 被质问好爽 被管着好爽 被吃醋好爽 你对我的占有欲窥探欲太低 我真的好失望"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018452878008938496",
+        "conversation_id": "2101251379704500509",
+        "created_at": "2026-09-19T10:05:42.000Z",
+        "display_text_range": [
+          0,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T11:05:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101251379704500509"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2101251379704500509",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 117,
+          "impression_count": 101034,
+          "like_count": 2946,
+          "quote_count": 40,
+          "reply_count": 185,
+          "retweet_count": 389
+        },
+        "reply_settings": "everyone",
+        "text": "被质问好爽 被管着好爽 被吃醋好爽 你对我的占有欲窥探欲太低 我真的好失望"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T12:04:19.000Z",
+        "description": "kk/哭哭 一只海豹 sh/od内容 努力游出贝加尔湖 互关寻回中…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sealak",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sealak",
+                "start": 0,
+                "url": "https://t.co/mJiD4M1sS9"
+              }
+            ]
+          }
+        },
+        "id": "2077000098836545536",
+        "is_identity_verified": false,
+        "location": "贝加尔湖畔",
+        "most_recent_tweet_id": "2101767224038130132",
+        "name": "总而言之我哥哥非常非常好",
+        "pinned_tweet_id": "2079565491266531784",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2077000098836545536/1784030875",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077002116032303104/OOsRJMcA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 178,
+          "following_count": 108,
+          "like_count": 735,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 710
+        },
+        "url": "https://t.co/mJiD4M1sS9",
+        "username": "wwwyizhiku",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-02-02T22:34:18.000Z",
+        "description": "可以叫我小c\n讨厌你喜欢你 恨你但爱你\n欢迎女孩们找我聊天^\n匿名https://t.co/lkQD9QfKRH",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%EC%B0%AC58540",
+                "end": 56,
+                "expanded_url": "https://ngl.link/%EC%B0%AC58540",
+                "start": 33,
+                "url": "https://t.co/lkQD9QfKRH"
+              }
+            ]
+          }
+        },
+        "id": "2018452878008938496",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101732498237686132",
+        "name": "찬",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2018452878008938496/1788970564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097005209730129920/zgPmmQ0U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 61,
+          "like_count": 452,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 369
+        },
+        "url": "",
+        "username": "wssy8180",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

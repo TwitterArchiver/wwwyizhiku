@@ -1,0 +1,638 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2077000098836545536",
+    "conversation_id": "2105444030687433097",
+    "created_at": "2026-09-30T23:45:48.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-01T00:45:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105444030687433097"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 124,
+          "start": 121,
+          "tag": "天津"
+        },
+        {
+          "end": 128,
+          "start": 125,
+          "tag": "上海"
+        },
+        {
+          "end": 132,
+          "start": 129,
+          "tag": "成都"
+        },
+        {
+          "end": 136,
+          "start": 133,
+          "tag": "重庆"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1533650309456596993",
+          "start": 3,
+          "username": "weed420nb420"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105444030687433097",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 45
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105117919302844778",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @weed420nb420: 🎁国庆小长假抽奖🎁\n中国人能飞～\n中国人能飞～\n🔁转发参加抽奖10.7号开奖\n选3位粉丝送10g礼包 \n♡♡活动款式以下随机♡♡\nOGkush 白松露 superboof\n迈阿密 大猩猩胶水\n\n活动城市:\n#天津 #上海\n#成都 #重庆 #昆…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2105117913980268544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTbhluEa8AAJbok.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077000098836545536",
+        "conversation_id": "2105444030687433097",
+        "created_at": "2026-09-30T23:45:48.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T00:45:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105444030687433097"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 124,
+              "start": 121,
+              "tag": "天津"
+            },
+            {
+              "end": 128,
+              "start": 125,
+              "tag": "上海"
+            },
+            {
+              "end": 132,
+              "start": 129,
+              "tag": "成都"
+            },
+            {
+              "end": 136,
+              "start": 133,
+              "tag": "重庆"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1533650309456596993",
+              "start": 3,
+              "username": "weed420nb420"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105444030687433097",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 45
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105117919302844778",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @weed420nb420: 🎁国庆小长假抽奖🎁\n中国人能飞～\n中国人能飞～\n🔁转发参加抽奖10.7号开奖\n选3位粉丝送10g礼包 \n♡♡活动款式以下随机♡♡\nOGkush 白松露 superboof\n迈阿密 大猩猩胶水\n\n活动城市:\n#天津 #上海\n#成都 #重庆 #昆…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105117913980268544"
+          ]
+        },
+        "author_id": "1533650309456596993",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2105117919302844778",
+        "created_at": "2026-09-30T02:09:57.000Z",
+        "display_text_range": [
+          0,
+          179
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T03:02:06.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105115943575974214",
+          "2105117919302844778"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 106,
+              "start": 103,
+              "tag": "天津"
+            },
+            {
+              "end": 110,
+              "start": 107,
+              "tag": "上海"
+            },
+            {
+              "end": 114,
+              "start": 111,
+              "tag": "成都"
+            },
+            {
+              "end": 118,
+              "start": 115,
+              "tag": "重庆"
+            },
+            {
+              "end": 122,
+              "start": 119,
+              "tag": "昆明"
+            },
+            {
+              "end": 127,
+              "start": 124,
+              "tag": "贵阳"
+            },
+            {
+              "end": 132,
+              "start": 129,
+              "tag": "广州"
+            },
+            {
+              "end": 136,
+              "start": 133,
+              "tag": "深圳"
+            },
+            {
+              "end": 140,
+              "start": 137,
+              "tag": "珠海"
+            },
+            {
+              "end": 144,
+              "start": 141,
+              "tag": "佛山"
+            },
+            {
+              "end": 149,
+              "start": 146,
+              "tag": "湛江"
+            },
+            {
+              "end": 153,
+              "start": 150,
+              "tag": "汕尾"
+            },
+            {
+              "end": 158,
+              "start": 155,
+              "tag": "南宁"
+            },
+            {
+              "end": 163,
+              "start": 160,
+              "tag": "杭州"
+            },
+            {
+              "end": 167,
+              "start": 164,
+              "tag": "宁波"
+            },
+            {
+              "end": 171,
+              "start": 168,
+              "tag": "义乌"
+            },
+            {
+              "end": 175,
+              "start": 172,
+              "tag": "南京"
+            },
+            {
+              "end": 179,
+              "start": 176,
+              "tag": "苏州"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/74fWhKg8BE",
+              "end": 203,
+              "expanded_url": "https://x.com/weed420nb420/status/2105117919302844778/photo/1",
+              "media_key": "3_2105117913980268544",
+              "start": 180,
+              "url": "https://t.co/74fWhKg8BE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105117919302844778",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2105117913980268544"
+          }
+        ],
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 106,
+                "start": 103,
+                "tag": "天津"
+              },
+              {
+                "end": 110,
+                "start": 107,
+                "tag": "上海"
+              },
+              {
+                "end": 114,
+                "start": 111,
+                "tag": "成都"
+              },
+              {
+                "end": 118,
+                "start": 115,
+                "tag": "重庆"
+              },
+              {
+                "end": 122,
+                "start": 119,
+                "tag": "昆明"
+              },
+              {
+                "end": 127,
+                "start": 124,
+                "tag": "贵阳"
+              },
+              {
+                "end": 132,
+                "start": 129,
+                "tag": "广州"
+              },
+              {
+                "end": 136,
+                "start": 133,
+                "tag": "深圳"
+              },
+              {
+                "end": 140,
+                "start": 137,
+                "tag": "珠海"
+              },
+              {
+                "end": 144,
+                "start": 141,
+                "tag": "佛山"
+              },
+              {
+                "end": 149,
+                "start": 146,
+                "tag": "湛江"
+              },
+              {
+                "end": 153,
+                "start": 150,
+                "tag": "汕尾"
+              },
+              {
+                "end": 158,
+                "start": 155,
+                "tag": "南宁"
+              },
+              {
+                "end": 163,
+                "start": 160,
+                "tag": "杭州"
+              },
+              {
+                "end": 167,
+                "start": 164,
+                "tag": "宁波"
+              },
+              {
+                "end": 171,
+                "start": 168,
+                "tag": "义乌"
+              },
+              {
+                "end": 175,
+                "start": 172,
+                "tag": "南京"
+              },
+              {
+                "end": 179,
+                "start": 176,
+                "tag": "苏州"
+              },
+              {
+                "end": 183,
+                "start": 180,
+                "tag": "无锡"
+              },
+              {
+                "end": 187,
+                "start": 184,
+                "tag": "福州"
+              },
+              {
+                "end": 191,
+                "start": 188,
+                "tag": "厦门"
+              },
+              {
+                "end": 195,
+                "start": 192,
+                "tag": "泉州"
+              },
+              {
+                "end": 200,
+                "start": 197,
+                "tag": "长沙"
+              },
+              {
+                "end": 205,
+                "start": 202,
+                "tag": "九江"
+              },
+              {
+                "end": 209,
+                "start": 206,
+                "tag": "南昌"
+              },
+              {
+                "end": 213,
+                "start": 210,
+                "tag": "上饶"
+              },
+              {
+                "end": 217,
+                "start": 214,
+                "tag": "郑州"
+              },
+              {
+                "end": 221,
+                "start": 218,
+                "tag": "洛阳"
+              },
+              {
+                "end": 225,
+                "start": 222,
+                "tag": "济南"
+              },
+              {
+                "end": 229,
+                "start": 226,
+                "tag": "青岛"
+              },
+              {
+                "end": 233,
+                "start": 230,
+                "tag": "潍坊"
+              },
+              {
+                "end": 237,
+                "start": 234,
+                "tag": "烟台"
+              },
+              {
+                "end": 242,
+                "start": 238,
+                "tag": "石家庄"
+              },
+              {
+                "end": 247,
+                "start": 244,
+                "tag": "邯郸"
+              },
+              {
+                "end": 251,
+                "start": 248,
+                "tag": "廊坊"
+              },
+              {
+                "end": 256,
+                "start": 253,
+                "tag": "西安"
+              },
+              {
+                "end": 260,
+                "start": 257,
+                "tag": "榆林"
+              },
+              {
+                "end": 264,
+                "start": 261,
+                "tag": "三亚"
+              },
+              {
+                "end": 269,
+                "start": 266,
+                "tag": "合肥"
+              },
+              {
+                "end": 275,
+                "start": 272,
+                "tag": "太原"
+              },
+              {
+                "end": 282,
+                "start": 277,
+                "tag": "呼和浩特"
+              }
+            ]
+          },
+          "text": "🎁国庆小长假抽奖🎁\n中国人能飞～\n中国人能飞～\n🔁转发参加抽奖10.7号开奖\n选3位粉丝送10g礼包 \n♡♡活动款式以下随机♡♡\nOGkush 白松露 superboof\n迈阿密 大猩猩胶水\n\n活动城市:\n#天津 #上海\n#成都 #重庆 #昆明 \n#贵阳 \n#广州 #深圳 #珠海 #佛山  #湛江 #汕尾 \n#南宁 \n#杭州 #宁波 #义乌\n#南京 #苏州 #无锡\n#福州 #厦门 #泉州 \n#长沙 \n#九江 #南昌 #上饶\n#郑州 #洛阳\n#济南 #青岛 #潍坊 #烟台\n#石家庄  #邯郸 #廊坊 \n#西安 #榆林\n#三亚 \n#合肥  \n#太原 \n#呼和浩特"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1124,
+          "like_count": 31,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 45
+        },
+        "reply_settings": "everyone",
+        "text": "🎁国庆小长假抽奖🎁\n中国人能飞～\n中国人能飞～\n🔁转发参加抽奖10.7号开奖\n选3位粉丝送10g礼包 \n♡♡活动款式以下随机♡♡\nOGkush 白松露 superboof\n迈阿密 大猩猩胶水\n\n活动城市:\n#天津 #上海\n#成都 #重庆 #昆明 \n#贵阳 \n#广州 #深圳 #珠海 #佛山  #湛江 #汕尾 \n#南宁 \n#杭州 #宁波 #义乌\n#南京 #苏州 https://t.co/74fWhKg8BE"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T12:04:19.000Z",
+        "description": "kk/哭哭 一只海豹 sh/od内容 努力游出贝加尔湖 互关寻回中…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sealak",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sealak",
+                "start": 0,
+                "url": "https://t.co/mJiD4M1sS9"
+              }
+            ]
+          }
+        },
+        "id": "2077000098836545536",
+        "is_identity_verified": false,
+        "location": "贝加尔湖畔",
+        "most_recent_tweet_id": "2105444030687433097",
+        "name": "总而言之我哥哥非常非常好",
+        "pinned_tweet_id": "2079565491266531784",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2077000098836545536/1784030875",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077002116032303104/OOsRJMcA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 172,
+          "following_count": 107,
+          "like_count": 783,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 745
+        },
+        "url": "https://t.co/mJiD4M1sS9",
+        "username": "wwwyizhiku",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-06-06T03:21:53.000Z",
+        "description": "🌿 🍃 大賞\n\nhttps://t.co/kIwgBfjw34\nX -社群建立中\nhttps://t.co/v9JKLfdmLi",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/greensky",
+                "end": 31,
+                "expanded_url": "https://t.me/greensky",
+                "start": 8,
+                "url": "https://t.co/kIwgBfjw34"
+              },
+              {
+                "display_url": "x.com/i/chat/group_j…",
+                "end": 64,
+                "expanded_url": "https://x.com/i/chat/group_join/g2095921411118469576/69WGfuHOu6",
+                "start": 41,
+                "url": "https://t.co/v9JKLfdmLi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/Greensky420",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/Greensky420",
+                "start": 0,
+                "url": "https://t.co/wFewFNiXb7"
+              }
+            ]
+          }
+        },
+        "id": "1533650309456596993",
+        "is_identity_verified": false,
+        "location": "nb420",
+        "most_recent_tweet_id": "2105406831900471522",
+        "name": "Greensky（✈️nb420）大麻",
+        "pinned_tweet_id": "2105117919302844778",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1533650309456596993/1779876966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048103414727667712/I3v2tKNF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1518,
+          "following_count": 390,
+          "like_count": 252,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 760
+        },
+        "url": "https://t.co/wFewFNiXb7",
+        "username": "weed420nb420",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

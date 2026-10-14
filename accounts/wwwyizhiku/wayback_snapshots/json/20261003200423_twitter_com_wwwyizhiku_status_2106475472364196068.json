@@ -1,0 +1,345 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2106218175083790336"
+      ],
+      "media_source_tweet_id": [
+        "2106218182109192637"
+      ]
+    },
+    "author_id": "2077000098836545536",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2106475472364196068",
+    "created_at": "2026-10-03T20:04:23.000Z",
+    "display_text_range": [
+      0,
+      36
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T21:04:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106475472364196068"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2028567611915882496",
+          "start": 3,
+          "username": "am4e0_0"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mgCQG5Wfqv",
+          "end": 36,
+          "expanded_url": "https://x.com/am4e0_0/status/2106218182109192637/photo/1",
+          "media_key": "3_2106218175083790336",
+          "start": 13,
+          "url": "https://t.co/mgCQG5Wfqv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106475472364196068",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2106218175083790336"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 591
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106218182109192637",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @am4e0_0: https://t.co/mgCQG5Wfqv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 608,
+        "media_key": "3_2106218175083790336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTrKRWFXQAAjdHx.jpg",
+        "width": 735
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106218175083790336"
+          ],
+          "media_source_tweet_id": [
+            "2106218182109192637"
+          ]
+        },
+        "author_id": "2077000098836545536",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2106475472364196068",
+        "created_at": "2026-10-03T20:04:23.000Z",
+        "display_text_range": [
+          0,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T21:04:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106475472364196068"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2028567611915882496",
+              "start": 3,
+              "username": "am4e0_0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mgCQG5Wfqv",
+              "end": 36,
+              "expanded_url": "https://x.com/am4e0_0/status/2106218182109192637/photo/1",
+              "media_key": "3_2106218175083790336",
+              "start": 13,
+              "url": "https://t.co/mgCQG5Wfqv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106475472364196068",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2106218175083790336"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 591
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106218182109192637",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @am4e0_0: https://t.co/mgCQG5Wfqv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106218175083790336"
+          ]
+        },
+        "author_id": "2028567611915882496",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2106218182109192637",
+        "created_at": "2026-10-03T03:02:00.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T04:02:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106218182109192637"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mgCQG5Wfqv",
+              "end": 23,
+              "expanded_url": "https://x.com/am4e0_0/status/2106218182109192637/photo/1",
+              "media_key": "3_2106218175083790336",
+              "start": 0,
+              "url": "https://t.co/mgCQG5Wfqv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106218182109192637",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2106218175083790336"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 74,
+          "impression_count": 18473,
+          "like_count": 2059,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 591
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/mgCQG5Wfqv"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T12:04:19.000Z",
+        "description": "kk/哭哭 一只海豹 sh/od内容 努力游出贝加尔湖 互关寻回中…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sealak",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sealak",
+                "start": 0,
+                "url": "https://t.co/mJiD4M1sS9"
+              }
+            ]
+          }
+        },
+        "id": "2077000098836545536",
+        "is_identity_verified": false,
+        "location": "贝加尔湖畔",
+        "most_recent_tweet_id": "2106475472364196068",
+        "name": "总而言之我哥哥非常非常好",
+        "pinned_tweet_id": "2079565491266531784",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2077000098836545536/1784030875",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2105774729491529728/HxwkiHiW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 181,
+          "following_count": 113,
+          "like_count": 800,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 766
+        },
+        "url": "https://t.co/mJiD4M1sS9",
+        "username": "wwwyizhiku",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-02T20:26:42.000Z",
+        "description": "тhе rеd mеαnѕ ι ℓo͟v͟ꫀ ყoυ .ᐟ\n 𝑰𝑵𝑻𝑷   |    𝒉𝒆/𝒔𝒉𝒆",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@am4e0_0?_r=1&…",
+                "end": 23,
+                "expanded_url": "https://www.tiktok.com/@am4e0_0?_r=1&_t=ZS-99W0TZ7sEHV",
+                "start": 0,
+                "url": "https://t.co/YyU288s1t1"
+              }
+            ]
+          }
+        },
+        "id": "2028567611915882496",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106454630200738051",
+        "name": "—𝑨𝑴𝑨𝑬",
+        "pinned_tweet_id": "2100484142924267843",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2028567611915882496/1788295518",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094889354334191617/CNWLLrd6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 430,
+          "following_count": 417,
+          "like_count": 6668,
+          "listed_count": 0,
+          "media_count": 142,
+          "tweet_count": 660
+        },
+        "url": "https://t.co/YyU288s1t1",
+        "username": "am4e0_0",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

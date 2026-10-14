@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2077000098836545536",
+    "conversation_id": "2109036462079648081",
+    "created_at": "2026-10-10T21:40:51.000Z",
+    "display_text_range": [
+      0,
+      60
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-10T22:40:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2109036462079648081"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1870251262048116736",
+          "start": 3,
+          "username": "Hjjrdihu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2109036462079648081",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 26
+    },
+    "referenced_tweets": [
+      {
+        "id": "2108899405193711851",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Hjjrdihu: 送2份10gpr原粉，评论区评论抽出 。抽着看下 有没有人参与！😋能转发的宝宝就帮忙转发下！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077000098836545536",
+        "conversation_id": "2109036462079648081",
+        "created_at": "2026-10-10T21:40:51.000Z",
+        "display_text_range": [
+          0,
+          60
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-10T22:40:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2109036462079648081"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1870251262048116736",
+              "start": 3,
+              "username": "Hjjrdihu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2109036462079648081",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 26
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108899405193711851",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Hjjrdihu: 送2份10gpr原粉，评论区评论抽出 。抽着看下 有没有人参与！😋能转发的宝宝就帮忙转发下！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870251262048116736",
+        "conversation_id": "2108899405193711851",
+        "created_at": "2026-10-10T12:36:14.000Z",
+        "display_text_range": [
+          0,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-10T13:36:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108899405193711851"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2108899405193711851",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 759,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 37,
+          "retweet_count": 26
+        },
+        "reply_settings": "everyone",
+        "text": "送2份10gpr原粉，评论区评论抽出 。抽着看下 有没有人参与！😋能转发的宝宝就帮忙转发下！"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T12:04:19.000Z",
+        "description": "kk/哭哭 一只海豹 sh/od内容 努力游出贝加尔湖 互关寻回中…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sealak",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sealak",
+                "start": 0,
+                "url": "https://t.co/mJiD4M1sS9"
+              }
+            ]
+          }
+        },
+        "id": "2077000098836545536",
+        "is_identity_verified": false,
+        "location": "贝加尔湖畔",
+        "most_recent_tweet_id": "2109036471231381781",
+        "name": "总而言之我哥哥非常非常好",
+        "pinned_tweet_id": "2079565491266531784",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2077000098836545536/1784030875",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2105774729491529728/HxwkiHiW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 193,
+          "following_count": 124,
+          "like_count": 824,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 793
+        },
+        "url": "https://t.co/mJiD4M1sS9",
+        "username": "wwwyizhiku",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-12-20T23:33:53.000Z",
+        "description": "大量普普哦\n二号：@3kb2i9",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 9,
+                "username": "3kb2i9"
+              }
+            ]
+          }
+        },
+        "id": "1870251262048116736",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2108900985032806819",
+        "name": "奇幻之旅（pr出售）",
+        "pinned_tweet_id": "2108899405193711851",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2107783972902289408/JzM-ko-z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 73,
+          "like_count": 13,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 29
+        },
+        "url": "",
+        "username": "Hjjrdihu",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
